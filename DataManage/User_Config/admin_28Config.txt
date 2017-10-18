@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<RootInfo Version="1.0" Date="2017-02-09" Time="13:05:55">
+    <UserSetConfig>
+        <SelProductInfo RowCnt="3">
+            <ItemRoot1 nOid="82" szProductNo="1D0111-31B" szProductName="技术阵地地面电缆网" />
+            <ItemRoot2 nOid="86" szProductNo="3SJ04-8" szProductName="鱼雷助飞火箭脱插机构电缆" />
+            <ItemRoot3 nOid="89" szProductNo="8Y223-5" szProductName="二级箭上低频电缆网" />
+        </SelProductInfo>
+    </UserSetConfig>
+</RootInfo>

@@ -1,0 +1,2 @@
+[2017-02-15 13:33:48]申请 CMainFrame.OnCreate,NewItemInfo 用时 94 毫秒
+[2017-02-15 13:34:14]CResultSearch::CreateTaskReport() 用时 4773 毫秒

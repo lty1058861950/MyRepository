@@ -1,0 +1,1000 @@
+[2017-03-27 10:31:19]nPos=1000, 结果编号: 编号个数=5, 编号列表=04-006,04-007,04-008,04-009,04-010
+[2017-03-27 10:31:19]nPos=1001, 产品代号：nTaskPos=09, Product_no=YA7-34-1A, 产品代号=YA7-34, 产品系列号=1A
+[2017-03-27 10:31:19]nPos=1002, 产品代号：nTaskPos=09, Product_no=YA7-34-1A, nCodeNumber=24,nCodeCnt=24
+[2017-03-27 10:31:19]nPos=1003, 原始编号: 编号个数=24, 编号描述=03-001~016、018~025
+[2017-03-27 10:31:19]nPos=1004, 结果编号: 编号个数=24, 编号列表=03-001,03-002,03-003,03-004,03-005,03-006,03-007,03-008,03-009,03-010,03-011,03-012,03-013,03-014,03-015,03-016,03-018,03-019,03-020,03-021,03-022,03-023,03-024,03-025
+[2017-03-27 10:31:19]nPos=1005, 产品代号：nTaskPos=10, Product_no=YA7-34-2, 产品代号=YA7-34, 产品系列号=2
+[2017-03-27 10:31:19]nPos=1006, 产品代号：nTaskPos=10, Product_no=YA7-34-2, nCodeNumber=24,nCodeCnt=24
+[2017-03-27 10:31:19]nPos=1007, 原始编号: 编号个数=24, 编号描述=03-026~034、036~050
+[2017-03-27 10:31:19]nPos=1008, 结果编号: 编号个数=24, 编号列表=03-026,03-027,03-028,03-029,03-030,03-031,03-032,03-033,03-034,03-036,03-037,03-038,03-039,03-040,03-041,03-042,03-043,03-044,03-045,03-046,03-047,03-048,03-049,03-050
+[2017-03-27 10:31:19]nPos=1009, 产品代号：nTaskPos=11, Product_no=YA8-141-21, 产品代号=YA8-141, 产品系列号=21
+[2017-03-27 10:31:19]nPos=1010, 产品代号：nTaskPos=11, Product_no=YA8-141-21, nCodeNumber=22,nCodeCnt=22
+[2017-03-27 10:31:19]nPos=1011, 原始编号: 编号个数=22, 编号描述=62-001~022
+[2017-03-27 10:31:19]nPos=1012, 结果编号: 编号个数=22, 编号列表=62-001,62-002,62-003,62-004,62-005,62-006,62-007,62-008,62-009,62-010,62-011,62-012,62-013,62-014,62-015,62-016,62-017,62-018,62-019,62-020,62-021,62-022
+[2017-03-27 10:31:19]nPos=1013, 产品代号：nTaskPos=12, Product_no=CE4-4-12, 产品代号=CE4-4, 产品系列号=12
+[2017-03-27 10:31:19]nPos=1014, 产品代号：nTaskPos=12, Product_no=CE4-4-12, nCodeNumber=5,nCodeCnt=5
+[2017-03-27 10:31:19]nPos=1015, 原始编号: 编号个数=5, 编号描述=04-017~021
+[2017-03-27 10:31:19]nPos=1016, 结果编号: 编号个数=5, 编号列表=04-017,04-018,04-019,04-020,04-021
+[2017-03-27 10:31:19]nPos=1017, 产品代号：nTaskPos=13, Product_no=CE4-4-11, 产品代号=CE4-4, 产品系列号=11
+[2017-03-27 10:31:19]nPos=1018, 产品代号：nTaskPos=13, Product_no=CE4-4-11, nCodeNumber=5,nCodeCnt=5
+[2017-03-27 10:31:19]nPos=1019, 原始编号: 编号个数=5, 编号描述=04-012~016
+[2017-03-27 10:31:19]nPos=1020, 结果编号: 编号个数=5, 编号列表=04-012,04-013,04-014,04-015,04-016
+[2017-03-27 10:31:19]nPos=1021, 产品代号：nTaskPos=14, Product_no=CE4-4-10, 产品代号=CE4-4, 产品系列号=10
+[2017-03-27 10:31:19]nPos=1022, 产品代号：nTaskPos=14, Product_no=CE4-4-10, nCodeNumber=5,nCodeCnt=5
+[2017-03-27 10:31:19]nPos=1023, 原始编号: 编号个数=5, 编号描述=07-007~011
+[2017-03-27 10:31:19]nPos=1024, 结果编号: 编号个数=5, 编号列表=07-007,07-008,07-009,07-010,07-011
+[2017-03-27 10:31:19]nPos=1025, 产品代号：nTaskPos=15, Product_no=CE4-4-9, 产品代号=CE4-4, 产品系列号=9
+[2017-03-27 10:31:19]nPos=1026, 产品代号：nTaskPos=15, Product_no=CE4-4-9, nCodeNumber=6,nCodeCnt=6
+[2017-03-27 10:31:19]nPos=1027, 原始编号: 编号个数=6, 编号描述=04-001~006
+[2017-03-27 10:31:19]nPos=1028, 结果编号: 编号个数=6, 编号列表=04-001,04-002,04-003,04-004,04-005,04-006
+[2017-03-27 10:31:19]nPos=1029, 产品代号：nTaskPos=16, Product_no=CE4-5, 产品代号=CE4-5, 产品系列号=
+[2017-03-27 10:31:19]nPos=1030, 产品代号：nTaskPos=16, Product_no=CE4-5, nCodeNumber=11,nCodeCnt=11
+[2017-03-27 10:31:19]nPos=1031, 原始编号: 编号个数=11, 编号描述=15-001~006、011~015
+[2017-03-27 10:31:19]nPos=1032, 结果编号: 编号个数=11, 编号列表=15-001,15-002,15-003,15-004,15-005,15-006,15-011,15-012,15-013,15-014,15-015
+[2017-03-27 10:31:19]nPos=1033, 产品代号：nTaskPos=17, Product_no=CZ7-4-46, 产品代号=CZ7-4, 产品系列号=46
+[2017-03-27 10:31:19]nPos=1034, 产品代号：nTaskPos=17, Product_no=CZ7-4-46, nCodeNumber=15,nCodeCnt=15
+[2017-03-27 10:31:19]nPos=1035, 原始编号: 编号个数=15, 编号描述=03-086~100
+[2017-03-27 10:31:19]nPos=1036, 结果编号: 编号个数=15, 编号列表=03-086,03-087,03-088,03-089,03-090,03-091,03-092,03-093,03-094,03-095,03-096,03-097,03-098,03-099,03-100
+[2017-03-27 10:31:19]nPos=1037, 产品代号：nTaskPos=18, Product_no=CZ7-4-45, 产品代号=CZ7-4, 产品系列号=45
+[2017-03-27 10:31:19]nPos=1038, 产品代号：nTaskPos=18, Product_no=CZ7-4-45, nCodeNumber=10,nCodeCnt=10
+[2017-03-27 10:31:19]nPos=1039, 原始编号: 编号个数=10, 编号描述=03-076~085
+[2017-03-27 10:31:19]nPos=1040, 结果编号: 编号个数=10, 编号列表=03-076,03-077,03-078,03-079,03-080,03-081,03-082,03-083,03-084,03-085
+[2017-03-27 10:31:19]nPos=1041, 产品代号：nTaskPos=19, Product_no=CZ7-4-44, 产品代号=CZ7-4, 产品系列号=44
+[2017-03-27 10:31:19]nPos=1042, 产品代号：nTaskPos=19, Product_no=CZ7-4-44, nCodeNumber=10,nCodeCnt=10
+[2017-03-27 10:31:19]nPos=1043, 原始编号: 编号个数=10, 编号描述=03-066~075
+[2017-03-27 10:31:19]nPos=1044, 结果编号: 编号个数=10, 编号列表=03-066,03-067,03-068,03-069,03-070,03-071,03-072,03-073,03-074,03-075
+[2017-03-27 10:31:19]nPos=1045, 产品代号：nTaskPos=20, Product_no=CZ7-4-43, 产品代号=CZ7-4, 产品系列号=43
+[2017-03-27 10:31:19]nPos=1046, 产品代号：nTaskPos=20, Product_no=CZ7-4-43, nCodeNumber=20,nCodeCnt=20
+[2017-03-27 10:31:19]nPos=1047, 原始编号: 编号个数=20, 编号描述=03-046~065
+[2017-03-27 10:31:19]nPos=1048, 结果编号: 编号个数=20, 编号列表=03-046,03-047,03-048,03-049,03-050,03-051,03-052,03-053,03-054,03-055,03-056,03-057,03-058,03-059,03-060,03-061,03-062,03-063,03-064,03-065
+[2017-03-27 10:31:19]nPos=1049, 产品代号：nTaskPos=21, Product_no=CZ7-4-5, 产品代号=CZ7-4, 产品系列号=5
+[2017-03-27 10:31:19]nPos=1050, 产品代号：nTaskPos=21, Product_no=CZ7-4-5, nCodeNumber=5,nCodeCnt=5
+[2017-03-27 10:31:19]nPos=1051, 原始编号: 编号个数=5, 编号描述=03-041~045
+[2017-03-27 10:31:19]nPos=1052, 结果编号: 编号个数=5, 编号列表=03-041,03-042,03-043,03-044,03-045
+[2017-03-27 10:31:19]nPos=1053, 产品代号：nTaskPos=22, Product_no=CZ7-4-4, 产品代号=CZ7-4, 产品系列号=4
+[2017-03-27 10:31:19]nPos=1054, 产品代号：nTaskPos=22, Product_no=CZ7-4-4, nCodeNumber=5,nCodeCnt=5
+[2017-03-27 10:31:19]nPos=1055, 原始编号: 编号个数=5, 编号描述=03-036~040
+[2017-03-27 10:31:19]nPos=1056, 结果编号: 编号个数=5, 编号列表=03-036,03-037,03-038,03-039,03-040
+[2017-03-27 10:31:19]nPos=1057, 产品代号：nTaskPos=23, Product_no=CZ7-4-2, 产品代号=CZ7-4, 产品系列号=2
+[2017-03-27 10:31:19]nPos=1058, 产品代号：nTaskPos=23, Product_no=CZ7-4-2, nCodeNumber=5,nCodeCnt=5
+[2017-03-27 10:31:19]nPos=1059, 原始编号: 编号个数=5, 编号描述=03-031~035
+[2017-03-27 10:31:19]nPos=1060, 结果编号: 编号个数=5, 编号列表=03-031,03-032,03-033,03-034,03-035
+[2017-03-27 10:31:19]nPos=1061, 产品代号：nTaskPos=24, Product_no=CZ7-4-1, 产品代号=CZ7-4, 产品系列号=1
+[2017-03-27 10:31:19]nPos=1062, 产品代号：nTaskPos=24, Product_no=CZ7-4-1, nCodeNumber=30,nCodeCnt=30
+[2017-03-27 10:31:19]nPos=1063, 原始编号: 编号个数=30, 编号描述=03-001~030
+[2017-03-27 10:31:19]nPos=1064, 结果编号: 编号个数=30, 编号列表=03-001,03-002,03-003,03-004,03-005,03-006,03-007,03-008,03-009,03-010,03-011,03-012,03-013,03-014,03-015,03-016,03-017,03-018,03-019,03-020,03-021,03-022,03-023,03-024,03-025,03-026,03-027,03-028,03-029,03-030
+[2017-03-27 10:31:19]nPos=1065, 产品代号：nTaskPos=25, Product_no=CY8-36-13, 产品代号=CY8-36, 产品系列号=13
+[2017-03-27 10:31:19]nPos=1066, 产品代号：nTaskPos=25, Product_no=CY8-36-13, nCodeNumber=6,nCodeCnt=6
+[2017-03-27 10:31:19]nPos=1067, 原始编号: 编号个数=6, 编号描述=10-015～020
+[2017-03-27 10:31:19]nPos=1068, 结果编号: 编号个数=6, 编号列表=10-015,10-016,10-017,10-018,10-019,10-020
+[2017-03-27 10:31:19]nPos=1069, 产品代号：nTaskPos=26, Product_no=CY5-12-3, 产品代号=CY5-12, 产品系列号=3
+[2017-03-27 10:31:19]nPos=1070, 产品代号：nTaskPos=26, Product_no=CY5-12-3, nCodeNumber=18,nCodeCnt=18
+[2017-03-27 10:31:19]nPos=1071, 原始编号: 编号个数=18, 编号描述=72-001～018
+[2017-03-27 10:31:19]nPos=1072, 结果编号: 编号个数=18, 编号列表=72-001,72-002,72-003,72-004,72-005,72-006,72-007,72-008,72-009,72-010,72-011,72-012,72-013,72-014,72-015,72-016,72-017,72-018
+[2017-03-27 10:31:19]nPos=1073, 产品代号：nTaskPos=27, Product_no=CY8-29B-13, 产品代号=CY8-29B, 产品系列号=13
+[2017-03-27 10:31:19]nPos=1074, 产品代号：nTaskPos=27, Product_no=CY8-29B-13, nCodeNumber=70,nCodeCnt=70
+[2017-03-27 10:31:19]nPos=1075, 原始编号: 编号个数=70, 编号描述=06-221～290
+[2017-03-27 10:31:19]nPos=1076, 结果编号: 编号个数=70, 编号列表=06-221,06-222,06-223,06-224,06-225,06-226,06-227,06-228,06-229,06-230,06-231,06-232,06-233,06-234,06-235,06-236,06-237,06-238,06-239,06-240,06-241,06-242,06-243,06-244,06-245,06-246,06-247,06-248,06-249,06-250,06-251,06-252,06-253,06-254,06-255,06-256,06-257,06-258,06-259,06-260,06-261,06-262,06-263,06-264,06-265,06-266,06-267,06-268,06-269,06-270,06-271,06-272,06-273,06-274,06-275,06-276,06-277,06-278,06-279,06-280,06-281,06-282,06-283,06-284,06-285,06-286,06-287,06-288,06-289,06-290
+[2017-03-27 10:31:19]nPos=1077, 产品代号：nTaskPos=28, Product_no=CY8-29B-4, 产品代号=CY8-29B, 产品系列号=4
+[2017-03-27 10:31:19]nPos=1078, 产品代号：nTaskPos=28, Product_no=CY8-29B-4, nCodeNumber=25,nCodeCnt=25
+[2017-03-27 10:31:19]nPos=1079, 原始编号: 编号个数=25, 编号描述=06-001～025
+[2017-03-27 10:31:19]nPos=1080, 结果编号: 编号个数=25, 编号列表=06-001,06-002,06-003,06-004,06-005,06-006,06-007,06-008,06-009,06-010,06-011,06-012,06-013,06-014,06-015,06-016,06-017,06-018,06-019,06-020,06-021,06-022,06-023,06-024,06-025
+[2017-03-27 10:31:19]nPos=1081, 产品代号：nTaskPos=29, Product_no=CY5-3-1, 产品代号=CY5-3, 产品系列号=1
+[2017-03-27 10:31:19]nPos=1082, 产品代号：nTaskPos=29, Product_no=CY5-3-1, nCodeNumber=42,nCodeCnt=42
+[2017-03-27 10:31:19]nPos=1083, 原始编号: 编号个数=42, 编号描述=06-001～042
+[2017-03-27 10:31:19]nPos=1084, 结果编号: 编号个数=42, 编号列表=06-001,06-002,06-003,06-004,06-005,06-006,06-007,06-008,06-009,06-010,06-011,06-012,06-013,06-014,06-015,06-016,06-017,06-018,06-019,06-020,06-021,06-022,06-023,06-024,06-025,06-026,06-027,06-028,06-029,06-030,06-031,06-032,06-033,06-034,06-035,06-036,06-037,06-038,06-039,06-040,06-041,06-042
+[2017-03-27 10:31:19]nPos=1085, 产品代号：nTaskPos=30, Product_no=CY8-13-20, 产品代号=CY8-13, 产品系列号=20
+[2017-03-27 10:31:19]nPos=1086, 产品代号：nTaskPos=30, Product_no=CY8-13-20, nCodeNumber=10,nCodeCnt=10
+[2017-03-27 10:31:19]nPos=1087, 原始编号: 编号个数=10, 编号描述=73-031～040
+[2017-03-27 10:31:19]nPos=1088, 结果编号: 编号个数=10, 编号列表=73-031,73-032,73-033,73-034,73-035,73-036,73-037,73-038,73-039,73-040
+[2017-03-27 10:31:19]nPos=1089, 产品代号：nTaskPos=31, Product_no=CY8-13-20, 产品代号=CY8-13, 产品系列号=20
+[2017-03-27 10:31:19]nPos=1090, 产品代号：nTaskPos=31, Product_no=CY8-13-20, nCodeNumber=10,nCodeCnt=10
+[2017-03-27 10:31:19]nPos=1091, 原始编号: 编号个数=10, 编号描述=74-031～040
+[2017-03-27 10:31:19]nPos=1092, 结果编号: 编号个数=10, 编号列表=74-031,74-032,74-033,74-034,74-035,74-036,74-037,74-038,74-039,74-040
+[2017-03-27 10:31:19]nPos=1093, 产品代号：nTaskPos=32, Product_no=CR10-1-1, 产品代号=CR10-1, 产品系列号=1
+[2017-03-27 10:31:19]nPos=1094, 产品代号：nTaskPos=32, Product_no=CR10-1-1, nCodeNumber=11,nCodeCnt=11
+[2017-03-27 10:31:19]nPos=1095, 原始编号: 编号个数=11, 编号描述=03-007~010,012~016,018,019
+[2017-03-27 10:31:19]nPos=1096, 结果编号: 编号个数=11, 编号列表=03-007,03-008,03-009,03-010,03-012,03-013,03-014,03-015,03-016,03-018,03-019
+[2017-03-27 10:31:19]nPos=1097, 产品代号：nTaskPos=33, Product_no=CW1-22, 产品代号=CW1-22, 产品系列号=
+[2017-03-27 10:31:19]nPos=1098, 产品代号：nTaskPos=33, Product_no=CW1-22, nCodeNumber=15,nCodeCnt=15
+[2017-03-27 10:31:19]nPos=1099, 原始编号: 编号个数=15, 编号描述=51-001~015
+[2017-03-27 10:31:19]nPos=1100, 结果编号: 编号个数=15, 编号列表=51-001,51-002,51-003,51-004,51-005,51-006,51-007,51-008,51-009,51-010,51-011,51-012,51-013,51-014,51-015
+[2017-03-27 10:31:19]nPos=1101, 产品代号：nTaskPos=34, Product_no=CW1-22, 产品代号=CW1-22, 产品系列号=
+[2017-03-27 10:31:19]nPos=1102, 产品代号：nTaskPos=34, Product_no=CW1-22, nCodeNumber=115,nCodeCnt=115
+[2017-03-27 10:31:19]nPos=1103, 原始编号: 编号个数=115, 编号描述=50-001~115
+[2017-03-27 10:31:19]nPos=1104, 结果编号: 编号个数=115, 编号列表=50-001,50-002,50-003,50-004,50-005,50-006,50-007,50-008,50-009,50-010,50-011,50-012,50-013,50-014,50-015,50-016,50-017,50-018,50-019,50-020,50-021,50-022,50-023,50-024,50-025,50-026,50-027,50-028,50-029,50-030,50-031,50-032,50-033,50-034,50-035,50-036,50-037,50-038,50-039,50-040,50-041,50-042,50-043,50-044,50-045,50-046,50-047,50-048,50-049,50-050,50-051,50-052,50-053,50-054,50-055,50-056,50-057,50-058,50-059,50-060,50-061,50-062,50-063,50-064,50-065,50-066,50-067,50-068,50-069,50-070,50-071,50-072,50-073,50-074,50-075,50-076,50-077,50-078,50-079,50-080,50-081,50-082,50-083,50-084,50-085,50-086,50-087,50-088,50-089,50-090,50-091,50-092,50-093,50-094,50-095,50-096,50-097,50-098,50-099,50-100,50-101,50-102,50-103,50-104,50-105,50-106,50-107,50-108,50-109,50-110,50-111,50-112,50-113,50-114,50-115
+[2017-03-27 10:31:19]nPos=1105, 产品代号：nTaskPos=35, Product_no=CW1-22, 产品代号=CW1-22, 产品系列号=
+[2017-03-27 10:31:19]nPos=1106, 产品代号：nTaskPos=35, Product_no=CW1-22, nCodeNumber=25,nCodeCnt=25
+[2017-03-27 10:31:19]nPos=1107, 原始编号: 编号个数=25, 编号描述=49-001～025
+[2017-03-27 10:31:19]nPos=1108, 结果编号: 编号个数=25, 编号列表=49-001,49-002,49-003,49-004,49-005,49-006,49-007,49-008,49-009,49-010,49-011,49-012,49-013,49-014,49-015,49-016,49-017,49-018,49-019,49-020,49-021,49-022,49-023,49-024,49-025
+[2017-03-27 10:31:19]nPos=1109, 产品代号：nTaskPos=36, Product_no=YA12-35A, 产品代号=YA12-35A, 产品系列号=
+[2017-03-27 10:31:19]nPos=1110, 产品代号：nTaskPos=36, Product_no=YA12-35A, nCodeNumber=10,nCodeCnt=10
+[2017-03-27 10:31:19]nPos=1111, 原始编号: 编号个数=10, 编号描述=08-001～010
+[2017-03-27 10:31:19]nPos=1112, 结果编号: 编号个数=10, 编号列表=08-001,08-002,08-003,08-004,08-005,08-006,08-007,08-008,08-009,08-010
+[2017-03-27 10:31:19]nPos=1113, 产品代号：nTaskPos=37, Product_no=BKD15-3A/YK2-131, 产品代号=BKD15-3A, 产品系列号=
+[2017-03-27 10:31:19]nPos=1114, 产品代号：nTaskPos=37, Product_no=BKD15-3A/YK2-131, nCodeNumber=4,nCodeCnt=4
+[2017-03-27 10:31:19]nPos=1115, 原始编号: 编号个数=4, 编号描述=06-001~004
+[2017-03-27 10:31:19]nPos=1116, 结果编号: 编号个数=4, 编号列表=06-001,06-002,06-003,06-004
+[2017-03-27 10:31:19]nPos=1117, 产品代号：nTaskPos=38, Product_no=BK15-4/CG29-3-4, 产品代号=BK15-4, 产品系列号=
+[2017-03-27 10:31:19]nPos=1118, 产品代号：nTaskPos=38, Product_no=BK15-4/CG29-3-4, nCodeNumber=6,nCodeCnt=6
+[2017-03-27 10:31:19]nPos=1119, 原始编号: 编号个数=6, 编号描述=06-001.003.005.006.007.008
+[2017-03-27 10:31:19]nPos=1120, 结果编号: 编号个数=6, 编号列表=06-001,06-003,06-005,06-006,06-007,06-008
+[2017-03-27 10:31:19]nPos=1121, 产品代号：nTaskPos=39, Product_no=YK2-273, 产品代号=YK2-273, 产品系列号=
+[2017-03-27 10:31:19]nPos=1122, 产品代号：nTaskPos=39, Product_no=YK2-273, nCodeNumber=1,nCodeCnt=1
+[2017-03-27 10:31:19]nPos=1123, 原始编号: 编号个数=1, 编号描述=04-001
+[2017-03-27 10:31:19]nPos=1124, 结果编号: 编号个数=1, 编号列表=04-001
+[2017-03-27 10:31:19]nPos=1125, 产品代号：nTaskPos=40, Product_no=8D0512-5/YK2-278, 产品代号=8D0512-5, 产品系列号=
+[2017-03-27 10:31:19]nPos=1126, 产品代号：nTaskPos=40, Product_no=8D0512-5/YK2-278, nCodeNumber=2,nCodeCnt=2
+[2017-03-27 10:31:19]nPos=1127, 原始编号: 编号个数=2, 编号描述=03-001,03-002
+[2017-03-27 10:31:19]nPos=1128, 结果编号: 编号个数=2, 编号列表=03-001,03-002
+[2017-03-27 10:31:19]nPos=1129, 产品代号：nTaskPos=41, Product_no=8D0511-5/YK2-277, 产品代号=8D0511-5, 产品系列号=
+[2017-03-27 10:31:19]nPos=1130, 产品代号：nTaskPos=41, Product_no=8D0511-5/YK2-277, nCodeNumber=2,nCodeCnt=2
+[2017-03-27 10:31:19]nPos=1131, 原始编号: 编号个数=2, 编号描述=02-001,02-002
+[2017-03-27 10:31:19]nPos=1132, 结果编号: 编号个数=2, 编号列表=02-001,02-002
+[2017-03-27 10:31:19]nPos=1133, 产品代号：nTaskPos=42, Product_no=2271AM20/CZ3-67, 产品代号=CZ3-67, 产品系列号=
+[2017-03-27 10:31:19]nPos=1134, 产品代号：nTaskPos=42, Product_no=2271AM20/CZ3-67, nCodeNumber=56,nCodeCnt=56
+[2017-03-27 10:31:19]nPos=1135, 原始编号: 编号个数=56, 编号描述=13-080~135
+[2017-03-27 10:31:19]nPos=1136, 结果编号: 编号个数=56, 编号列表=13-080,13-081,13-082,13-083,13-084,13-085,13-086,13-087,13-088,13-089,13-090,13-091,13-092,13-093,13-094,13-095,13-096,13-097,13-098,13-099,13-100,13-101,13-102,13-103,13-104,13-105,13-106,13-107,13-108,13-109,13-110,13-111,13-112,13-113,13-114,13-115,13-116,13-117,13-118,13-119,13-120,13-121,13-122,13-123,13-124,13-125,13-126,13-127,13-128,13-129,13-130,13-131,13-132,13-133,13-134,13-135
+[2017-03-27 10:31:19]nPos=1137, 产品代号：nTaskPos=43, Product_no=2271AM20/CZ3-67, 产品代号=CZ3-67, 产品系列号=
+[2017-03-27 10:31:19]nPos=1138, 产品代号：nTaskPos=43, Product_no=2271AM20/CZ3-67, nCodeNumber=20,nCodeCnt=20
+[2017-03-27 10:31:19]nPos=1139, 原始编号: 编号个数=20, 编号描述=16-001～020
+[2017-03-27 10:31:19]nPos=1140, 结果编号: 编号个数=20, 编号列表=16-001,16-002,16-003,16-004,16-005,16-006,16-007,16-008,16-009,16-010,16-011,16-012,16-013,16-014,16-015,16-016,16-017,16-018,16-019,16-020
+[2017-03-27 10:31:19]nPos=1141, 产品代号：nTaskPos=44, Product_no=7722/CZ3-93, 产品代号=CZ3-93, 产品系列号=
+[2017-03-27 10:31:19]nPos=1142, 产品代号：nTaskPos=44, Product_no=7722/CZ3-93, nCodeNumber=25,nCodeCnt=25
+[2017-03-27 10:31:19]nPos=1143, 原始编号: 编号个数=25, 编号描述=02-001~025
+[2017-03-27 10:31:19]nPos=1144, 结果编号: 编号个数=25, 编号列表=02-001,02-002,02-003,02-004,02-005,02-006,02-007,02-008,02-009,02-010,02-011,02-012,02-013,02-014,02-015,02-016,02-017,02-018,02-019,02-020,02-021,02-022,02-023,02-024,02-025
+[2017-03-27 10:31:19]nPos=1145, 产品代号：nTaskPos=45, Product_no=CZ3-65-2, 产品代号=CZ3-65, 产品系列号=2
+[2017-03-27 10:31:19]nPos=1146, 产品代号：nTaskPos=45, Product_no=CZ3-65-2, nCodeNumber=20,nCodeCnt=20
+[2017-03-27 10:31:19]nPos=1147, 原始编号: 编号个数=20, 编号描述=19-036~055
+[2017-03-27 10:31:19]nPos=1148, 结果编号: 编号个数=20, 编号列表=19-036,19-037,19-038,19-039,19-040,19-041,19-042,19-043,19-044,19-045,19-046,19-047,19-048,19-049,19-050,19-051,19-052,19-053,19-054,19-055
+[2017-03-27 10:31:19]nPos=1149, 产品代号：nTaskPos=46, Product_no=CZ3-65-1, 产品代号=CZ3-65, 产品系列号=1
+[2017-03-27 10:31:19]nPos=1150, 产品代号：nTaskPos=46, Product_no=CZ3-65-1, nCodeNumber=7,nCodeCnt=7
+[2017-03-27 10:31:19]nPos=1151, 原始编号: 编号个数=7, 编号描述=21-038.035.043.020.041.042.023
+[2017-03-27 10:31:19]nPos=1152, 结果编号: 编号个数=7, 编号列表=21-038,21-035,21-043,21-020,21-041,21-042,21-023
+[2017-03-27 10:31:19]nPos=1153, 产品代号：nTaskPos=47, Product_no=CZ3-65-1, 产品代号=CZ3-65, 产品系列号=1
+[2017-03-27 10:31:19]nPos=1154, 产品代号：nTaskPos=47, Product_no=CZ3-65-1, nCodeNumber=10,nCodeCnt=10
+[2017-03-27 10:31:19]nPos=1155, 原始编号: 编号个数=10, 编号描述=20-012.037.013.007.035.009.021.024.019.014
+[2017-03-27 10:31:19]nPos=1156, 结果编号: 编号个数=10, 编号列表=20-012,20-037,20-013,20-007,20-035,20-009,20-021,20-024,20-019,20-014
+[2017-03-27 10:31:19]nPos=1157, 产品代号：nTaskPos=48, Product_no=CW2-42-4, 产品代号=CW2-42, 产品系列号=4
+[2017-03-27 10:31:19]nPos=1158, 产品代号：nTaskPos=48, Product_no=CW2-42-4, nCodeNumber=10,nCodeCnt=10
+[2017-03-27 10:31:19]nPos=1159, 原始编号: 编号个数=10, 编号描述=22-001～22-010
+[2017-03-27 10:31:19]nPos=1160, 结果编号: 编号个数=10, 编号列表=22-001,22-002,22-003,22-004,22-005,22-006,22-007,22-008,22-009,22-010
+[2017-03-27 10:31:19]nPos=1161, 产品代号：nTaskPos=49, Product_no=CW2-42-4, 产品代号=CW2-42, 产品系列号=4
+[2017-03-27 10:31:19]nPos=1162, 产品代号：nTaskPos=49, Product_no=CW2-42-4, nCodeNumber=1,nCodeCnt=1
+[2017-03-27 10:31:19]nPos=1163, 原始编号: 编号个数=1, 编号描述=18-010
+[2017-03-27 10:31:19]nPos=1164, 结果编号: 编号个数=1, 编号列表=18-010
+[2017-03-27 10:31:19]nPos=1165, 产品代号：nTaskPos=50, Product_no=CW2-101, 产品代号=CW2-101, 产品系列号=
+[2017-03-27 10:31:19]nPos=1166, 产品代号：nTaskPos=50, Product_no=CW2-101, nCodeNumber=38,nCodeCnt=38
+[2017-03-27 10:31:19]nPos=1167, 原始编号: 编号个数=38, 编号描述=11-001~038
+[2017-03-27 10:31:19]nPos=1168, 结果编号: 编号个数=38, 编号列表=11-001,11-002,11-003,11-004,11-005,11-006,11-007,11-008,11-009,11-010,11-011,11-012,11-013,11-014,11-015,11-016,11-017,11-018,11-019,11-020,11-021,11-022,11-023,11-024,11-025,11-026,11-027,11-028,11-029,11-030,11-031,11-032,11-033,11-034,11-035,11-036,11-037,11-038
+[2017-03-27 10:31:20]nPos=1169, DB_OPT_插入_产品代号_成功：nProdPos=1, Product_no=CR4-4
+[2017-03-27 10:31:20]nPos=1170, DB_OPT_插入_任务_成功：nTaskPos=1, Product_no=CR4-4, Project_name=NC-YH1597-W1200-A1-09, nCodeCnt=9
+[2017-03-27 10:31:20]nPos=1171, DB_OPT_插入_任务编号_成功：nTaskPos=1, Product_no=CR4-4, nCodeIndex=1, szCodeName=96-034
+[2017-03-27 10:31:20]nPos=1172, DB_OPT_插入_任务编号_成功：nTaskPos=1, Product_no=CR4-4, nCodeIndex=2, szCodeName=96-035
+[2017-03-27 10:31:20]nPos=1173, DB_OPT_插入_任务编号_成功：nTaskPos=1, Product_no=CR4-4, nCodeIndex=3, szCodeName=96-036
+[2017-03-27 10:31:20]nPos=1174, DB_OPT_插入_任务编号_成功：nTaskPos=1, Product_no=CR4-4, nCodeIndex=4, szCodeName=96-037
+[2017-03-27 10:31:20]nPos=1175, DB_OPT_插入_任务编号_成功：nTaskPos=1, Product_no=CR4-4, nCodeIndex=5, szCodeName=96-038
+[2017-03-27 10:31:20]nPos=1176, DB_OPT_插入_任务编号_成功：nTaskPos=1, Product_no=CR4-4, nCodeIndex=6, szCodeName=96-039
+[2017-03-27 10:31:20]nPos=1177, DB_OPT_插入_任务编号_成功：nTaskPos=1, Product_no=CR4-4, nCodeIndex=7, szCodeName=96-040
+[2017-03-27 10:31:20]nPos=1178, DB_OPT_插入_任务编号_成功：nTaskPos=1, Product_no=CR4-4, nCodeIndex=8, szCodeName=96-041
+[2017-03-27 10:31:20]nPos=1179, DB_OPT_插入_任务编号_成功：nTaskPos=1, Product_no=CR4-4, nCodeIndex=9, szCodeName=96-042
+[2017-03-27 10:31:20]nPos=1180, DB_OPT_插入_产品代号_成功：nProdPos=2, Product_no=CW3-75
+[2017-03-27 10:31:20]nPos=1181, DB_OPT_插入_任务_成功：nTaskPos=2, Product_no=CW3-75, Project_name=HC-HJ16001-W17-A1-10, nCodeCnt=10
+[2017-03-27 10:31:20]nPos=1182, DB_OPT_插入_任务编号_成功：nTaskPos=2, Product_no=CW3-75, nCodeIndex=1, szCodeName=20-001
+[2017-03-27 10:31:20]nPos=1183, DB_OPT_插入_任务编号_成功：nTaskPos=2, Product_no=CW3-75, nCodeIndex=2, szCodeName=20-002
+[2017-03-27 10:31:20]nPos=1184, DB_OPT_插入_任务编号_成功：nTaskPos=2, Product_no=CW3-75, nCodeIndex=3, szCodeName=20-003
+[2017-03-27 10:31:20]nPos=1185, DB_OPT_插入_任务编号_成功：nTaskPos=2, Product_no=CW3-75, nCodeIndex=4, szCodeName=20-004
+[2017-03-27 10:31:20]nPos=1186, DB_OPT_插入_任务编号_成功：nTaskPos=2, Product_no=CW3-75, nCodeIndex=5, szCodeName=20-005
+[2017-03-27 10:31:20]nPos=1187, DB_OPT_插入_任务编号_成功：nTaskPos=2, Product_no=CW3-75, nCodeIndex=6, szCodeName=20-006
+[2017-03-27 10:31:20]nPos=1188, DB_OPT_插入_任务编号_成功：nTaskPos=2, Product_no=CW3-75, nCodeIndex=7, szCodeName=20-007
+[2017-03-27 10:31:20]nPos=1189, DB_OPT_插入_任务编号_成功：nTaskPos=2, Product_no=CW3-75, nCodeIndex=8, szCodeName=20-008
+[2017-03-27 10:31:20]nPos=1190, DB_OPT_插入_任务编号_成功：nTaskPos=2, Product_no=CW3-75, nCodeIndex=9, szCodeName=20-009
+[2017-03-27 10:31:20]nPos=1191, DB_OPT_插入_任务编号_成功：nTaskPos=2, Product_no=CW3-75, nCodeIndex=10, szCodeName=20-010
+[2017-03-27 10:31:20]nPos=1192, DB_OPT_插入_产品代号_代号已存在：nProdPos=3, Product_no=CW3-75
+[2017-03-27 10:31:20]nPos=1193, DB_OPT_插入_任务_成功：nTaskPos=3, Product_no=CW3-75, Project_name=HC-HJ16009-W16-A1-01, nCodeCnt=25
+[2017-03-27 10:31:20]nPos=1194, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=1, szCodeName=21-001
+[2017-03-27 10:31:20]nPos=1195, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=2, szCodeName=21-002
+[2017-03-27 10:31:20]nPos=1196, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=3, szCodeName=21-003
+[2017-03-27 10:31:20]nPos=1197, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=4, szCodeName=21-004
+[2017-03-27 10:31:20]nPos=1198, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=5, szCodeName=21-005
+[2017-03-27 10:31:20]nPos=1199, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=6, szCodeName=21-006
+[2017-03-27 10:31:20]nPos=1200, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=7, szCodeName=21-007
+[2017-03-27 10:31:20]nPos=1201, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=8, szCodeName=21-008
+[2017-03-27 10:31:20]nPos=1202, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=9, szCodeName=21-009
+[2017-03-27 10:31:20]nPos=1203, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=10, szCodeName=21-010
+[2017-03-27 10:31:20]nPos=1204, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=11, szCodeName=21-011
+[2017-03-27 10:31:20]nPos=1205, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=12, szCodeName=21-012
+[2017-03-27 10:31:20]nPos=1206, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=13, szCodeName=21-013
+[2017-03-27 10:31:20]nPos=1207, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=14, szCodeName=21-014
+[2017-03-27 10:31:20]nPos=1208, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=15, szCodeName=21-015
+[2017-03-27 10:31:20]nPos=1209, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=16, szCodeName=21-016
+[2017-03-27 10:31:20]nPos=1210, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=17, szCodeName=21-017
+[2017-03-27 10:31:20]nPos=1211, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=18, szCodeName=21-018
+[2017-03-27 10:31:20]nPos=1212, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=19, szCodeName=21-019
+[2017-03-27 10:31:20]nPos=1213, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=20, szCodeName=21-020
+[2017-03-27 10:31:20]nPos=1214, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=21, szCodeName=21-021
+[2017-03-27 10:31:20]nPos=1215, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=22, szCodeName=21-022
+[2017-03-27 10:31:20]nPos=1216, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=23, szCodeName=21-023
+[2017-03-27 10:31:20]nPos=1217, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=24, szCodeName=21-024
+[2017-03-27 10:31:20]nPos=1218, DB_OPT_插入_任务编号_成功：nTaskPos=3, Product_no=CW3-75, nCodeIndex=25, szCodeName=21-025
+[2017-03-27 10:31:20]nPos=1219, DB_OPT_插入_产品代号_成功：nProdPos=4, Product_no=CL3-1
+[2017-03-27 10:31:20]nPos=1220, DB_OPT_插入_任务_成功：nTaskPos=4, Product_no=CL3-1, Project_name=NC-YH1285-Y5-A1-61, nCodeCnt=5
+[2017-03-27 10:31:20]nPos=1221, DB_OPT_插入_任务编号_成功：nTaskPos=4, Product_no=CL3-1, nCodeIndex=1, szCodeName=03-004
+[2017-03-27 10:31:20]nPos=1222, DB_OPT_插入_任务编号_成功：nTaskPos=4, Product_no=CL3-1, nCodeIndex=2, szCodeName=03-005
+[2017-03-27 10:31:20]nPos=1223, DB_OPT_插入_任务编号_成功：nTaskPos=4, Product_no=CL3-1, nCodeIndex=3, szCodeName=03-006
+[2017-03-27 10:31:20]nPos=1224, DB_OPT_插入_任务编号_成功：nTaskPos=4, Product_no=CL3-1, nCodeIndex=4, szCodeName=03-007
+[2017-03-27 10:31:20]nPos=1225, DB_OPT_插入_任务编号_成功：nTaskPos=4, Product_no=CL3-1, nCodeIndex=5, szCodeName=03-008
+[2017-03-27 10:31:20]nPos=1226, DB_OPT_插入_产品代号_成功：nProdPos=5, Product_no=CG15-1
+[2017-03-27 10:31:20]nPos=1227, DB_OPT_插入_任务_成功：nTaskPos=5, Product_no=CG15-1, Project_name=NC-YH1451-W600-A1-02, nCodeCnt=20
+[2017-03-27 10:31:20]nPos=1228, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=1, szCodeName=17-001
+[2017-03-27 10:31:20]nPos=1229, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=2, szCodeName=17-002
+[2017-03-27 10:31:20]nPos=1230, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=3, szCodeName=17-003
+[2017-03-27 10:31:20]nPos=1231, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=4, szCodeName=17-004
+[2017-03-27 10:31:20]nPos=1232, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=5, szCodeName=17-005
+[2017-03-27 10:31:20]nPos=1233, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=6, szCodeName=17-006
+[2017-03-27 10:31:20]nPos=1234, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=7, szCodeName=17-007
+[2017-03-27 10:31:20]nPos=1235, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=8, szCodeName=17-008
+[2017-03-27 10:31:20]nPos=1236, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=9, szCodeName=17-009
+[2017-03-27 10:31:20]nPos=1237, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=10, szCodeName=17-010
+[2017-03-27 10:31:20]nPos=1238, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=11, szCodeName=17-011
+[2017-03-27 10:31:20]nPos=1239, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=12, szCodeName=17-012
+[2017-03-27 10:31:20]nPos=1240, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=13, szCodeName=17-013
+[2017-03-27 10:31:20]nPos=1241, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=14, szCodeName=17-014
+[2017-03-27 10:31:20]nPos=1242, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=15, szCodeName=17-015
+[2017-03-27 10:31:20]nPos=1243, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=16, szCodeName=17-016
+[2017-03-27 10:31:20]nPos=1244, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=17, szCodeName=17-017
+[2017-03-27 10:31:20]nPos=1245, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=18, szCodeName=17-018
+[2017-03-27 10:31:20]nPos=1246, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=19, szCodeName=17-019
+[2017-03-27 10:31:20]nPos=1247, DB_OPT_插入_任务编号_成功：nTaskPos=5, Product_no=CG15-1, nCodeIndex=20, szCodeName=17-020
+[2017-03-27 10:31:20]nPos=1248, DB_OPT_插入_产品代号_代号已存在：nProdPos=6, Product_no=CG15-1
+[2017-03-27 10:31:20]nPos=1249, DB_OPT_插入_任务_成功：nTaskPos=6, Product_no=CG15-1, Project_name=NC-YH1451-W600-A1-01, nCodeCnt=9
+[2017-03-27 10:31:20]nPos=1250, DB_OPT_插入_任务编号_成功：nTaskPos=6, Product_no=CG15-1, nCodeIndex=1, szCodeName=17-021
+[2017-03-27 10:31:20]nPos=1251, DB_OPT_插入_任务编号_成功：nTaskPos=6, Product_no=CG15-1, nCodeIndex=2, szCodeName=17-022
+[2017-03-27 10:31:20]nPos=1252, DB_OPT_插入_任务编号_成功：nTaskPos=6, Product_no=CG15-1, nCodeIndex=3, szCodeName=17-023
+[2017-03-27 10:31:20]nPos=1253, DB_OPT_插入_任务编号_成功：nTaskPos=6, Product_no=CG15-1, nCodeIndex=4, szCodeName=17-024
+[2017-03-27 10:31:20]nPos=1254, DB_OPT_插入_任务编号_成功：nTaskPos=6, Product_no=CG15-1, nCodeIndex=5, szCodeName=17-025
+[2017-03-27 10:31:20]nPos=1255, DB_OPT_插入_任务编号_成功：nTaskPos=6, Product_no=CG15-1, nCodeIndex=6, szCodeName=17-026
+[2017-03-27 10:31:20]nPos=1256, DB_OPT_插入_任务编号_成功：nTaskPos=6, Product_no=CG15-1, nCodeIndex=7, szCodeName=17-027
+[2017-03-27 10:31:20]nPos=1257, DB_OPT_插入_任务编号_成功：nTaskPos=6, Product_no=CG15-1, nCodeIndex=8, szCodeName=17-028
+[2017-03-27 10:31:20]nPos=1258, DB_OPT_插入_任务编号_成功：nTaskPos=6, Product_no=CG15-1, nCodeIndex=9, szCodeName=17-029
+[2017-03-27 10:31:20]nPos=1259, DB_OPT_插入_产品代号_成功：nProdPos=7, Product_no=YK2-277
+[2017-03-27 10:31:20]nPos=1260, DB_OPT_插入_任务_成功：nTaskPos=7, Product_no=YK2-277, Project_name=NC-YH1304-Y5-A1-07, nCodeCnt=2
+[2017-03-27 10:31:20]nPos=1261, DB_OPT_插入_任务编号_成功：nTaskPos=7, Product_no=YK2-277, nCodeIndex=1, szCodeName=02-001
+[2017-03-27 10:31:20]nPos=1262, DB_OPT_插入_任务编号_成功：nTaskPos=7, Product_no=YK2-277, nCodeIndex=2, szCodeName=02-002
+[2017-03-27 10:31:20]nPos=1263, DB_OPT_插入_产品代号_成功：nProdPos=8, Product_no=CW2-19
+[2017-03-27 10:31:20]nPos=1264, DB_OPT_插入_任务_成功：nTaskPos=8, Product_no=CW2-19, Project_name=NC-HY15008-W5B-AI-01, nCodeCnt=5
+[2017-03-27 10:31:20]nPos=1265, DB_OPT_插入_任务编号_成功：nTaskPos=8, Product_no=CW2-19, nCodeIndex=1, szCodeName=04-006
+[2017-03-27 10:31:20]nPos=1266, DB_OPT_插入_任务编号_成功：nTaskPos=8, Product_no=CW2-19, nCodeIndex=2, szCodeName=04-007
+[2017-03-27 10:31:20]nPos=1267, DB_OPT_插入_任务编号_成功：nTaskPos=8, Product_no=CW2-19, nCodeIndex=3, szCodeName=04-008
+[2017-03-27 10:31:20]nPos=1268, DB_OPT_插入_任务编号_成功：nTaskPos=8, Product_no=CW2-19, nCodeIndex=4, szCodeName=04-009
+[2017-03-27 10:31:20]nPos=1269, DB_OPT_插入_任务编号_成功：nTaskPos=8, Product_no=CW2-19, nCodeIndex=5, szCodeName=04-010
+[2017-03-27 10:31:20]nPos=1270, DB_OPT_插入_产品代号_成功：nProdPos=9, Product_no=YA7-34
+[2017-03-27 10:31:20]nPos=1271, DB_OPT_插入_任务_成功：nTaskPos=9, Product_no=YA7-34, Project_name=NC-HY15014-Y5-A1-21, nCodeCnt=24
+[2017-03-27 10:31:20]nPos=1272, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=1, szCodeName=03-001
+[2017-03-27 10:31:20]nPos=1273, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=2, szCodeName=03-002
+[2017-03-27 10:31:20]nPos=1274, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=3, szCodeName=03-003
+[2017-03-27 10:31:20]nPos=1275, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=4, szCodeName=03-004
+[2017-03-27 10:31:20]nPos=1276, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=5, szCodeName=03-005
+[2017-03-27 10:31:20]nPos=1277, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=6, szCodeName=03-006
+[2017-03-27 10:31:20]nPos=1278, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=7, szCodeName=03-007
+[2017-03-27 10:31:20]nPos=1279, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=8, szCodeName=03-008
+[2017-03-27 10:31:20]nPos=1280, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=9, szCodeName=03-009
+[2017-03-27 10:31:20]nPos=1281, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=10, szCodeName=03-010
+[2017-03-27 10:31:20]nPos=1282, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=11, szCodeName=03-011
+[2017-03-27 10:31:20]nPos=1283, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=12, szCodeName=03-012
+[2017-03-27 10:31:20]nPos=1284, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=13, szCodeName=03-013
+[2017-03-27 10:31:20]nPos=1285, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=14, szCodeName=03-014
+[2017-03-27 10:31:20]nPos=1286, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=15, szCodeName=03-015
+[2017-03-27 10:31:20]nPos=1287, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=16, szCodeName=03-016
+[2017-03-27 10:31:20]nPos=1288, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=17, szCodeName=03-018
+[2017-03-27 10:31:20]nPos=1289, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=18, szCodeName=03-019
+[2017-03-27 10:31:20]nPos=1290, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=19, szCodeName=03-020
+[2017-03-27 10:31:20]nPos=1291, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=20, szCodeName=03-021
+[2017-03-27 10:31:20]nPos=1292, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=21, szCodeName=03-022
+[2017-03-27 10:31:20]nPos=1293, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=22, szCodeName=03-023
+[2017-03-27 10:31:20]nPos=1294, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=23, szCodeName=03-024
+[2017-03-27 10:31:20]nPos=1295, DB_OPT_插入_任务编号_成功：nTaskPos=9, Product_no=YA7-34, nCodeIndex=24, szCodeName=03-025
+[2017-03-27 10:31:20]nPos=1296, DB_OPT_插入_产品代号_代号已存在：nProdPos=10, Product_no=YA7-34
+[2017-03-27 10:31:20]nPos=1297, DB_OPT_插入_任务_成功：nTaskPos=10, Product_no=YA7-34, Project_name=NC-HY15014-Y5-A1-22, nCodeCnt=24
+[2017-03-27 10:31:20]nPos=1298, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=1, szCodeName=03-026
+[2017-03-27 10:31:20]nPos=1299, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=2, szCodeName=03-027
+[2017-03-27 10:31:20]nPos=1300, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=3, szCodeName=03-028
+[2017-03-27 10:31:20]nPos=1301, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=4, szCodeName=03-029
+[2017-03-27 10:31:20]nPos=1302, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=5, szCodeName=03-030
+[2017-03-27 10:31:21]nPos=1303, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=6, szCodeName=03-031
+[2017-03-27 10:31:21]nPos=1304, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=7, szCodeName=03-032
+[2017-03-27 10:31:21]nPos=1305, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=8, szCodeName=03-033
+[2017-03-27 10:31:21]nPos=1306, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=9, szCodeName=03-034
+[2017-03-27 10:31:21]nPos=1307, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=10, szCodeName=03-036
+[2017-03-27 10:31:21]nPos=1308, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=11, szCodeName=03-037
+[2017-03-27 10:31:21]nPos=1309, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=12, szCodeName=03-038
+[2017-03-27 10:31:21]nPos=1310, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=13, szCodeName=03-039
+[2017-03-27 10:31:21]nPos=1311, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=14, szCodeName=03-040
+[2017-03-27 10:31:21]nPos=1312, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=15, szCodeName=03-041
+[2017-03-27 10:31:21]nPos=1313, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=16, szCodeName=03-042
+[2017-03-27 10:31:21]nPos=1314, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=17, szCodeName=03-043
+[2017-03-27 10:31:21]nPos=1315, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=18, szCodeName=03-044
+[2017-03-27 10:31:21]nPos=1316, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=19, szCodeName=03-045
+[2017-03-27 10:31:21]nPos=1317, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=20, szCodeName=03-046
+[2017-03-27 10:31:21]nPos=1318, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=21, szCodeName=03-047
+[2017-03-27 10:31:21]nPos=1319, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=22, szCodeName=03-048
+[2017-03-27 10:31:21]nPos=1320, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=23, szCodeName=03-049
+[2017-03-27 10:31:21]nPos=1321, DB_OPT_插入_任务编号_成功：nTaskPos=10, Product_no=YA7-34, nCodeIndex=24, szCodeName=03-050
+[2017-03-27 10:31:21]nPos=1322, DB_OPT_插入_产品代号_成功：nProdPos=11, Product_no=YA8-141
+[2017-03-27 10:31:21]nPos=1323, DB_OPT_插入_任务_成功：nTaskPos=11, Product_no=YA8-141, Project_name=HC-HJ16009-W16-A1-05, nCodeCnt=22
+[2017-03-27 10:31:21]nPos=1324, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=1, szCodeName=62-001
+[2017-03-27 10:31:21]nPos=1325, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=2, szCodeName=62-002
+[2017-03-27 10:31:21]nPos=1326, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=3, szCodeName=62-003
+[2017-03-27 10:31:21]nPos=1327, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=4, szCodeName=62-004
+[2017-03-27 10:31:21]nPos=1328, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=5, szCodeName=62-005
+[2017-03-27 10:31:21]nPos=1329, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=6, szCodeName=62-006
+[2017-03-27 10:31:21]nPos=1330, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=7, szCodeName=62-007
+[2017-03-27 10:31:21]nPos=1331, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=8, szCodeName=62-008
+[2017-03-27 10:31:21]nPos=1332, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=9, szCodeName=62-009
+[2017-03-27 10:31:21]nPos=1333, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=10, szCodeName=62-010
+[2017-03-27 10:31:21]nPos=1334, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=11, szCodeName=62-011
+[2017-03-27 10:31:21]nPos=1335, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=12, szCodeName=62-012
+[2017-03-27 10:31:21]nPos=1336, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=13, szCodeName=62-013
+[2017-03-27 10:31:21]nPos=1337, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=14, szCodeName=62-014
+[2017-03-27 10:31:21]nPos=1338, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=15, szCodeName=62-015
+[2017-03-27 10:31:21]nPos=1339, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=16, szCodeName=62-016
+[2017-03-27 10:31:21]nPos=1340, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=17, szCodeName=62-017
+[2017-03-27 10:31:21]nPos=1341, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=18, szCodeName=62-018
+[2017-03-27 10:31:21]nPos=1342, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=19, szCodeName=62-019
+[2017-03-27 10:31:21]nPos=1343, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=20, szCodeName=62-020
+[2017-03-27 10:31:21]nPos=1344, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=21, szCodeName=62-021
+[2017-03-27 10:31:21]nPos=1345, DB_OPT_插入_任务编号_成功：nTaskPos=11, Product_no=YA8-141, nCodeIndex=22, szCodeName=62-022
+[2017-03-27 10:31:21]nPos=1346, DB_OPT_插入_产品代号_成功：nProdPos=12, Product_no=CE4-4
+[2017-03-27 10:31:21]nPos=1347, DB_OPT_插入_任务_成功：nTaskPos=12, Product_no=CE4-4, Project_name=NC-HY15006-W5B03-A1-04, nCodeCnt=5
+[2017-03-27 10:31:21]nPos=1348, DB_OPT_插入_任务编号_成功：nTaskPos=12, Product_no=CE4-4, nCodeIndex=1, szCodeName=04-017
+[2017-03-27 10:31:21]nPos=1349, DB_OPT_插入_任务编号_成功：nTaskPos=12, Product_no=CE4-4, nCodeIndex=2, szCodeName=04-018
+[2017-03-27 10:31:21]nPos=1350, DB_OPT_插入_任务编号_成功：nTaskPos=12, Product_no=CE4-4, nCodeIndex=3, szCodeName=04-019
+[2017-03-27 10:31:21]nPos=1351, DB_OPT_插入_任务编号_成功：nTaskPos=12, Product_no=CE4-4, nCodeIndex=4, szCodeName=04-020
+[2017-03-27 10:31:21]nPos=1352, DB_OPT_插入_任务编号_成功：nTaskPos=12, Product_no=CE4-4, nCodeIndex=5, szCodeName=04-021
+[2017-03-27 10:31:21]nPos=1353, DB_OPT_插入_产品代号_代号已存在：nProdPos=13, Product_no=CE4-4
+[2017-03-27 10:31:21]nPos=1354, DB_OPT_插入_任务_成功：nTaskPos=13, Product_no=CE4-4, Project_name=NC-HY15006-W5B03-A1-03, nCodeCnt=5
+[2017-03-27 10:31:21]nPos=1355, DB_OPT_插入_任务编号_成功：nTaskPos=13, Product_no=CE4-4, nCodeIndex=1, szCodeName=04-012
+[2017-03-27 10:31:21]nPos=1356, DB_OPT_插入_任务编号_成功：nTaskPos=13, Product_no=CE4-4, nCodeIndex=2, szCodeName=04-013
+[2017-03-27 10:31:21]nPos=1357, DB_OPT_插入_任务编号_成功：nTaskPos=13, Product_no=CE4-4, nCodeIndex=3, szCodeName=04-014
+[2017-03-27 10:31:21]nPos=1358, DB_OPT_插入_任务编号_成功：nTaskPos=13, Product_no=CE4-4, nCodeIndex=4, szCodeName=04-015
+[2017-03-27 10:31:21]nPos=1359, DB_OPT_插入_任务编号_成功：nTaskPos=13, Product_no=CE4-4, nCodeIndex=5, szCodeName=04-016
+[2017-03-27 10:31:21]nPos=1360, DB_OPT_插入_产品代号_代号已存在：nProdPos=14, Product_no=CE4-4
+[2017-03-27 10:31:21]nPos=1361, DB_OPT_插入_任务_成功：nTaskPos=14, Product_no=CE4-4, Project_name=NC-HY15006-W5B03-A1-02, nCodeCnt=5
+[2017-03-27 10:31:21]nPos=1362, DB_OPT_插入_任务编号_成功：nTaskPos=14, Product_no=CE4-4, nCodeIndex=1, szCodeName=07-007
+[2017-03-27 10:31:21]nPos=1363, DB_OPT_插入_任务编号_成功：nTaskPos=14, Product_no=CE4-4, nCodeIndex=2, szCodeName=07-008
+[2017-03-27 10:31:21]nPos=1364, DB_OPT_插入_任务编号_成功：nTaskPos=14, Product_no=CE4-4, nCodeIndex=3, szCodeName=07-009
+[2017-03-27 10:31:21]nPos=1365, DB_OPT_插入_任务编号_成功：nTaskPos=14, Product_no=CE4-4, nCodeIndex=4, szCodeName=07-010
+[2017-03-27 10:31:21]nPos=1366, DB_OPT_插入_任务编号_成功：nTaskPos=14, Product_no=CE4-4, nCodeIndex=5, szCodeName=07-011
+[2017-03-27 10:31:21]nPos=1367, DB_OPT_插入_产品代号_代号已存在：nProdPos=15, Product_no=CE4-4
+[2017-03-27 10:31:21]nPos=1368, DB_OPT_插入_任务_成功：nTaskPos=15, Product_no=CE4-4, Project_name=NC-HY15006-W5B03-A1-01, nCodeCnt=6
+[2017-03-27 10:31:21]nPos=1369, DB_OPT_插入_任务编号_成功：nTaskPos=15, Product_no=CE4-4, nCodeIndex=1, szCodeName=04-001
+[2017-03-27 10:31:21]nPos=1370, DB_OPT_插入_任务编号_成功：nTaskPos=15, Product_no=CE4-4, nCodeIndex=2, szCodeName=04-002
+[2017-03-27 10:31:21]nPos=1371, DB_OPT_插入_任务编号_成功：nTaskPos=15, Product_no=CE4-4, nCodeIndex=3, szCodeName=04-003
+[2017-03-27 10:31:21]nPos=1372, DB_OPT_插入_任务编号_成功：nTaskPos=15, Product_no=CE4-4, nCodeIndex=4, szCodeName=04-004
+[2017-03-27 10:31:21]nPos=1373, DB_OPT_插入_任务编号_成功：nTaskPos=15, Product_no=CE4-4, nCodeIndex=5, szCodeName=04-005
+[2017-03-27 10:31:21]nPos=1374, DB_OPT_插入_任务编号_成功：nTaskPos=15, Product_no=CE4-4, nCodeIndex=6, szCodeName=04-006
+[2017-03-27 10:31:21]nPos=1375, DB_OPT_插入_产品代号_成功：nProdPos=16, Product_no=CE4-5
+[2017-03-27 10:31:21]nPos=1376, DB_OPT_插入_任务_成功：nTaskPos=16, Product_no=CE4-5, Project_name=NC-YH1501-W5B03-A1-04, nCodeCnt=11
+[2017-03-27 10:31:21]nPos=1377, DB_OPT_插入_任务编号_成功：nTaskPos=16, Product_no=CE4-5, nCodeIndex=1, szCodeName=15-001
+[2017-03-27 10:31:21]nPos=1378, DB_OPT_插入_任务编号_成功：nTaskPos=16, Product_no=CE4-5, nCodeIndex=2, szCodeName=15-002
+[2017-03-27 10:31:21]nPos=1379, DB_OPT_插入_任务编号_成功：nTaskPos=16, Product_no=CE4-5, nCodeIndex=3, szCodeName=15-003
+[2017-03-27 10:31:21]nPos=1380, DB_OPT_插入_任务编号_成功：nTaskPos=16, Product_no=CE4-5, nCodeIndex=4, szCodeName=15-004
+[2017-03-27 10:31:21]nPos=1381, DB_OPT_插入_任务编号_成功：nTaskPos=16, Product_no=CE4-5, nCodeIndex=5, szCodeName=15-005
+[2017-03-27 10:31:21]nPos=1382, DB_OPT_插入_任务编号_成功：nTaskPos=16, Product_no=CE4-5, nCodeIndex=6, szCodeName=15-006
+[2017-03-27 10:31:21]nPos=1383, DB_OPT_插入_任务编号_成功：nTaskPos=16, Product_no=CE4-5, nCodeIndex=7, szCodeName=15-011
+[2017-03-27 10:31:21]nPos=1384, DB_OPT_插入_任务编号_成功：nTaskPos=16, Product_no=CE4-5, nCodeIndex=8, szCodeName=15-012
+[2017-03-27 10:31:21]nPos=1385, DB_OPT_插入_任务编号_成功：nTaskPos=16, Product_no=CE4-5, nCodeIndex=9, szCodeName=15-013
+[2017-03-27 10:31:21]nPos=1386, DB_OPT_插入_任务编号_成功：nTaskPos=16, Product_no=CE4-5, nCodeIndex=10, szCodeName=15-014
+[2017-03-27 10:31:21]nPos=1387, DB_OPT_插入_任务编号_成功：nTaskPos=16, Product_no=CE4-5, nCodeIndex=11, szCodeName=15-015
+[2017-03-27 10:31:21]nPos=1388, DB_OPT_插入_产品代号_成功：nProdPos=17, Product_no=CZ7-4
+[2017-03-27 10:31:21]nPos=1389, DB_OPT_插入_任务_成功：nTaskPos=17, Product_no=CZ7-4, Project_name=NC-HY15007-WAT-A1-05, nCodeCnt=15
+[2017-03-27 10:31:21]nPos=1390, DB_OPT_插入_任务编号_成功：nTaskPos=17, Product_no=CZ7-4, nCodeIndex=1, szCodeName=03-086
+[2017-03-27 10:31:21]nPos=1391, DB_OPT_插入_任务编号_成功：nTaskPos=17, Product_no=CZ7-4, nCodeIndex=2, szCodeName=03-087
+[2017-03-27 10:31:21]nPos=1392, DB_OPT_插入_任务编号_成功：nTaskPos=17, Product_no=CZ7-4, nCodeIndex=3, szCodeName=03-088
+[2017-03-27 10:31:21]nPos=1393, DB_OPT_插入_任务编号_成功：nTaskPos=17, Product_no=CZ7-4, nCodeIndex=4, szCodeName=03-089
+[2017-03-27 10:31:21]nPos=1394, DB_OPT_插入_任务编号_成功：nTaskPos=17, Product_no=CZ7-4, nCodeIndex=5, szCodeName=03-090
+[2017-03-27 10:31:21]nPos=1395, DB_OPT_插入_任务编号_成功：nTaskPos=17, Product_no=CZ7-4, nCodeIndex=6, szCodeName=03-091
+[2017-03-27 10:31:21]nPos=1396, DB_OPT_插入_任务编号_成功：nTaskPos=17, Product_no=CZ7-4, nCodeIndex=7, szCodeName=03-092
+[2017-03-27 10:31:21]nPos=1397, DB_OPT_插入_任务编号_成功：nTaskPos=17, Product_no=CZ7-4, nCodeIndex=8, szCodeName=03-093
+[2017-03-27 10:31:21]nPos=1398, DB_OPT_插入_任务编号_成功：nTaskPos=17, Product_no=CZ7-4, nCodeIndex=9, szCodeName=03-094
+[2017-03-27 10:31:21]nPos=1399, DB_OPT_插入_任务编号_成功：nTaskPos=17, Product_no=CZ7-4, nCodeIndex=10, szCodeName=03-095
+[2017-03-27 10:31:21]nPos=1400, DB_OPT_插入_任务编号_成功：nTaskPos=17, Product_no=CZ7-4, nCodeIndex=11, szCodeName=03-096
+[2017-03-27 10:31:21]nPos=1401, DB_OPT_插入_任务编号_成功：nTaskPos=17, Product_no=CZ7-4, nCodeIndex=12, szCodeName=03-097
+[2017-03-27 10:31:21]nPos=1402, DB_OPT_插入_任务编号_成功：nTaskPos=17, Product_no=CZ7-4, nCodeIndex=13, szCodeName=03-098
+[2017-03-27 10:31:21]nPos=1403, DB_OPT_插入_任务编号_成功：nTaskPos=17, Product_no=CZ7-4, nCodeIndex=14, szCodeName=03-099
+[2017-03-27 10:31:21]nPos=1404, DB_OPT_插入_任务编号_成功：nTaskPos=17, Product_no=CZ7-4, nCodeIndex=15, szCodeName=03-100
+[2017-03-27 10:31:21]nPos=1405, DB_OPT_插入_产品代号_代号已存在：nProdPos=18, Product_no=CZ7-4
+[2017-03-27 10:31:21]nPos=1406, DB_OPT_插入_任务_成功：nTaskPos=18, Product_no=CZ7-4, Project_name=NC-HY15007-WAT-A1-04, nCodeCnt=10
+[2017-03-27 10:31:21]nPos=1407, DB_OPT_插入_任务编号_成功：nTaskPos=18, Product_no=CZ7-4, nCodeIndex=1, szCodeName=03-076
+[2017-03-27 10:31:21]nPos=1408, DB_OPT_插入_任务编号_成功：nTaskPos=18, Product_no=CZ7-4, nCodeIndex=2, szCodeName=03-077
+[2017-03-27 10:31:21]nPos=1409, DB_OPT_插入_任务编号_成功：nTaskPos=18, Product_no=CZ7-4, nCodeIndex=3, szCodeName=03-078
+[2017-03-27 10:31:21]nPos=1410, DB_OPT_插入_任务编号_成功：nTaskPos=18, Product_no=CZ7-4, nCodeIndex=4, szCodeName=03-079
+[2017-03-27 10:31:21]nPos=1411, DB_OPT_插入_任务编号_成功：nTaskPos=18, Product_no=CZ7-4, nCodeIndex=5, szCodeName=03-080
+[2017-03-27 10:31:21]nPos=1412, DB_OPT_插入_任务编号_成功：nTaskPos=18, Product_no=CZ7-4, nCodeIndex=6, szCodeName=03-081
+[2017-03-27 10:31:21]nPos=1413, DB_OPT_插入_任务编号_成功：nTaskPos=18, Product_no=CZ7-4, nCodeIndex=7, szCodeName=03-082
+[2017-03-27 10:31:21]nPos=1414, DB_OPT_插入_任务编号_成功：nTaskPos=18, Product_no=CZ7-4, nCodeIndex=8, szCodeName=03-083
+[2017-03-27 10:31:21]nPos=1415, DB_OPT_插入_任务编号_成功：nTaskPos=18, Product_no=CZ7-4, nCodeIndex=9, szCodeName=03-084
+[2017-03-27 10:31:21]nPos=1416, DB_OPT_插入_任务编号_成功：nTaskPos=18, Product_no=CZ7-4, nCodeIndex=10, szCodeName=03-085
+[2017-03-27 10:31:21]nPos=1417, DB_OPT_插入_产品代号_代号已存在：nProdPos=19, Product_no=CZ7-4
+[2017-03-27 10:31:21]nPos=1418, DB_OPT_插入_任务_成功：nTaskPos=19, Product_no=CZ7-4, Project_name=NC-HY15007-WAT-A1-07, nCodeCnt=10
+[2017-03-27 10:31:21]nPos=1419, DB_OPT_插入_任务编号_成功：nTaskPos=19, Product_no=CZ7-4, nCodeIndex=1, szCodeName=03-066
+[2017-03-27 10:31:21]nPos=1420, DB_OPT_插入_任务编号_成功：nTaskPos=19, Product_no=CZ7-4, nCodeIndex=2, szCodeName=03-067
+[2017-03-27 10:31:21]nPos=1421, DB_OPT_插入_任务编号_成功：nTaskPos=19, Product_no=CZ7-4, nCodeIndex=3, szCodeName=03-068
+[2017-03-27 10:31:21]nPos=1422, DB_OPT_插入_任务编号_成功：nTaskPos=19, Product_no=CZ7-4, nCodeIndex=4, szCodeName=03-069
+[2017-03-27 10:31:21]nPos=1423, DB_OPT_插入_任务编号_成功：nTaskPos=19, Product_no=CZ7-4, nCodeIndex=5, szCodeName=03-070
+[2017-03-27 10:31:21]nPos=1424, DB_OPT_插入_任务编号_成功：nTaskPos=19, Product_no=CZ7-4, nCodeIndex=6, szCodeName=03-071
+[2017-03-27 10:31:21]nPos=1425, DB_OPT_插入_任务编号_成功：nTaskPos=19, Product_no=CZ7-4, nCodeIndex=7, szCodeName=03-072
+[2017-03-27 10:31:21]nPos=1426, DB_OPT_插入_任务编号_成功：nTaskPos=19, Product_no=CZ7-4, nCodeIndex=8, szCodeName=03-073
+[2017-03-27 10:31:21]nPos=1427, DB_OPT_插入_任务编号_成功：nTaskPos=19, Product_no=CZ7-4, nCodeIndex=9, szCodeName=03-074
+[2017-03-27 10:31:21]nPos=1428, DB_OPT_插入_任务编号_成功：nTaskPos=19, Product_no=CZ7-4, nCodeIndex=10, szCodeName=03-075
+[2017-03-27 10:31:21]nPos=1429, DB_OPT_插入_产品代号_代号已存在：nProdPos=20, Product_no=CZ7-4
+[2017-03-27 10:31:21]nPos=1430, DB_OPT_插入_任务_成功：nTaskPos=20, Product_no=CZ7-4, Project_name=NC-HY15007-WAT-A1-03, nCodeCnt=20
+[2017-03-27 10:31:21]nPos=1431, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=1, szCodeName=03-046
+[2017-03-27 10:31:21]nPos=1432, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=2, szCodeName=03-047
+[2017-03-27 10:31:21]nPos=1433, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=3, szCodeName=03-048
+[2017-03-27 10:31:21]nPos=1434, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=4, szCodeName=03-049
+[2017-03-27 10:31:21]nPos=1435, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=5, szCodeName=03-050
+[2017-03-27 10:31:21]nPos=1436, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=6, szCodeName=03-051
+[2017-03-27 10:31:21]nPos=1437, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=7, szCodeName=03-052
+[2017-03-27 10:31:21]nPos=1438, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=8, szCodeName=03-053
+[2017-03-27 10:31:21]nPos=1439, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=9, szCodeName=03-054
+[2017-03-27 10:31:21]nPos=1440, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=10, szCodeName=03-055
+[2017-03-27 10:31:21]nPos=1441, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=11, szCodeName=03-056
+[2017-03-27 10:31:21]nPos=1442, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=12, szCodeName=03-057
+[2017-03-27 10:31:21]nPos=1443, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=13, szCodeName=03-058
+[2017-03-27 10:31:21]nPos=1444, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=14, szCodeName=03-059
+[2017-03-27 10:31:21]nPos=1445, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=15, szCodeName=03-060
+[2017-03-27 10:31:21]nPos=1446, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=16, szCodeName=03-061
+[2017-03-27 10:31:21]nPos=1447, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=17, szCodeName=03-062
+[2017-03-27 10:31:21]nPos=1448, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=18, szCodeName=03-063
+[2017-03-27 10:31:21]nPos=1449, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=19, szCodeName=03-064
+[2017-03-27 10:31:21]nPos=1450, DB_OPT_插入_任务编号_成功：nTaskPos=20, Product_no=CZ7-4, nCodeIndex=20, szCodeName=03-065
+[2017-03-27 10:31:21]nPos=1451, DB_OPT_插入_产品代号_代号已存在：nProdPos=21, Product_no=CZ7-4
+[2017-03-27 10:31:21]nPos=1452, DB_OPT_插入_任务_成功：nTaskPos=21, Product_no=CZ7-4, Project_name=NC-HY15007-WAT-A1-02, nCodeCnt=5
+[2017-03-27 10:31:21]nPos=1453, DB_OPT_插入_任务编号_成功：nTaskPos=21, Product_no=CZ7-4, nCodeIndex=1, szCodeName=03-041
+[2017-03-27 10:31:21]nPos=1454, DB_OPT_插入_任务编号_成功：nTaskPos=21, Product_no=CZ7-4, nCodeIndex=2, szCodeName=03-042
+[2017-03-27 10:31:21]nPos=1455, DB_OPT_插入_任务编号_成功：nTaskPos=21, Product_no=CZ7-4, nCodeIndex=3, szCodeName=03-043
+[2017-03-27 10:31:21]nPos=1456, DB_OPT_插入_任务编号_成功：nTaskPos=21, Product_no=CZ7-4, nCodeIndex=4, szCodeName=03-044
+[2017-03-27 10:31:21]nPos=1457, DB_OPT_插入_任务编号_成功：nTaskPos=21, Product_no=CZ7-4, nCodeIndex=5, szCodeName=03-045
+[2017-03-27 10:31:21]nPos=1458, DB_OPT_插入_产品代号_代号已存在：nProdPos=22, Product_no=CZ7-4
+[2017-03-27 10:31:21]nPos=1459, DB_OPT_插入_任务_成功：nTaskPos=22, Product_no=CZ7-4, Project_name=NC-HY15007-WAT-A1-08, nCodeCnt=5
+[2017-03-27 10:31:21]nPos=1460, DB_OPT_插入_任务编号_成功：nTaskPos=22, Product_no=CZ7-4, nCodeIndex=1, szCodeName=03-036
+[2017-03-27 10:31:21]nPos=1461, DB_OPT_插入_任务编号_成功：nTaskPos=22, Product_no=CZ7-4, nCodeIndex=2, szCodeName=03-037
+[2017-03-27 10:31:21]nPos=1462, DB_OPT_插入_任务编号_成功：nTaskPos=22, Product_no=CZ7-4, nCodeIndex=3, szCodeName=03-038
+[2017-03-27 10:31:21]nPos=1463, DB_OPT_插入_任务编号_成功：nTaskPos=22, Product_no=CZ7-4, nCodeIndex=4, szCodeName=03-039
+[2017-03-27 10:31:21]nPos=1464, DB_OPT_插入_任务编号_成功：nTaskPos=22, Product_no=CZ7-4, nCodeIndex=5, szCodeName=03-040
+[2017-03-27 10:31:21]nPos=1465, DB_OPT_插入_产品代号_代号已存在：nProdPos=23, Product_no=CZ7-4
+[2017-03-27 10:31:21]nPos=1466, DB_OPT_插入_任务_成功：nTaskPos=23, Product_no=CZ7-4, Project_name=NC-HY15007-WAT-A1-06, nCodeCnt=5
+[2017-03-27 10:31:21]nPos=1467, DB_OPT_插入_任务编号_成功：nTaskPos=23, Product_no=CZ7-4, nCodeIndex=1, szCodeName=03-031
+[2017-03-27 10:31:21]nPos=1468, DB_OPT_插入_任务编号_成功：nTaskPos=23, Product_no=CZ7-4, nCodeIndex=2, szCodeName=03-032
+[2017-03-27 10:31:21]nPos=1469, DB_OPT_插入_任务编号_成功：nTaskPos=23, Product_no=CZ7-4, nCodeIndex=3, szCodeName=03-033
+[2017-03-27 10:31:21]nPos=1470, DB_OPT_插入_任务编号_成功：nTaskPos=23, Product_no=CZ7-4, nCodeIndex=4, szCodeName=03-034
+[2017-03-27 10:31:21]nPos=1471, DB_OPT_插入_任务编号_成功：nTaskPos=23, Product_no=CZ7-4, nCodeIndex=5, szCodeName=03-035
+[2017-03-27 10:31:21]nPos=1472, DB_OPT_插入_产品代号_代号已存在：nProdPos=24, Product_no=CZ7-4
+[2017-03-27 10:31:21]nPos=1473, DB_OPT_插入_任务_成功：nTaskPos=24, Product_no=CZ7-4, Project_name=NC-HY15007-WAT-A1-01, nCodeCnt=30
+[2017-03-27 10:31:21]nPos=1474, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=1, szCodeName=03-001
+[2017-03-27 10:31:21]nPos=1475, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=2, szCodeName=03-002
+[2017-03-27 10:31:21]nPos=1476, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=3, szCodeName=03-003
+[2017-03-27 10:31:21]nPos=1477, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=4, szCodeName=03-004
+[2017-03-27 10:31:21]nPos=1478, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=5, szCodeName=03-005
+[2017-03-27 10:31:21]nPos=1479, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=6, szCodeName=03-006
+[2017-03-27 10:31:21]nPos=1480, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=7, szCodeName=03-007
+[2017-03-27 10:31:21]nPos=1481, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=8, szCodeName=03-008
+[2017-03-27 10:31:21]nPos=1482, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=9, szCodeName=03-009
+[2017-03-27 10:31:21]nPos=1483, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=10, szCodeName=03-010
+[2017-03-27 10:31:21]nPos=1484, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=11, szCodeName=03-011
+[2017-03-27 10:31:21]nPos=1485, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=12, szCodeName=03-012
+[2017-03-27 10:31:21]nPos=1486, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=13, szCodeName=03-013
+[2017-03-27 10:31:21]nPos=1487, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=14, szCodeName=03-014
+[2017-03-27 10:31:21]nPos=1488, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=15, szCodeName=03-015
+[2017-03-27 10:31:21]nPos=1489, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=16, szCodeName=03-016
+[2017-03-27 10:31:21]nPos=1490, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=17, szCodeName=03-017
+[2017-03-27 10:31:21]nPos=1491, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=18, szCodeName=03-018
+[2017-03-27 10:31:21]nPos=1492, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=19, szCodeName=03-019
+[2017-03-27 10:31:21]nPos=1493, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=20, szCodeName=03-020
+[2017-03-27 10:31:21]nPos=1494, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=21, szCodeName=03-021
+[2017-03-27 10:31:21]nPos=1495, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=22, szCodeName=03-022
+[2017-03-27 10:31:21]nPos=1496, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=23, szCodeName=03-023
+[2017-03-27 10:31:21]nPos=1497, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=24, szCodeName=03-024
+[2017-03-27 10:31:21]nPos=1498, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=25, szCodeName=03-025
+[2017-03-27 10:31:21]nPos=1499, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=26, szCodeName=03-026
+[2017-03-27 10:31:21]nPos=1500, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=27, szCodeName=03-027
+[2017-03-27 10:31:21]nPos=1501, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=28, szCodeName=03-028
+[2017-03-27 10:31:21]nPos=1502, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=29, szCodeName=03-029
+[2017-03-27 10:31:21]nPos=1503, DB_OPT_插入_任务编号_成功：nTaskPos=24, Product_no=CZ7-4, nCodeIndex=30, szCodeName=03-030
+[2017-03-27 10:31:21]nPos=1504, DB_OPT_插入_产品代号_成功：nProdPos=25, Product_no=CY8-36
+[2017-03-27 10:31:21]nPos=1505, DB_OPT_插入_任务_成功：nTaskPos=25, Product_no=CY8-36, Project_name=HC-HJ15017-WY18-A1-01, nCodeCnt=6
+[2017-03-27 10:31:21]nPos=1506, DB_OPT_插入_任务编号_成功：nTaskPos=25, Product_no=CY8-36, nCodeIndex=1, szCodeName=10-015
+[2017-03-27 10:31:21]nPos=1507, DB_OPT_插入_任务编号_成功：nTaskPos=25, Product_no=CY8-36, nCodeIndex=2, szCodeName=10-016
+[2017-03-27 10:31:21]nPos=1508, DB_OPT_插入_任务编号_成功：nTaskPos=25, Product_no=CY8-36, nCodeIndex=3, szCodeName=10-017
+[2017-03-27 10:31:21]nPos=1509, DB_OPT_插入_任务编号_成功：nTaskPos=25, Product_no=CY8-36, nCodeIndex=4, szCodeName=10-018
+[2017-03-27 10:31:21]nPos=1510, DB_OPT_插入_任务编号_成功：nTaskPos=25, Product_no=CY8-36, nCodeIndex=5, szCodeName=10-019
+[2017-03-27 10:31:21]nPos=1511, DB_OPT_插入_任务编号_成功：nTaskPos=25, Product_no=CY8-36, nCodeIndex=6, szCodeName=10-020
+[2017-03-27 10:31:21]nPos=1512, DB_OPT_插入_产品代号_成功：nProdPos=26, Product_no=CY5-12
+[2017-03-27 10:31:21]nPos=1513, DB_OPT_插入_任务_成功：nTaskPos=26, Product_no=CY5-12, Project_name=NC-YH1451-W600-A1-12, nCodeCnt=18
+[2017-03-27 10:31:21]nPos=1514, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=1, szCodeName=72-001
+[2017-03-27 10:31:21]nPos=1515, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=2, szCodeName=72-002
+[2017-03-27 10:31:21]nPos=1516, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=3, szCodeName=72-003
+[2017-03-27 10:31:21]nPos=1517, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=4, szCodeName=72-004
+[2017-03-27 10:31:21]nPos=1518, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=5, szCodeName=72-005
+[2017-03-27 10:31:21]nPos=1519, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=6, szCodeName=72-006
+[2017-03-27 10:31:21]nPos=1520, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=7, szCodeName=72-007
+[2017-03-27 10:31:21]nPos=1521, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=8, szCodeName=72-008
+[2017-03-27 10:31:21]nPos=1522, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=9, szCodeName=72-009
+[2017-03-27 10:31:21]nPos=1523, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=10, szCodeName=72-010
+[2017-03-27 10:31:21]nPos=1524, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=11, szCodeName=72-011
+[2017-03-27 10:31:21]nPos=1525, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=12, szCodeName=72-012
+[2017-03-27 10:31:21]nPos=1526, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=13, szCodeName=72-013
+[2017-03-27 10:31:21]nPos=1527, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=14, szCodeName=72-014
+[2017-03-27 10:31:21]nPos=1528, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=15, szCodeName=72-015
+[2017-03-27 10:31:21]nPos=1529, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=16, szCodeName=72-016
+[2017-03-27 10:31:21]nPos=1530, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=17, szCodeName=72-017
+[2017-03-27 10:31:21]nPos=1531, DB_OPT_插入_任务编号_成功：nTaskPos=26, Product_no=CY5-12, nCodeIndex=18, szCodeName=72-018
+[2017-03-27 10:31:21]nPos=1532, DB_OPT_插入_产品代号_成功：nProdPos=27, Product_no=CY8-29B
+[2017-03-27 10:31:21]nPos=1533, DB_OPT_插入_任务_成功：nTaskPos=27, Product_no=CY8-29B, Project_name=NC-HY15014-Y5-A1-04, nCodeCnt=70
+[2017-03-27 10:31:21]nPos=1534, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=1, szCodeName=06-221
+[2017-03-27 10:31:21]nPos=1535, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=2, szCodeName=06-222
+[2017-03-27 10:31:21]nPos=1536, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=3, szCodeName=06-223
+[2017-03-27 10:31:21]nPos=1537, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=4, szCodeName=06-224
+[2017-03-27 10:31:21]nPos=1538, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=5, szCodeName=06-225
+[2017-03-27 10:31:21]nPos=1539, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=6, szCodeName=06-226
+[2017-03-27 10:31:21]nPos=1540, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=7, szCodeName=06-227
+[2017-03-27 10:31:21]nPos=1541, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=8, szCodeName=06-228
+[2017-03-27 10:31:21]nPos=1542, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=9, szCodeName=06-229
+[2017-03-27 10:31:21]nPos=1543, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=10, szCodeName=06-230
+[2017-03-27 10:31:21]nPos=1544, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=11, szCodeName=06-231
+[2017-03-27 10:31:21]nPos=1545, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=12, szCodeName=06-232
+[2017-03-27 10:31:21]nPos=1546, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=13, szCodeName=06-233
+[2017-03-27 10:31:21]nPos=1547, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=14, szCodeName=06-234
+[2017-03-27 10:31:21]nPos=1548, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=15, szCodeName=06-235
+[2017-03-27 10:31:21]nPos=1549, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=16, szCodeName=06-236
+[2017-03-27 10:31:21]nPos=1550, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=17, szCodeName=06-237
+[2017-03-27 10:31:21]nPos=1551, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=18, szCodeName=06-238
+[2017-03-27 10:31:21]nPos=1552, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=19, szCodeName=06-239
+[2017-03-27 10:31:21]nPos=1553, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=20, szCodeName=06-240
+[2017-03-27 10:31:21]nPos=1554, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=21, szCodeName=06-241
+[2017-03-27 10:31:21]nPos=1555, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=22, szCodeName=06-242
+[2017-03-27 10:31:21]nPos=1556, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=23, szCodeName=06-243
+[2017-03-27 10:31:21]nPos=1557, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=24, szCodeName=06-244
+[2017-03-27 10:31:21]nPos=1558, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=25, szCodeName=06-245
+[2017-03-27 10:31:21]nPos=1559, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=26, szCodeName=06-246
+[2017-03-27 10:31:21]nPos=1560, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=27, szCodeName=06-247
+[2017-03-27 10:31:21]nPos=1561, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=28, szCodeName=06-248
+[2017-03-27 10:31:21]nPos=1562, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=29, szCodeName=06-249
+[2017-03-27 10:31:21]nPos=1563, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=30, szCodeName=06-250
+[2017-03-27 10:31:21]nPos=1564, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=31, szCodeName=06-251
+[2017-03-27 10:31:21]nPos=1565, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=32, szCodeName=06-252
+[2017-03-27 10:31:21]nPos=1566, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=33, szCodeName=06-253
+[2017-03-27 10:31:21]nPos=1567, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=34, szCodeName=06-254
+[2017-03-27 10:31:21]nPos=1568, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=35, szCodeName=06-255
+[2017-03-27 10:31:21]nPos=1569, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=36, szCodeName=06-256
+[2017-03-27 10:31:21]nPos=1570, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=37, szCodeName=06-257
+[2017-03-27 10:31:21]nPos=1571, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=38, szCodeName=06-258
+[2017-03-27 10:31:21]nPos=1572, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=39, szCodeName=06-259
+[2017-03-27 10:31:21]nPos=1573, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=40, szCodeName=06-260
+[2017-03-27 10:31:21]nPos=1574, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=41, szCodeName=06-261
+[2017-03-27 10:31:21]nPos=1575, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=42, szCodeName=06-262
+[2017-03-27 10:31:21]nPos=1576, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=43, szCodeName=06-263
+[2017-03-27 10:31:21]nPos=1577, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=44, szCodeName=06-264
+[2017-03-27 10:31:21]nPos=1578, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=45, szCodeName=06-265
+[2017-03-27 10:31:21]nPos=1579, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=46, szCodeName=06-266
+[2017-03-27 10:31:21]nPos=1580, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=47, szCodeName=06-267
+[2017-03-27 10:31:21]nPos=1581, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=48, szCodeName=06-268
+[2017-03-27 10:31:21]nPos=1582, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=49, szCodeName=06-269
+[2017-03-27 10:31:21]nPos=1583, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=50, szCodeName=06-270
+[2017-03-27 10:31:21]nPos=1584, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=51, szCodeName=06-271
+[2017-03-27 10:31:21]nPos=1585, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=52, szCodeName=06-272
+[2017-03-27 10:31:21]nPos=1586, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=53, szCodeName=06-273
+[2017-03-27 10:31:21]nPos=1587, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=54, szCodeName=06-274
+[2017-03-27 10:31:21]nPos=1588, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=55, szCodeName=06-275
+[2017-03-27 10:31:21]nPos=1589, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=56, szCodeName=06-276
+[2017-03-27 10:31:21]nPos=1590, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=57, szCodeName=06-277
+[2017-03-27 10:31:21]nPos=1591, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=58, szCodeName=06-278
+[2017-03-27 10:31:21]nPos=1592, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=59, szCodeName=06-279
+[2017-03-27 10:31:21]nPos=1593, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=60, szCodeName=06-280
+[2017-03-27 10:31:21]nPos=1594, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=61, szCodeName=06-281
+[2017-03-27 10:31:21]nPos=1595, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=62, szCodeName=06-282
+[2017-03-27 10:31:21]nPos=1596, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=63, szCodeName=06-283
+[2017-03-27 10:31:21]nPos=1597, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=64, szCodeName=06-284
+[2017-03-27 10:31:21]nPos=1598, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=65, szCodeName=06-285
+[2017-03-27 10:31:21]nPos=1599, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=66, szCodeName=06-286
+[2017-03-27 10:31:21]nPos=1600, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=67, szCodeName=06-287
+[2017-03-27 10:31:21]nPos=1601, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=68, szCodeName=06-288
+[2017-03-27 10:31:21]nPos=1602, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=69, szCodeName=06-289
+[2017-03-27 10:31:21]nPos=1603, DB_OPT_插入_任务编号_成功：nTaskPos=27, Product_no=CY8-29B, nCodeIndex=70, szCodeName=06-290
+[2017-03-27 10:31:21]nPos=1604, DB_OPT_插入_产品代号_代号已存在：nProdPos=28, Product_no=CY8-29B
+[2017-03-27 10:31:21]nPos=1605, DB_OPT_插入_任务_成功：nTaskPos=28, Product_no=CY8-29B, Project_name=NC-HY15014-Y5-A1-09, nCodeCnt=25
+[2017-03-27 10:31:21]nPos=1606, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=1, szCodeName=06-001
+[2017-03-27 10:31:21]nPos=1607, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=2, szCodeName=06-002
+[2017-03-27 10:31:21]nPos=1608, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=3, szCodeName=06-003
+[2017-03-27 10:31:21]nPos=1609, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=4, szCodeName=06-004
+[2017-03-27 10:31:21]nPos=1610, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=5, szCodeName=06-005
+[2017-03-27 10:31:21]nPos=1611, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=6, szCodeName=06-006
+[2017-03-27 10:31:21]nPos=1612, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=7, szCodeName=06-007
+[2017-03-27 10:31:21]nPos=1613, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=8, szCodeName=06-008
+[2017-03-27 10:31:21]nPos=1614, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=9, szCodeName=06-009
+[2017-03-27 10:31:21]nPos=1615, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=10, szCodeName=06-010
+[2017-03-27 10:31:21]nPos=1616, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=11, szCodeName=06-011
+[2017-03-27 10:31:21]nPos=1617, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=12, szCodeName=06-012
+[2017-03-27 10:31:21]nPos=1618, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=13, szCodeName=06-013
+[2017-03-27 10:31:21]nPos=1619, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=14, szCodeName=06-014
+[2017-03-27 10:31:21]nPos=1620, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=15, szCodeName=06-015
+[2017-03-27 10:31:21]nPos=1621, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=16, szCodeName=06-016
+[2017-03-27 10:31:21]nPos=1622, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=17, szCodeName=06-017
+[2017-03-27 10:31:21]nPos=1623, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=18, szCodeName=06-018
+[2017-03-27 10:31:21]nPos=1624, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=19, szCodeName=06-019
+[2017-03-27 10:31:21]nPos=1625, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=20, szCodeName=06-020
+[2017-03-27 10:31:21]nPos=1626, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=21, szCodeName=06-021
+[2017-03-27 10:31:21]nPos=1627, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=22, szCodeName=06-022
+[2017-03-27 10:31:21]nPos=1628, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=23, szCodeName=06-023
+[2017-03-27 10:31:21]nPos=1629, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=24, szCodeName=06-024
+[2017-03-27 10:31:21]nPos=1630, DB_OPT_插入_任务编号_成功：nTaskPos=28, Product_no=CY8-29B, nCodeIndex=25, szCodeName=06-025
+[2017-03-27 10:31:21]nPos=1631, DB_OPT_插入_产品代号_成功：nProdPos=29, Product_no=CY5-3
+[2017-03-27 10:31:21]nPos=1632, DB_OPT_插入_任务_成功：nTaskPos=29, Product_no=CY5-3, Project_name=NC-YH1313-W31A-A1-29, nCodeCnt=42
+[2017-03-27 10:31:21]nPos=1633, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=1, szCodeName=06-001
+[2017-03-27 10:31:21]nPos=1634, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=2, szCodeName=06-002
+[2017-03-27 10:31:21]nPos=1635, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=3, szCodeName=06-003
+[2017-03-27 10:31:21]nPos=1636, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=4, szCodeName=06-004
+[2017-03-27 10:31:21]nPos=1637, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=5, szCodeName=06-005
+[2017-03-27 10:31:21]nPos=1638, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=6, szCodeName=06-006
+[2017-03-27 10:31:21]nPos=1639, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=7, szCodeName=06-007
+[2017-03-27 10:31:21]nPos=1640, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=8, szCodeName=06-008
+[2017-03-27 10:31:21]nPos=1641, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=9, szCodeName=06-009
+[2017-03-27 10:31:21]nPos=1642, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=10, szCodeName=06-010
+[2017-03-27 10:31:21]nPos=1643, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=11, szCodeName=06-011
+[2017-03-27 10:31:21]nPos=1644, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=12, szCodeName=06-012
+[2017-03-27 10:31:21]nPos=1645, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=13, szCodeName=06-013
+[2017-03-27 10:31:21]nPos=1646, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=14, szCodeName=06-014
+[2017-03-27 10:31:21]nPos=1647, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=15, szCodeName=06-015
+[2017-03-27 10:31:21]nPos=1648, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=16, szCodeName=06-016
+[2017-03-27 10:31:21]nPos=1649, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=17, szCodeName=06-017
+[2017-03-27 10:31:21]nPos=1650, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=18, szCodeName=06-018
+[2017-03-27 10:31:21]nPos=1651, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=19, szCodeName=06-019
+[2017-03-27 10:31:21]nPos=1652, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=20, szCodeName=06-020
+[2017-03-27 10:31:21]nPos=1653, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=21, szCodeName=06-021
+[2017-03-27 10:31:21]nPos=1654, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=22, szCodeName=06-022
+[2017-03-27 10:31:21]nPos=1655, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=23, szCodeName=06-023
+[2017-03-27 10:31:21]nPos=1656, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=24, szCodeName=06-024
+[2017-03-27 10:31:21]nPos=1657, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=25, szCodeName=06-025
+[2017-03-27 10:31:21]nPos=1658, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=26, szCodeName=06-026
+[2017-03-27 10:31:21]nPos=1659, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=27, szCodeName=06-027
+[2017-03-27 10:31:21]nPos=1660, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=28, szCodeName=06-028
+[2017-03-27 10:31:21]nPos=1661, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=29, szCodeName=06-029
+[2017-03-27 10:31:21]nPos=1662, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=30, szCodeName=06-030
+[2017-03-27 10:31:21]nPos=1663, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=31, szCodeName=06-031
+[2017-03-27 10:31:21]nPos=1664, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=32, szCodeName=06-032
+[2017-03-27 10:31:21]nPos=1665, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=33, szCodeName=06-033
+[2017-03-27 10:31:21]nPos=1666, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=34, szCodeName=06-034
+[2017-03-27 10:31:21]nPos=1667, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=35, szCodeName=06-035
+[2017-03-27 10:31:21]nPos=1668, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=36, szCodeName=06-036
+[2017-03-27 10:31:21]nPos=1669, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=37, szCodeName=06-037
+[2017-03-27 10:31:21]nPos=1670, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=38, szCodeName=06-038
+[2017-03-27 10:31:21]nPos=1671, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=39, szCodeName=06-039
+[2017-03-27 10:31:21]nPos=1672, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=40, szCodeName=06-040
+[2017-03-27 10:31:21]nPos=1673, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=41, szCodeName=06-041
+[2017-03-27 10:31:21]nPos=1674, DB_OPT_插入_任务编号_成功：nTaskPos=29, Product_no=CY5-3, nCodeIndex=42, szCodeName=06-042
+[2017-03-27 10:31:21]nPos=1675, DB_OPT_插入_产品代号_成功：nProdPos=30, Product_no=CY8-13
+[2017-03-27 10:31:21]nPos=1676, DB_OPT_插入_任务_成功：nTaskPos=30, Product_no=CY8-13, Project_name=NC-YH1451-W600-A1-09, nCodeCnt=10
+[2017-03-27 10:31:21]nPos=1677, DB_OPT_插入_任务编号_成功：nTaskPos=30, Product_no=CY8-13, nCodeIndex=1, szCodeName=73-031
+[2017-03-27 10:31:21]nPos=1678, DB_OPT_插入_任务编号_成功：nTaskPos=30, Product_no=CY8-13, nCodeIndex=2, szCodeName=73-032
+[2017-03-27 10:31:21]nPos=1679, DB_OPT_插入_任务编号_成功：nTaskPos=30, Product_no=CY8-13, nCodeIndex=3, szCodeName=73-033
+[2017-03-27 10:31:21]nPos=1680, DB_OPT_插入_任务编号_成功：nTaskPos=30, Product_no=CY8-13, nCodeIndex=4, szCodeName=73-034
+[2017-03-27 10:31:21]nPos=1681, DB_OPT_插入_任务编号_成功：nTaskPos=30, Product_no=CY8-13, nCodeIndex=5, szCodeName=73-035
+[2017-03-27 10:31:21]nPos=1682, DB_OPT_插入_任务编号_成功：nTaskPos=30, Product_no=CY8-13, nCodeIndex=6, szCodeName=73-036
+[2017-03-27 10:31:21]nPos=1683, DB_OPT_插入_任务编号_成功：nTaskPos=30, Product_no=CY8-13, nCodeIndex=7, szCodeName=73-037
+[2017-03-27 10:31:21]nPos=1684, DB_OPT_插入_任务编号_成功：nTaskPos=30, Product_no=CY8-13, nCodeIndex=8, szCodeName=73-038
+[2017-03-27 10:31:21]nPos=1685, DB_OPT_插入_任务编号_成功：nTaskPos=30, Product_no=CY8-13, nCodeIndex=9, szCodeName=73-039
+[2017-03-27 10:31:21]nPos=1686, DB_OPT_插入_任务编号_成功：nTaskPos=30, Product_no=CY8-13, nCodeIndex=10, szCodeName=73-040
+[2017-03-27 10:31:21]nPos=1687, DB_OPT_插入_产品代号_代号已存在：nProdPos=31, Product_no=CY8-13
+[2017-03-27 10:31:21]nPos=1688, DB_OPT_插入_任务_成功：nTaskPos=31, Product_no=CY8-13, Project_name=NC-YH1597-W1200-A1-19, nCodeCnt=10
+[2017-03-27 10:31:21]nPos=1689, DB_OPT_插入_任务编号_成功：nTaskPos=31, Product_no=CY8-13, nCodeIndex=1, szCodeName=74-031
+[2017-03-27 10:31:21]nPos=1690, DB_OPT_插入_任务编号_成功：nTaskPos=31, Product_no=CY8-13, nCodeIndex=2, szCodeName=74-032
+[2017-03-27 10:31:21]nPos=1691, DB_OPT_插入_任务编号_成功：nTaskPos=31, Product_no=CY8-13, nCodeIndex=3, szCodeName=74-033
+[2017-03-27 10:31:21]nPos=1692, DB_OPT_插入_任务编号_成功：nTaskPos=31, Product_no=CY8-13, nCodeIndex=4, szCodeName=74-034
+[2017-03-27 10:31:21]nPos=1693, DB_OPT_插入_任务编号_成功：nTaskPos=31, Product_no=CY8-13, nCodeIndex=5, szCodeName=74-035
+[2017-03-27 10:31:21]nPos=1694, DB_OPT_插入_任务编号_成功：nTaskPos=31, Product_no=CY8-13, nCodeIndex=6, szCodeName=74-036
+[2017-03-27 10:31:21]nPos=1695, DB_OPT_插入_任务编号_成功：nTaskPos=31, Product_no=CY8-13, nCodeIndex=7, szCodeName=74-037
+[2017-03-27 10:31:21]nPos=1696, DB_OPT_插入_任务编号_成功：nTaskPos=31, Product_no=CY8-13, nCodeIndex=8, szCodeName=74-038
+[2017-03-27 10:31:21]nPos=1697, DB_OPT_插入_任务编号_成功：nTaskPos=31, Product_no=CY8-13, nCodeIndex=9, szCodeName=74-039
+[2017-03-27 10:31:21]nPos=1698, DB_OPT_插入_任务编号_成功：nTaskPos=31, Product_no=CY8-13, nCodeIndex=10, szCodeName=74-040
+[2017-03-27 10:31:21]nPos=1699, DB_OPT_插入_产品代号_成功：nProdPos=32, Product_no=CR10-1
+[2017-03-27 10:31:21]nPos=1700, DB_OPT_插入_任务_成功：nTaskPos=32, Product_no=CR10-1, Project_name=ZC-JH1211-Y3B08-A1-181, nCodeCnt=11
+[2017-03-27 10:31:21]nPos=1701, DB_OPT_插入_任务编号_成功：nTaskPos=32, Product_no=CR10-1, nCodeIndex=1, szCodeName=03-007
+[2017-03-27 10:31:21]nPos=1702, DB_OPT_插入_任务编号_成功：nTaskPos=32, Product_no=CR10-1, nCodeIndex=2, szCodeName=03-008
+[2017-03-27 10:31:21]nPos=1703, DB_OPT_插入_任务编号_成功：nTaskPos=32, Product_no=CR10-1, nCodeIndex=3, szCodeName=03-009
+[2017-03-27 10:31:21]nPos=1704, DB_OPT_插入_任务编号_成功：nTaskPos=32, Product_no=CR10-1, nCodeIndex=4, szCodeName=03-010
+[2017-03-27 10:31:21]nPos=1705, DB_OPT_插入_任务编号_成功：nTaskPos=32, Product_no=CR10-1, nCodeIndex=5, szCodeName=03-012
+[2017-03-27 10:31:21]nPos=1706, DB_OPT_插入_任务编号_成功：nTaskPos=32, Product_no=CR10-1, nCodeIndex=6, szCodeName=03-013
+[2017-03-27 10:31:21]nPos=1707, DB_OPT_插入_任务编号_成功：nTaskPos=32, Product_no=CR10-1, nCodeIndex=7, szCodeName=03-014
+[2017-03-27 10:31:21]nPos=1708, DB_OPT_插入_任务编号_成功：nTaskPos=32, Product_no=CR10-1, nCodeIndex=8, szCodeName=03-015
+[2017-03-27 10:31:21]nPos=1709, DB_OPT_插入_任务编号_成功：nTaskPos=32, Product_no=CR10-1, nCodeIndex=9, szCodeName=03-016
+[2017-03-27 10:31:21]nPos=1710, DB_OPT_插入_任务编号_成功：nTaskPos=32, Product_no=CR10-1, nCodeIndex=10, szCodeName=03-018
+[2017-03-27 10:31:21]nPos=1711, DB_OPT_插入_任务编号_成功：nTaskPos=32, Product_no=CR10-1, nCodeIndex=11, szCodeName=03-019
+[2017-03-27 10:31:21]nPos=1712, DB_OPT_插入_产品代号_成功：nProdPos=33, Product_no=CW1-22
+[2017-03-27 10:31:21]nPos=1713, DB_OPT_插入_任务_成功：nTaskPos=33, Product_no=CW1-22, Project_name=NC-HY13001-Y5-A1-42, nCodeCnt=15
+[2017-03-27 10:31:21]nPos=1714, DB_OPT_插入_任务编号_成功：nTaskPos=33, Product_no=CW1-22, nCodeIndex=1, szCodeName=51-001
+[2017-03-27 10:31:21]nPos=1715, DB_OPT_插入_任务编号_成功：nTaskPos=33, Product_no=CW1-22, nCodeIndex=2, szCodeName=51-002
+[2017-03-27 10:31:21]nPos=1716, DB_OPT_插入_任务编号_成功：nTaskPos=33, Product_no=CW1-22, nCodeIndex=3, szCodeName=51-003
+[2017-03-27 10:31:21]nPos=1717, DB_OPT_插入_任务编号_成功：nTaskPos=33, Product_no=CW1-22, nCodeIndex=4, szCodeName=51-004
+[2017-03-27 10:31:21]nPos=1718, DB_OPT_插入_任务编号_成功：nTaskPos=33, Product_no=CW1-22, nCodeIndex=5, szCodeName=51-005
+[2017-03-27 10:31:21]nPos=1719, DB_OPT_插入_任务编号_成功：nTaskPos=33, Product_no=CW1-22, nCodeIndex=6, szCodeName=51-006
+[2017-03-27 10:31:21]nPos=1720, DB_OPT_插入_任务编号_成功：nTaskPos=33, Product_no=CW1-22, nCodeIndex=7, szCodeName=51-007
+[2017-03-27 10:31:21]nPos=1721, DB_OPT_插入_任务编号_成功：nTaskPos=33, Product_no=CW1-22, nCodeIndex=8, szCodeName=51-008
+[2017-03-27 10:31:21]nPos=1722, DB_OPT_插入_任务编号_成功：nTaskPos=33, Product_no=CW1-22, nCodeIndex=9, szCodeName=51-009
+[2017-03-27 10:31:21]nPos=1723, DB_OPT_插入_任务编号_成功：nTaskPos=33, Product_no=CW1-22, nCodeIndex=10, szCodeName=51-010
+[2017-03-27 10:31:21]nPos=1724, DB_OPT_插入_任务编号_成功：nTaskPos=33, Product_no=CW1-22, nCodeIndex=11, szCodeName=51-011
+[2017-03-27 10:31:21]nPos=1725, DB_OPT_插入_任务编号_成功：nTaskPos=33, Product_no=CW1-22, nCodeIndex=12, szCodeName=51-012
+[2017-03-27 10:31:21]nPos=1726, DB_OPT_插入_任务编号_成功：nTaskPos=33, Product_no=CW1-22, nCodeIndex=13, szCodeName=51-013
+[2017-03-27 10:31:21]nPos=1727, DB_OPT_插入_任务编号_成功：nTaskPos=33, Product_no=CW1-22, nCodeIndex=14, szCodeName=51-014
+[2017-03-27 10:31:21]nPos=1728, DB_OPT_插入_任务编号_成功：nTaskPos=33, Product_no=CW1-22, nCodeIndex=15, szCodeName=51-015
+[2017-03-27 10:31:21]nPos=1729, DB_OPT_插入_产品代号_代号已存在：nProdPos=34, Product_no=CW1-22
+[2017-03-27 10:31:21]nPos=1730, DB_OPT_插入_任务_成功：nTaskPos=34, Product_no=CW1-22, Project_name=NC-HY15014-Y5-A1-19, nCodeCnt=115
+[2017-03-27 10:31:21]nPos=1731, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=1, szCodeName=50-001
+[2017-03-27 10:31:21]nPos=1732, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=2, szCodeName=50-002
+[2017-03-27 10:31:21]nPos=1733, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=3, szCodeName=50-003
+[2017-03-27 10:31:21]nPos=1734, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=4, szCodeName=50-004
+[2017-03-27 10:31:21]nPos=1735, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=5, szCodeName=50-005
+[2017-03-27 10:31:21]nPos=1736, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=6, szCodeName=50-006
+[2017-03-27 10:31:21]nPos=1737, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=7, szCodeName=50-007
+[2017-03-27 10:31:21]nPos=1738, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=8, szCodeName=50-008
+[2017-03-27 10:31:21]nPos=1739, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=9, szCodeName=50-009
+[2017-03-27 10:31:21]nPos=1740, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=10, szCodeName=50-010
+[2017-03-27 10:31:21]nPos=1741, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=11, szCodeName=50-011
+[2017-03-27 10:31:21]nPos=1742, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=12, szCodeName=50-012
+[2017-03-27 10:31:21]nPos=1743, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=13, szCodeName=50-013
+[2017-03-27 10:31:21]nPos=1744, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=14, szCodeName=50-014
+[2017-03-27 10:31:21]nPos=1745, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=15, szCodeName=50-015
+[2017-03-27 10:31:21]nPos=1746, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=16, szCodeName=50-016
+[2017-03-27 10:31:21]nPos=1747, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=17, szCodeName=50-017
+[2017-03-27 10:31:21]nPos=1748, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=18, szCodeName=50-018
+[2017-03-27 10:31:21]nPos=1749, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=19, szCodeName=50-019
+[2017-03-27 10:31:21]nPos=1750, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=20, szCodeName=50-020
+[2017-03-27 10:31:21]nPos=1751, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=21, szCodeName=50-021
+[2017-03-27 10:31:21]nPos=1752, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=22, szCodeName=50-022
+[2017-03-27 10:31:21]nPos=1753, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=23, szCodeName=50-023
+[2017-03-27 10:31:21]nPos=1754, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=24, szCodeName=50-024
+[2017-03-27 10:31:21]nPos=1755, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=25, szCodeName=50-025
+[2017-03-27 10:31:21]nPos=1756, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=26, szCodeName=50-026
+[2017-03-27 10:31:21]nPos=1757, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=27, szCodeName=50-027
+[2017-03-27 10:31:21]nPos=1758, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=28, szCodeName=50-028
+[2017-03-27 10:31:21]nPos=1759, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=29, szCodeName=50-029
+[2017-03-27 10:31:21]nPos=1760, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=30, szCodeName=50-030
+[2017-03-27 10:31:21]nPos=1761, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=31, szCodeName=50-031
+[2017-03-27 10:31:21]nPos=1762, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=32, szCodeName=50-032
+[2017-03-27 10:31:21]nPos=1763, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=33, szCodeName=50-033
+[2017-03-27 10:31:21]nPos=1764, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=34, szCodeName=50-034
+[2017-03-27 10:31:21]nPos=1765, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=35, szCodeName=50-035
+[2017-03-27 10:31:21]nPos=1766, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=36, szCodeName=50-036
+[2017-03-27 10:31:21]nPos=1767, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=37, szCodeName=50-037
+[2017-03-27 10:31:21]nPos=1768, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=38, szCodeName=50-038
+[2017-03-27 10:31:21]nPos=1769, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=39, szCodeName=50-039
+[2017-03-27 10:31:21]nPos=1770, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=40, szCodeName=50-040
+[2017-03-27 10:31:21]nPos=1771, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=41, szCodeName=50-041
+[2017-03-27 10:31:21]nPos=1772, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=42, szCodeName=50-042
+[2017-03-27 10:31:21]nPos=1773, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=43, szCodeName=50-043
+[2017-03-27 10:31:21]nPos=1774, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=44, szCodeName=50-044
+[2017-03-27 10:31:21]nPos=1775, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=45, szCodeName=50-045
+[2017-03-27 10:31:21]nPos=1776, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=46, szCodeName=50-046
+[2017-03-27 10:31:21]nPos=1777, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=47, szCodeName=50-047
+[2017-03-27 10:31:21]nPos=1778, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=48, szCodeName=50-048
+[2017-03-27 10:31:21]nPos=1779, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=49, szCodeName=50-049
+[2017-03-27 10:31:21]nPos=1780, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=50, szCodeName=50-050
+[2017-03-27 10:31:21]nPos=1781, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=51, szCodeName=50-051
+[2017-03-27 10:31:21]nPos=1782, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=52, szCodeName=50-052
+[2017-03-27 10:31:21]nPos=1783, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=53, szCodeName=50-053
+[2017-03-27 10:31:21]nPos=1784, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=54, szCodeName=50-054
+[2017-03-27 10:31:21]nPos=1785, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=55, szCodeName=50-055
+[2017-03-27 10:31:21]nPos=1786, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=56, szCodeName=50-056
+[2017-03-27 10:31:21]nPos=1787, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=57, szCodeName=50-057
+[2017-03-27 10:31:21]nPos=1788, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=58, szCodeName=50-058
+[2017-03-27 10:31:21]nPos=1789, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=59, szCodeName=50-059
+[2017-03-27 10:31:21]nPos=1790, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=60, szCodeName=50-060
+[2017-03-27 10:31:21]nPos=1791, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=61, szCodeName=50-061
+[2017-03-27 10:31:21]nPos=1792, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=62, szCodeName=50-062
+[2017-03-27 10:31:21]nPos=1793, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=63, szCodeName=50-063
+[2017-03-27 10:31:21]nPos=1794, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=64, szCodeName=50-064
+[2017-03-27 10:31:21]nPos=1795, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=65, szCodeName=50-065
+[2017-03-27 10:31:21]nPos=1796, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=66, szCodeName=50-066
+[2017-03-27 10:31:21]nPos=1797, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=67, szCodeName=50-067
+[2017-03-27 10:31:21]nPos=1798, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=68, szCodeName=50-068
+[2017-03-27 10:31:21]nPos=1799, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=69, szCodeName=50-069
+[2017-03-27 10:31:21]nPos=1800, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=70, szCodeName=50-070
+[2017-03-27 10:31:21]nPos=1801, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=71, szCodeName=50-071
+[2017-03-27 10:31:21]nPos=1802, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=72, szCodeName=50-072
+[2017-03-27 10:31:21]nPos=1803, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=73, szCodeName=50-073
+[2017-03-27 10:31:21]nPos=1804, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=74, szCodeName=50-074
+[2017-03-27 10:31:21]nPos=1805, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=75, szCodeName=50-075
+[2017-03-27 10:31:21]nPos=1806, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=76, szCodeName=50-076
+[2017-03-27 10:31:21]nPos=1807, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=77, szCodeName=50-077
+[2017-03-27 10:31:21]nPos=1808, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=78, szCodeName=50-078
+[2017-03-27 10:31:21]nPos=1809, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=79, szCodeName=50-079
+[2017-03-27 10:31:21]nPos=1810, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=80, szCodeName=50-080
+[2017-03-27 10:31:21]nPos=1811, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=81, szCodeName=50-081
+[2017-03-27 10:31:21]nPos=1812, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=82, szCodeName=50-082
+[2017-03-27 10:31:21]nPos=1813, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=83, szCodeName=50-083
+[2017-03-27 10:31:21]nPos=1814, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=84, szCodeName=50-084
+[2017-03-27 10:31:21]nPos=1815, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=85, szCodeName=50-085
+[2017-03-27 10:31:21]nPos=1816, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=86, szCodeName=50-086
+[2017-03-27 10:31:21]nPos=1817, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=87, szCodeName=50-087
+[2017-03-27 10:31:21]nPos=1818, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=88, szCodeName=50-088
+[2017-03-27 10:31:21]nPos=1819, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=89, szCodeName=50-089
+[2017-03-27 10:31:21]nPos=1820, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=90, szCodeName=50-090
+[2017-03-27 10:31:21]nPos=1821, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=91, szCodeName=50-091
+[2017-03-27 10:31:21]nPos=1822, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=92, szCodeName=50-092
+[2017-03-27 10:31:21]nPos=1823, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=93, szCodeName=50-093
+[2017-03-27 10:31:21]nPos=1824, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=94, szCodeName=50-094
+[2017-03-27 10:31:21]nPos=1825, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=95, szCodeName=50-095
+[2017-03-27 10:31:21]nPos=1826, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=96, szCodeName=50-096
+[2017-03-27 10:31:21]nPos=1827, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=97, szCodeName=50-097
+[2017-03-27 10:31:21]nPos=1828, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=98, szCodeName=50-098
+[2017-03-27 10:31:21]nPos=1829, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=99, szCodeName=50-099
+[2017-03-27 10:31:21]nPos=1830, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=100, szCodeName=50-100
+[2017-03-27 10:31:21]nPos=1831, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=101, szCodeName=50-101
+[2017-03-27 10:31:21]nPos=1832, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=102, szCodeName=50-102
+[2017-03-27 10:31:21]nPos=1833, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=103, szCodeName=50-103
+[2017-03-27 10:31:21]nPos=1834, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=104, szCodeName=50-104
+[2017-03-27 10:31:21]nPos=1835, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=105, szCodeName=50-105
+[2017-03-27 10:31:21]nPos=1836, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=106, szCodeName=50-106
+[2017-03-27 10:31:21]nPos=1837, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=107, szCodeName=50-107
+[2017-03-27 10:31:21]nPos=1838, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=108, szCodeName=50-108
+[2017-03-27 10:31:21]nPos=1839, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=109, szCodeName=50-109
+[2017-03-27 10:31:21]nPos=1840, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=110, szCodeName=50-110
+[2017-03-27 10:31:21]nPos=1841, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=111, szCodeName=50-111
+[2017-03-27 10:31:21]nPos=1842, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=112, szCodeName=50-112
+[2017-03-27 10:31:21]nPos=1843, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=113, szCodeName=50-113
+[2017-03-27 10:31:21]nPos=1844, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=114, szCodeName=50-114
+[2017-03-27 10:31:21]nPos=1845, DB_OPT_插入_任务编号_成功：nTaskPos=34, Product_no=CW1-22, nCodeIndex=115, szCodeName=50-115
+[2017-03-27 10:31:21]nPos=1846, DB_OPT_插入_产品代号_代号已存在：nProdPos=35, Product_no=CW1-22
+[2017-03-27 10:31:21]nPos=1847, DB_OPT_插入_任务_成功：nTaskPos=35, Product_no=CW1-22, Project_name=NC-HY14007-Y5-A1-01, nCodeCnt=25
+[2017-03-27 10:31:21]nPos=1848, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=1, szCodeName=49-001
+[2017-03-27 10:31:21]nPos=1849, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=2, szCodeName=49-002
+[2017-03-27 10:31:21]nPos=1850, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=3, szCodeName=49-003
+[2017-03-27 10:31:21]nPos=1851, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=4, szCodeName=49-004
+[2017-03-27 10:31:21]nPos=1852, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=5, szCodeName=49-005
+[2017-03-27 10:31:21]nPos=1853, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=6, szCodeName=49-006
+[2017-03-27 10:31:21]nPos=1854, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=7, szCodeName=49-007
+[2017-03-27 10:31:21]nPos=1855, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=8, szCodeName=49-008
+[2017-03-27 10:31:21]nPos=1856, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=9, szCodeName=49-009
+[2017-03-27 10:31:21]nPos=1857, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=10, szCodeName=49-010
+[2017-03-27 10:31:21]nPos=1858, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=11, szCodeName=49-011
+[2017-03-27 10:31:21]nPos=1859, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=12, szCodeName=49-012
+[2017-03-27 10:31:21]nPos=1860, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=13, szCodeName=49-013
+[2017-03-27 10:31:21]nPos=1861, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=14, szCodeName=49-014
+[2017-03-27 10:31:21]nPos=1862, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=15, szCodeName=49-015
+[2017-03-27 10:31:21]nPos=1863, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=16, szCodeName=49-016
+[2017-03-27 10:31:21]nPos=1864, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=17, szCodeName=49-017
+[2017-03-27 10:31:21]nPos=1865, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=18, szCodeName=49-018
+[2017-03-27 10:31:21]nPos=1866, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=19, szCodeName=49-019
+[2017-03-27 10:31:21]nPos=1867, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=20, szCodeName=49-020
+[2017-03-27 10:31:21]nPos=1868, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=21, szCodeName=49-021
+[2017-03-27 10:31:21]nPos=1869, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=22, szCodeName=49-022
+[2017-03-27 10:31:21]nPos=1870, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=23, szCodeName=49-023
+[2017-03-27 10:31:21]nPos=1871, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=24, szCodeName=49-024
+[2017-03-27 10:31:21]nPos=1872, DB_OPT_插入_任务编号_成功：nTaskPos=35, Product_no=CW1-22, nCodeIndex=25, szCodeName=49-025
+[2017-03-27 10:31:21]nPos=1873, DB_OPT_插入_产品代号_成功：nProdPos=36, Product_no=YA12-35A
+[2017-03-27 10:31:21]nPos=1874, DB_OPT_插入_任务_成功：nTaskPos=36, Product_no=YA12-35A, Project_name=NC-HY13114-Y7-A1-01, nCodeCnt=10
+[2017-03-27 10:31:21]nPos=1875, DB_OPT_插入_任务编号_成功：nTaskPos=36, Product_no=YA12-35A, nCodeIndex=1, szCodeName=08-001
+[2017-03-27 10:31:21]nPos=1876, DB_OPT_插入_任务编号_成功：nTaskPos=36, Product_no=YA12-35A, nCodeIndex=2, szCodeName=08-002
+[2017-03-27 10:31:21]nPos=1877, DB_OPT_插入_任务编号_成功：nTaskPos=36, Product_no=YA12-35A, nCodeIndex=3, szCodeName=08-003
+[2017-03-27 10:31:21]nPos=1878, DB_OPT_插入_任务编号_成功：nTaskPos=36, Product_no=YA12-35A, nCodeIndex=4, szCodeName=08-004
+[2017-03-27 10:31:21]nPos=1879, DB_OPT_插入_任务编号_成功：nTaskPos=36, Product_no=YA12-35A, nCodeIndex=5, szCodeName=08-005
+[2017-03-27 10:31:21]nPos=1880, DB_OPT_插入_任务编号_成功：nTaskPos=36, Product_no=YA12-35A, nCodeIndex=6, szCodeName=08-006
+[2017-03-27 10:31:21]nPos=1881, DB_OPT_插入_任务编号_成功：nTaskPos=36, Product_no=YA12-35A, nCodeIndex=7, szCodeName=08-007
+[2017-03-27 10:31:21]nPos=1882, DB_OPT_插入_任务编号_成功：nTaskPos=36, Product_no=YA12-35A, nCodeIndex=8, szCodeName=08-008
+[2017-03-27 10:31:21]nPos=1883, DB_OPT_插入_任务编号_成功：nTaskPos=36, Product_no=YA12-35A, nCodeIndex=9, szCodeName=08-009
+[2017-03-27 10:31:21]nPos=1884, DB_OPT_插入_任务编号_成功：nTaskPos=36, Product_no=YA12-35A, nCodeIndex=10, szCodeName=08-010
+[2017-03-27 10:31:22]nPos=1885, DB_OPT_插入_产品代号_成功：nProdPos=37, Product_no=BKD15-3A
+[2017-03-27 10:31:22]nPos=1886, DB_OPT_插入_任务_成功：nTaskPos=37, Product_no=BKD15-3A, Project_name=NC-YH15102-W15A-A1-03, nCodeCnt=4
+[2017-03-27 10:31:22]nPos=1887, DB_OPT_插入_任务编号_成功：nTaskPos=37, Product_no=BKD15-3A, nCodeIndex=1, szCodeName=06-001
+[2017-03-27 10:31:22]nPos=1888, DB_OPT_插入_任务编号_成功：nTaskPos=37, Product_no=BKD15-3A, nCodeIndex=2, szCodeName=06-002
+[2017-03-27 10:31:22]nPos=1889, DB_OPT_插入_任务编号_成功：nTaskPos=37, Product_no=BKD15-3A, nCodeIndex=3, szCodeName=06-003
+[2017-03-27 10:31:22]nPos=1890, DB_OPT_插入_任务编号_成功：nTaskPos=37, Product_no=BKD15-3A, nCodeIndex=4, szCodeName=06-004
+[2017-03-27 10:31:22]nPos=1891, DB_OPT_插入_产品代号_成功：nProdPos=38, Product_no=BK15-4
+[2017-03-27 10:31:22]nPos=1892, DB_OPT_插入_任务_成功：nTaskPos=38, Product_no=BK15-4, Project_name=NC-YH1579-WL3-A1-07, nCodeCnt=6
+[2017-03-27 10:31:22]nPos=1893, DB_OPT_插入_任务编号_成功：nTaskPos=38, Product_no=BK15-4, nCodeIndex=1, szCodeName=06-001
+[2017-03-27 10:31:22]nPos=1894, DB_OPT_插入_任务编号_成功：nTaskPos=38, Product_no=BK15-4, nCodeIndex=2, szCodeName=06-003
+[2017-03-27 10:31:22]nPos=1895, DB_OPT_插入_任务编号_成功：nTaskPos=38, Product_no=BK15-4, nCodeIndex=3, szCodeName=06-005
+[2017-03-27 10:31:22]nPos=1896, DB_OPT_插入_任务编号_成功：nTaskPos=38, Product_no=BK15-4, nCodeIndex=4, szCodeName=06-006
+[2017-03-27 10:31:22]nPos=1897, DB_OPT_插入_任务编号_成功：nTaskPos=38, Product_no=BK15-4, nCodeIndex=5, szCodeName=06-007
+[2017-03-27 10:31:22]nPos=1898, DB_OPT_插入_任务编号_成功：nTaskPos=38, Product_no=BK15-4, nCodeIndex=6, szCodeName=06-008
+[2017-03-27 10:31:22]nPos=1899, DB_OPT_插入_产品代号_成功：nProdPos=39, Product_no=YK2-273
+[2017-03-27 10:31:22]nPos=1900, DB_OPT_插入_任务_成功：nTaskPos=39, Product_no=YK2-273, Project_name=NC-HY13019-Y6-A1-01, nCodeCnt=1
+[2017-03-27 10:31:22]nPos=1901, DB_OPT_插入_任务编号_成功：nTaskPos=39, Product_no=YK2-273, nCodeIndex=1, szCodeName=04-001
+[2017-03-27 10:31:22]nPos=1902, DB_OPT_插入_产品代号_成功：nProdPos=40, Product_no=8D0512-5
+[2017-03-27 10:31:22]nPos=1903, DB_OPT_插入_任务_成功：nTaskPos=40, Product_no=8D0512-5, Project_name=NC-YH1304-Y5-A1-08, nCodeCnt=2
+[2017-03-27 10:31:22]nPos=1904, DB_OPT_插入_任务编号_成功：nTaskPos=40, Product_no=8D0512-5, nCodeIndex=1, szCodeName=03-001
+[2017-03-27 10:31:22]nPos=1905, DB_OPT_插入_任务编号_成功：nTaskPos=40, Product_no=8D0512-5, nCodeIndex=2, szCodeName=03-002
+[2017-03-27 10:31:22]nPos=1906, DB_OPT_插入_产品代号_成功：nProdPos=41, Product_no=8D0511-5
+[2017-03-27 10:31:22]nPos=1907, DB_OPT_插入_任务_成功：nTaskPos=41, Product_no=8D0511-5, Project_name=NC-YH1304-Y5-A1-07, nCodeCnt=2
+[2017-03-27 10:31:22]nPos=1908, DB_OPT_插入_任务编号_成功：nTaskPos=41, Product_no=8D0511-5, nCodeIndex=1, szCodeName=02-001
+[2017-03-27 10:31:22]nPos=1909, DB_OPT_插入_任务编号_成功：nTaskPos=41, Product_no=8D0511-5, nCodeIndex=2, szCodeName=02-002
+[2017-03-27 10:31:22]nPos=1910, DB_OPT_插入_产品代号_成功：nProdPos=42, Product_no=CZ3-67
+[2017-03-27 10:31:22]nPos=1911, DB_OPT_插入_任务_成功：nTaskPos=42, Product_no=CZ3-67, Project_name=NC-YH12135-Y5-A1-09, nCodeCnt=56
+[2017-03-27 10:31:22]nPos=1912, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=1, szCodeName=13-080
+[2017-03-27 10:31:22]nPos=1913, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=2, szCodeName=13-081
+[2017-03-27 10:31:22]nPos=1914, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=3, szCodeName=13-082
+[2017-03-27 10:31:22]nPos=1915, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=4, szCodeName=13-083
+[2017-03-27 10:31:22]nPos=1916, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=5, szCodeName=13-084
+[2017-03-27 10:31:22]nPos=1917, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=6, szCodeName=13-085
+[2017-03-27 10:31:22]nPos=1918, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=7, szCodeName=13-086
+[2017-03-27 10:31:22]nPos=1919, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=8, szCodeName=13-087
+[2017-03-27 10:31:22]nPos=1920, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=9, szCodeName=13-088
+[2017-03-27 10:31:22]nPos=1921, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=10, szCodeName=13-089
+[2017-03-27 10:31:22]nPos=1922, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=11, szCodeName=13-090
+[2017-03-27 10:31:22]nPos=1923, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=12, szCodeName=13-091
+[2017-03-27 10:31:22]nPos=1924, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=13, szCodeName=13-092
+[2017-03-27 10:31:22]nPos=1925, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=14, szCodeName=13-093
+[2017-03-27 10:31:22]nPos=1926, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=15, szCodeName=13-094
+[2017-03-27 10:31:22]nPos=1927, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=16, szCodeName=13-095
+[2017-03-27 10:31:22]nPos=1928, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=17, szCodeName=13-096
+[2017-03-27 10:31:22]nPos=1929, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=18, szCodeName=13-097
+[2017-03-27 10:31:22]nPos=1930, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=19, szCodeName=13-098
+[2017-03-27 10:31:22]nPos=1931, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=20, szCodeName=13-099
+[2017-03-27 10:31:22]nPos=1932, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=21, szCodeName=13-100
+[2017-03-27 10:31:22]nPos=1933, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=22, szCodeName=13-101
+[2017-03-27 10:31:22]nPos=1934, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=23, szCodeName=13-102
+[2017-03-27 10:31:22]nPos=1935, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=24, szCodeName=13-103
+[2017-03-27 10:31:22]nPos=1936, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=25, szCodeName=13-104
+[2017-03-27 10:31:22]nPos=1937, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=26, szCodeName=13-105
+[2017-03-27 10:31:22]nPos=1938, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=27, szCodeName=13-106
+[2017-03-27 10:31:22]nPos=1939, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=28, szCodeName=13-107
+[2017-03-27 10:31:22]nPos=1940, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=29, szCodeName=13-108
+[2017-03-27 10:31:22]nPos=1941, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=30, szCodeName=13-109
+[2017-03-27 10:31:22]nPos=1942, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=31, szCodeName=13-110
+[2017-03-27 10:31:22]nPos=1943, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=32, szCodeName=13-111
+[2017-03-27 10:31:22]nPos=1944, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=33, szCodeName=13-112
+[2017-03-27 10:31:22]nPos=1945, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=34, szCodeName=13-113
+[2017-03-27 10:31:22]nPos=1946, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=35, szCodeName=13-114
+[2017-03-27 10:31:22]nPos=1947, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=36, szCodeName=13-115
+[2017-03-27 10:31:22]nPos=1948, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=37, szCodeName=13-116
+[2017-03-27 10:31:22]nPos=1949, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=38, szCodeName=13-117
+[2017-03-27 10:31:22]nPos=1950, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=39, szCodeName=13-118
+[2017-03-27 10:31:22]nPos=1951, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=40, szCodeName=13-119
+[2017-03-27 10:31:22]nPos=1952, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=41, szCodeName=13-120
+[2017-03-27 10:31:22]nPos=1953, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=42, szCodeName=13-121
+[2017-03-27 10:31:22]nPos=1954, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=43, szCodeName=13-122
+[2017-03-27 10:31:22]nPos=1955, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=44, szCodeName=13-123
+[2017-03-27 10:31:22]nPos=1956, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=45, szCodeName=13-124
+[2017-03-27 10:31:22]nPos=1957, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=46, szCodeName=13-125
+[2017-03-27 10:31:22]nPos=1958, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=47, szCodeName=13-126
+[2017-03-27 10:31:22]nPos=1959, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=48, szCodeName=13-127
+[2017-03-27 10:31:22]nPos=1960, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=49, szCodeName=13-128
+[2017-03-27 10:31:22]nPos=1961, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=50, szCodeName=13-129
+[2017-03-27 10:31:22]nPos=1962, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=51, szCodeName=13-130
+[2017-03-27 10:31:22]nPos=1963, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=52, szCodeName=13-131
+[2017-03-27 10:31:22]nPos=1964, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=53, szCodeName=13-132
+[2017-03-27 10:31:22]nPos=1965, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=54, szCodeName=13-133
+[2017-03-27 10:31:22]nPos=1966, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=55, szCodeName=13-134
+[2017-03-27 10:31:22]nPos=1967, DB_OPT_插入_任务编号_成功：nTaskPos=42, Product_no=CZ3-67, nCodeIndex=56, szCodeName=13-135
+[2017-03-27 10:31:22]nPos=1968, DB_OPT_插入_产品代号_代号已存在：nProdPos=43, Product_no=CZ3-67
+[2017-03-27 10:31:22]nPos=1969, DB_OPT_插入_任务_成功：nTaskPos=43, Product_no=CZ3-67, Project_name=ZC-JH1501-Y3B09-A1-79, nCodeCnt=20
+[2017-03-27 10:31:22]nPos=1970, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=1, szCodeName=16-001
+[2017-03-27 10:31:22]nPos=1971, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=2, szCodeName=16-002
+[2017-03-27 10:31:22]nPos=1972, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=3, szCodeName=16-003
+[2017-03-27 10:31:22]nPos=1973, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=4, szCodeName=16-004
+[2017-03-27 10:31:22]nPos=1974, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=5, szCodeName=16-005
+[2017-03-27 10:31:22]nPos=1975, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=6, szCodeName=16-006
+[2017-03-27 10:31:22]nPos=1976, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=7, szCodeName=16-007
+[2017-03-27 10:31:22]nPos=1977, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=8, szCodeName=16-008
+[2017-03-27 10:31:22]nPos=1978, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=9, szCodeName=16-009
+[2017-03-27 10:31:22]nPos=1979, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=10, szCodeName=16-010
+[2017-03-27 10:31:22]nPos=1980, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=11, szCodeName=16-011
+[2017-03-27 10:31:22]nPos=1981, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=12, szCodeName=16-012
+[2017-03-27 10:31:22]nPos=1982, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=13, szCodeName=16-013
+[2017-03-27 10:31:22]nPos=1983, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=14, szCodeName=16-014
+[2017-03-27 10:31:22]nPos=1984, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=15, szCodeName=16-015
+[2017-03-27 10:31:22]nPos=1985, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=16, szCodeName=16-016
+[2017-03-27 10:31:22]nPos=1986, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=17, szCodeName=16-017
+[2017-03-27 10:31:22]nPos=1987, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=18, szCodeName=16-018
+[2017-03-27 10:31:22]nPos=1988, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=19, szCodeName=16-019
+[2017-03-27 10:31:22]nPos=1989, DB_OPT_插入_任务编号_成功：nTaskPos=43, Product_no=CZ3-67, nCodeIndex=20, szCodeName=16-020
+[2017-03-27 10:31:22]nPos=1990, DB_OPT_插入_产品代号_成功：nProdPos=44, Product_no=CZ3-93
+[2017-03-27 10:31:22]nPos=1991, DB_OPT_插入_任务_成功：nTaskPos=44, Product_no=CZ3-93, Project_name=NC-HY15014-Y5-A1-01, nCodeCnt=25
+[2017-03-27 10:31:22]nPos=1992, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=1, szCodeName=02-001
+[2017-03-27 10:31:22]nPos=1993, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=2, szCodeName=02-002
+[2017-03-27 10:31:22]nPos=1994, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=3, szCodeName=02-003
+[2017-03-27 10:31:22]nPos=1995, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=4, szCodeName=02-004
+[2017-03-27 10:31:22]nPos=1996, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=5, szCodeName=02-005
+[2017-03-27 10:31:22]nPos=1997, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=6, szCodeName=02-006
+[2017-03-27 10:31:22]nPos=1998, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=7, szCodeName=02-007
+[2017-03-27 10:31:22]nPos=1999, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=8, szCodeName=02-008

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<RootInfo Version="1.0" Date="2017-03-14" Time="21:39:03">
+    <UserSetConfig>
+        <SelProductInfo RowCnt="2">
+            <ItemRoot1 nOid="2" szProductNo="Y27-30" szProductName="传感器" />
+            <ItemRoot2 nOid="3" szProductNo="Y27-31" szProductName="电阻" />
+        </SelProductInfo>
+    </UserSetConfig>
+</RootInfo>

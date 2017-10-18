@@ -1,0 +1,12 @@
+[2017-02-13 14:11:53]申请 CMainFrame.OnCreate,NewItemInfo 用时 94 毫秒
+[2017-02-13 14:12:48]手动添加任务: DB_OPT_插入_产品代号_成功：nOid=124, Product_no=liuty2017
+[2017-02-13 14:14:08] DB_OPT_插入_产品系列号_成功：nOid=127,Product_no=1
+[2017-02-13 16:29:47]CResultSearch::ShowCurData 用时 32 毫秒
+[2017-02-13 16:29:47]CResultShow::OnInitDialog() 用时 93 毫秒
+[2017-02-13 16:30:04]释放 CResultShow 用时 0 毫秒
+[2017-02-13 16:30:06]CResultSearch::ShowCurData 用时 32 毫秒
+[2017-02-13 16:30:06]CResultShow::OnInitDialog() 用时 94 毫秒
+[2017-02-13 16:30:08]释放 CResultShow 用时 0 毫秒
+[2017-02-13 16:30:16]CResultSearch::ShowCurData 用时 78 毫秒
+[2017-02-13 16:30:16]CResultShow::OnInitDialog() 用时 93 毫秒
+[2017-02-13 16:30:36]释放 CResultShow 用时 0 毫秒

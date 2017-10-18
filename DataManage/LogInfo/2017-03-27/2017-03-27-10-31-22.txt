@@ -1,0 +1,887 @@
+[2017-03-27 10:31:22]nPos=2000, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=9, szCodeName=02-009
+[2017-03-27 10:31:22]nPos=2001, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=10, szCodeName=02-010
+[2017-03-27 10:31:22]nPos=2002, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=11, szCodeName=02-011
+[2017-03-27 10:31:22]nPos=2003, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=12, szCodeName=02-012
+[2017-03-27 10:31:22]nPos=2004, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=13, szCodeName=02-013
+[2017-03-27 10:31:22]nPos=2005, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=14, szCodeName=02-014
+[2017-03-27 10:31:22]nPos=2006, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=15, szCodeName=02-015
+[2017-03-27 10:31:22]nPos=2007, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=16, szCodeName=02-016
+[2017-03-27 10:31:22]nPos=2008, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=17, szCodeName=02-017
+[2017-03-27 10:31:22]nPos=2009, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=18, szCodeName=02-018
+[2017-03-27 10:31:22]nPos=2010, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=19, szCodeName=02-019
+[2017-03-27 10:31:22]nPos=2011, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=20, szCodeName=02-020
+[2017-03-27 10:31:22]nPos=2012, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=21, szCodeName=02-021
+[2017-03-27 10:31:22]nPos=2013, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=22, szCodeName=02-022
+[2017-03-27 10:31:22]nPos=2014, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=23, szCodeName=02-023
+[2017-03-27 10:31:22]nPos=2015, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=24, szCodeName=02-024
+[2017-03-27 10:31:22]nPos=2016, DB_OPT_插入_任务编号_成功：nTaskPos=44, Product_no=CZ3-93, nCodeIndex=25, szCodeName=02-025
+[2017-03-27 10:31:22]nPos=2017, DB_OPT_插入_产品代号_成功：nProdPos=45, Product_no=CZ3-65
+[2017-03-27 10:31:22]nPos=2018, DB_OPT_插入_任务_成功：nTaskPos=45, Product_no=CZ3-65, Project_name=NC-YH1323-A1-A1-26, nCodeCnt=20
+[2017-03-27 10:31:22]nPos=2019, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=1, szCodeName=19-036
+[2017-03-27 10:31:22]nPos=2020, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=2, szCodeName=19-037
+[2017-03-27 10:31:22]nPos=2021, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=3, szCodeName=19-038
+[2017-03-27 10:31:22]nPos=2022, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=4, szCodeName=19-039
+[2017-03-27 10:31:22]nPos=2023, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=5, szCodeName=19-040
+[2017-03-27 10:31:22]nPos=2024, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=6, szCodeName=19-041
+[2017-03-27 10:31:22]nPos=2025, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=7, szCodeName=19-042
+[2017-03-27 10:31:22]nPos=2026, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=8, szCodeName=19-043
+[2017-03-27 10:31:22]nPos=2027, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=9, szCodeName=19-044
+[2017-03-27 10:31:22]nPos=2028, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=10, szCodeName=19-045
+[2017-03-27 10:31:22]nPos=2029, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=11, szCodeName=19-046
+[2017-03-27 10:31:22]nPos=2030, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=12, szCodeName=19-047
+[2017-03-27 10:31:22]nPos=2031, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=13, szCodeName=19-048
+[2017-03-27 10:31:22]nPos=2032, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=14, szCodeName=19-049
+[2017-03-27 10:31:22]nPos=2033, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=15, szCodeName=19-050
+[2017-03-27 10:31:22]nPos=2034, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=16, szCodeName=19-051
+[2017-03-27 10:31:22]nPos=2035, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=17, szCodeName=19-052
+[2017-03-27 10:31:22]nPos=2036, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=18, szCodeName=19-053
+[2017-03-27 10:31:22]nPos=2037, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=19, szCodeName=19-054
+[2017-03-27 10:31:22]nPos=2038, DB_OPT_插入_任务编号_成功：nTaskPos=45, Product_no=CZ3-65, nCodeIndex=20, szCodeName=19-055
+[2017-03-27 10:31:22]nPos=2039, DB_OPT_插入_产品代号_代号已存在：nProdPos=46, Product_no=CZ3-65
+[2017-03-27 10:31:22]nPos=2040, DB_OPT_插入_任务_成功：nTaskPos=46, Product_no=CZ3-65, Project_name=NC-YH1406-A1-A1-05, nCodeCnt=7
+[2017-03-27 10:31:22]nPos=2041, DB_OPT_插入_任务编号_成功：nTaskPos=46, Product_no=CZ3-65, nCodeIndex=1, szCodeName=21-038
+[2017-03-27 10:31:22]nPos=2042, DB_OPT_插入_任务编号_成功：nTaskPos=46, Product_no=CZ3-65, nCodeIndex=2, szCodeName=21-035
+[2017-03-27 10:31:22]nPos=2043, DB_OPT_插入_任务编号_成功：nTaskPos=46, Product_no=CZ3-65, nCodeIndex=3, szCodeName=21-043
+[2017-03-27 10:31:22]nPos=2044, DB_OPT_插入_任务编号_成功：nTaskPos=46, Product_no=CZ3-65, nCodeIndex=4, szCodeName=21-020
+[2017-03-27 10:31:22]nPos=2045, DB_OPT_插入_任务编号_成功：nTaskPos=46, Product_no=CZ3-65, nCodeIndex=5, szCodeName=21-041
+[2017-03-27 10:31:22]nPos=2046, DB_OPT_插入_任务编号_成功：nTaskPos=46, Product_no=CZ3-65, nCodeIndex=6, szCodeName=21-042
+[2017-03-27 10:31:22]nPos=2047, DB_OPT_插入_任务编号_成功：nTaskPos=46, Product_no=CZ3-65, nCodeIndex=7, szCodeName=21-023
+[2017-03-27 10:31:22]nPos=2048, DB_OPT_插入_产品代号_代号已存在：nProdPos=47, Product_no=CZ3-65
+[2017-03-27 10:31:22]nPos=2049, DB_OPT_插入_任务_成功：nTaskPos=47, Product_no=CZ3-65, Project_name=NC-YH1379-W26A-A1-13, nCodeCnt=10
+[2017-03-27 10:31:22]nPos=2050, DB_OPT_插入_任务编号_成功：nTaskPos=47, Product_no=CZ3-65, nCodeIndex=1, szCodeName=20-012
+[2017-03-27 10:31:22]nPos=2051, DB_OPT_插入_任务编号_成功：nTaskPos=47, Product_no=CZ3-65, nCodeIndex=2, szCodeName=20-037
+[2017-03-27 10:31:22]nPos=2052, DB_OPT_插入_任务编号_成功：nTaskPos=47, Product_no=CZ3-65, nCodeIndex=3, szCodeName=20-013
+[2017-03-27 10:31:22]nPos=2053, DB_OPT_插入_任务编号_成功：nTaskPos=47, Product_no=CZ3-65, nCodeIndex=4, szCodeName=20-007
+[2017-03-27 10:31:22]nPos=2054, DB_OPT_插入_任务编号_成功：nTaskPos=47, Product_no=CZ3-65, nCodeIndex=5, szCodeName=20-035
+[2017-03-27 10:31:22]nPos=2055, DB_OPT_插入_任务编号_成功：nTaskPos=47, Product_no=CZ3-65, nCodeIndex=6, szCodeName=20-009
+[2017-03-27 10:31:22]nPos=2056, DB_OPT_插入_任务编号_成功：nTaskPos=47, Product_no=CZ3-65, nCodeIndex=7, szCodeName=20-021
+[2017-03-27 10:31:22]nPos=2057, DB_OPT_插入_任务编号_成功：nTaskPos=47, Product_no=CZ3-65, nCodeIndex=8, szCodeName=20-024
+[2017-03-27 10:31:22]nPos=2058, DB_OPT_插入_任务编号_成功：nTaskPos=47, Product_no=CZ3-65, nCodeIndex=9, szCodeName=20-019
+[2017-03-27 10:31:22]nPos=2059, DB_OPT_插入_任务编号_成功：nTaskPos=47, Product_no=CZ3-65, nCodeIndex=10, szCodeName=20-014
+[2017-03-27 10:31:22]nPos=2060, DB_OPT_插入_产品代号_成功：nProdPos=48, Product_no=CW2-42
+[2017-03-27 10:31:22]nPos=2061, DB_OPT_插入_任务_成功：nTaskPos=48, Product_no=CW2-42, Project_name=NC-HY13001-Y5-A1-46, nCodeCnt=10
+[2017-03-27 10:31:22]nPos=2062, DB_OPT_插入_任务编号_成功：nTaskPos=48, Product_no=CW2-42, nCodeIndex=1, szCodeName=22-001
+[2017-03-27 10:31:22]nPos=2063, DB_OPT_插入_任务编号_成功：nTaskPos=48, Product_no=CW2-42, nCodeIndex=2, szCodeName=22-002
+[2017-03-27 10:31:22]nPos=2064, DB_OPT_插入_任务编号_成功：nTaskPos=48, Product_no=CW2-42, nCodeIndex=3, szCodeName=22-003
+[2017-03-27 10:31:22]nPos=2065, DB_OPT_插入_任务编号_成功：nTaskPos=48, Product_no=CW2-42, nCodeIndex=4, szCodeName=22-004
+[2017-03-27 10:31:22]nPos=2066, DB_OPT_插入_任务编号_成功：nTaskPos=48, Product_no=CW2-42, nCodeIndex=5, szCodeName=22-005
+[2017-03-27 10:31:22]nPos=2067, DB_OPT_插入_任务编号_成功：nTaskPos=48, Product_no=CW2-42, nCodeIndex=6, szCodeName=22-006
+[2017-03-27 10:31:22]nPos=2068, DB_OPT_插入_任务编号_成功：nTaskPos=48, Product_no=CW2-42, nCodeIndex=7, szCodeName=22-007
+[2017-03-27 10:31:22]nPos=2069, DB_OPT_插入_任务编号_成功：nTaskPos=48, Product_no=CW2-42, nCodeIndex=8, szCodeName=22-008
+[2017-03-27 10:31:22]nPos=2070, DB_OPT_插入_任务编号_成功：nTaskPos=48, Product_no=CW2-42, nCodeIndex=9, szCodeName=22-009
+[2017-03-27 10:31:22]nPos=2071, DB_OPT_插入_任务编号_成功：nTaskPos=48, Product_no=CW2-42, nCodeIndex=10, szCodeName=22-010
+[2017-03-27 10:31:22]nPos=2072, DB_OPT_插入_产品代号_代号已存在：nProdPos=49, Product_no=CW2-42
+[2017-03-27 10:31:22]nPos=2073, DB_OPT_插入_产品代号_成功：nProdPos=50, Product_no=CW2-101
+[2017-03-27 10:31:22]nPos=2074, DB_OPT_插入_任务_成功：nTaskPos=50, Product_no=CW2-101, Project_name=NC-YH1501-W5B03-A1-01, nCodeCnt=38
+[2017-03-27 10:31:22]nPos=2075, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=1, szCodeName=11-001
+[2017-03-27 10:31:22]nPos=2076, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=2, szCodeName=11-002
+[2017-03-27 10:31:22]nPos=2077, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=3, szCodeName=11-003
+[2017-03-27 10:31:22]nPos=2078, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=4, szCodeName=11-004
+[2017-03-27 10:31:22]nPos=2079, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=5, szCodeName=11-005
+[2017-03-27 10:31:22]nPos=2080, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=6, szCodeName=11-006
+[2017-03-27 10:31:22]nPos=2081, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=7, szCodeName=11-007
+[2017-03-27 10:31:22]nPos=2082, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=8, szCodeName=11-008
+[2017-03-27 10:31:22]nPos=2083, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=9, szCodeName=11-009
+[2017-03-27 10:31:22]nPos=2084, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=10, szCodeName=11-010
+[2017-03-27 10:31:22]nPos=2085, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=11, szCodeName=11-011
+[2017-03-27 10:31:22]nPos=2086, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=12, szCodeName=11-012
+[2017-03-27 10:31:22]nPos=2087, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=13, szCodeName=11-013
+[2017-03-27 10:31:22]nPos=2088, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=14, szCodeName=11-014
+[2017-03-27 10:31:22]nPos=2089, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=15, szCodeName=11-015
+[2017-03-27 10:31:22]nPos=2090, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=16, szCodeName=11-016
+[2017-03-27 10:31:22]nPos=2091, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=17, szCodeName=11-017
+[2017-03-27 10:31:22]nPos=2092, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=18, szCodeName=11-018
+[2017-03-27 10:31:22]nPos=2093, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=19, szCodeName=11-019
+[2017-03-27 10:31:22]nPos=2094, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=20, szCodeName=11-020
+[2017-03-27 10:31:22]nPos=2095, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=21, szCodeName=11-021
+[2017-03-27 10:31:22]nPos=2096, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=22, szCodeName=11-022
+[2017-03-27 10:31:22]nPos=2097, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=23, szCodeName=11-023
+[2017-03-27 10:31:22]nPos=2098, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=24, szCodeName=11-024
+[2017-03-27 10:31:22]nPos=2099, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=25, szCodeName=11-025
+[2017-03-27 10:31:22]nPos=2100, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=26, szCodeName=11-026
+[2017-03-27 10:31:22]nPos=2101, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=27, szCodeName=11-027
+[2017-03-27 10:31:22]nPos=2102, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=28, szCodeName=11-028
+[2017-03-27 10:31:22]nPos=2103, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=29, szCodeName=11-029
+[2017-03-27 10:31:22]nPos=2104, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=30, szCodeName=11-030
+[2017-03-27 10:31:22]nPos=2105, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=31, szCodeName=11-031
+[2017-03-27 10:31:22]nPos=2106, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=32, szCodeName=11-032
+[2017-03-27 10:31:22]nPos=2107, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=33, szCodeName=11-033
+[2017-03-27 10:31:22]nPos=2108, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=34, szCodeName=11-034
+[2017-03-27 10:31:22]nPos=2109, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=35, szCodeName=11-035
+[2017-03-27 10:31:22]nPos=2110, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=36, szCodeName=11-036
+[2017-03-27 10:31:22]nPos=2111, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=37, szCodeName=11-037
+[2017-03-27 10:31:22]nPos=2112, DB_OPT_插入_任务编号_成功：nTaskPos=50, Product_no=CW2-101, nCodeIndex=38, szCodeName=11-038
+[2017-03-27 10:31:32]nPos=2113, DB_OPT_插入_产品代号_成功：nOid=90181, nProdPos=1, Product_no=1BJ2-2
+[2017-03-27 10:31:32]nPos=2114, DB_OPT_插入_任务_成功：nOid=90181, nTaskPos=1, Product_no=1BJ2-2, Project_name=NZ-XH1541-W5A03-68-01, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:32]nPos=2115, DB_OPT_插入_任务编号_成功：nOid=90181, nTaskPos=1, Product_no=1BJ2-2, nCodeIndex=1, szCodeName=201607-2293
+[2017-03-27 10:31:32]nPos=2116, DB_OPT_插入_产品图号_成功：nOid=90181, nTaskPos=1, Product_no=1BJ2-2, PicNo=Dt4.853.040, PicName = 电缆JC1
+[2017-03-27 10:31:32]nPos=2117, DB_OPT_插入_任务图号_成功：nOid=90181, nTaskPos=1, Product_no=1BJ2-2, PicNo=Dt4.853.040, PicName = 电缆JC1
+[2017-03-27 10:31:32]nPos=2118, DB_OPT_插入_产品代号_代号已存在：nOid=90188, nProdPos=2, Product_no=1BJ2-2
+[2017-03-27 10:31:32]nPos=2119, DB_OPT_插入_任务_成功：nOid=90188, nTaskPos=2, Product_no=1BJ2-2, Project_name=NZ-XH1541-W5A03-68-01, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:32]nPos=2120, DB_OPT_插入_任务编号_成功：nOid=90188, nTaskPos=2, Product_no=1BJ2-2, nCodeIndex=1, szCodeName=201607-2292
+[2017-03-27 10:31:32]nPos=2121, DB_OPT_插入_任务图号_成功：nOid=90188, nTaskPos=2, Product_no=1BJ2-2, PicNo=Dt4.853.040, PicName = 电缆JC1
+[2017-03-27 10:31:32]nPos=2122, DB_OPT_插入_产品代号_代号已存在：nOid=90201, nProdPos=3, Product_no=1BJ2-2
+[2017-03-27 10:31:32]nPos=2123, DB_OPT_插入_任务_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, Project_name=NZ-XH1541-W5A03-68-02, nCodeCnt=10, nPicNumCnt=3
+[2017-03-27 10:31:32]nPos=2124, DB_OPT_插入_任务编号_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, nCodeIndex=1, szCodeName=201607-2298
+[2017-03-27 10:31:32]nPos=2125, DB_OPT_插入_任务编号_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, nCodeIndex=2, szCodeName=201607-2299
+[2017-03-27 10:31:32]nPos=2126, DB_OPT_插入_任务编号_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, nCodeIndex=3, szCodeName=201607-2300
+[2017-03-27 10:31:32]nPos=2127, DB_OPT_插入_任务编号_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, nCodeIndex=4, szCodeName=201607-2301
+[2017-03-27 10:31:32]nPos=2128, DB_OPT_插入_任务编号_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, nCodeIndex=5, szCodeName=201607-2290
+[2017-03-27 10:31:32]nPos=2129, DB_OPT_插入_任务编号_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, nCodeIndex=6, szCodeName=201607-2291
+[2017-03-27 10:31:32]nPos=2130, DB_OPT_插入_任务编号_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, nCodeIndex=7, szCodeName=201607-2294
+[2017-03-27 10:31:32]nPos=2131, DB_OPT_插入_任务编号_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, nCodeIndex=8, szCodeName=201607-2295
+[2017-03-27 10:31:32]nPos=2132, DB_OPT_插入_任务编号_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, nCodeIndex=9, szCodeName=201607-2296
+[2017-03-27 10:31:32]nPos=2133, DB_OPT_插入_任务编号_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, nCodeIndex=10, szCodeName=201607-2297
+[2017-03-27 10:31:32]nPos=2134, DB_OPT_插入_产品图号_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, PicNo=Dt4.853.037, PicName = 电缆JW2
+[2017-03-27 10:31:32]nPos=2135, DB_OPT_插入_任务图号_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, PicNo=Dt4.853.037, PicName = 电缆JW2
+[2017-03-27 10:31:32]nPos=2136, DB_OPT_插入_任务图号_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, PicNo=Dt4.853.040, PicName = 电缆JC1
+[2017-03-27 10:31:32]nPos=2137, DB_OPT_插入_产品图号_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, PicNo=Dt4.853.041, PicName = 电缆JC2
+[2017-03-27 10:31:32]nPos=2138, DB_OPT_插入_任务图号_成功：nOid=90201, nTaskPos=3, Product_no=1BJ2-2, PicNo=Dt4.853.041, PicName = 电缆JC2
+[2017-03-27 10:31:32]nPos=2139, DB_OPT_插入_产品代号_成功：nOid=102743, nProdPos=4, Product_no=1D0111-31B
+[2017-03-27 10:31:32]nPos=2140, DB_OPT_插入_任务_成功：nOid=102743, nTaskPos=4, Product_no=1D0111-31B, Project_name=NZ-XH16007-W31B-47-02, nCodeCnt=2, nPicNumCnt=2
+[2017-03-27 10:31:32]nPos=2141, DB_OPT_插入_任务编号_成功：nOid=102743, nTaskPos=4, Product_no=1D0111-31B, nCodeIndex=1, szCodeName=201607-42
+[2017-03-27 10:31:32]nPos=2142, DB_OPT_插入_任务编号_成功：nOid=102743, nTaskPos=4, Product_no=1D0111-31B, nCodeIndex=2, szCodeName=01
+[2017-03-27 10:31:32]nPos=2143, DB_OPT_插入_产品图号_成功：nOid=102743, nTaskPos=4, Product_no=1D0111-31B, PicNo=Dt4.851.599, PicName = 测试电缆
+[2017-03-27 10:31:32]nPos=2144, DB_OPT_插入_任务图号_成功：nOid=102743, nTaskPos=4, Product_no=1D0111-31B, PicNo=Dt4.851.599, PicName = 测试电缆
+[2017-03-27 10:31:32]nPos=2145, DB_OPT_插入_产品图号_成功：nOid=102743, nTaskPos=4, Product_no=1D0111-31B, PicNo=Dy6.646.7988, PicName = 电缆YTC
+[2017-03-27 10:31:32]nPos=2146, DB_OPT_插入_任务图号_成功：nOid=102743, nTaskPos=4, Product_no=1D0111-31B, PicNo=Dy6.646.7988, PicName = 电缆YTC
+[2017-03-27 10:31:32]nPos=2147, DB_OPT_插入_产品代号_代号已存在：nOid=102941, nProdPos=5, Product_no=1D0111-31B
+[2017-03-27 10:31:32]nPos=2148, DB_OPT_插入_任务_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, Project_name=NZ-XH16007-W31B-47-02, nCodeCnt=1, nPicNumCnt=12
+[2017-03-27 10:31:32]nPos=2149, DB_OPT_插入_任务编号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, nCodeIndex=1, szCodeName=01
+[2017-03-27 10:31:32]nPos=2150, DB_OPT_插入_产品图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7976, PicName = 电缆XKZ
+[2017-03-27 10:31:32]nPos=2151, DB_OPT_插入_任务图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7976, PicName = 电缆XKZ
+[2017-03-27 10:31:32]nPos=2152, DB_OPT_插入_产品图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7977, PicName = 电缆XM
+[2017-03-27 10:31:32]nPos=2153, DB_OPT_插入_任务图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7977, PicName = 电缆XM
+[2017-03-27 10:31:32]nPos=2154, DB_OPT_插入_产品图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7978, PicName = 电缆XMD
+[2017-03-27 10:31:32]nPos=2155, DB_OPT_插入_任务图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7978, PicName = 电缆XMD
+[2017-03-27 10:31:32]nPos=2156, DB_OPT_插入_产品图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7979, PicName = 电缆XP1
+[2017-03-27 10:31:32]nPos=2157, DB_OPT_插入_任务图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7979, PicName = 电缆XP1
+[2017-03-27 10:31:32]nPos=2158, DB_OPT_插入_产品图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7980, PicName = 电缆XP2
+[2017-03-27 10:31:32]nPos=2159, DB_OPT_插入_任务图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7980, PicName = 电缆XP2
+[2017-03-27 10:31:32]nPos=2160, DB_OPT_插入_产品图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7981, PicName = 电缆XPCM
+[2017-03-27 10:31:32]nPos=2161, DB_OPT_插入_任务图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7981, PicName = 电缆XPCM
+[2017-03-27 10:31:32]nPos=2162, DB_OPT_插入_产品图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7982, PicName = 电缆XPD1
+[2017-03-27 10:31:32]nPos=2163, DB_OPT_插入_任务图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7982, PicName = 电缆XPD1
+[2017-03-27 10:31:32]nPos=2164, DB_OPT_插入_产品图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7983, PicName = 电缆XPD2
+[2017-03-27 10:31:32]nPos=2165, DB_OPT_插入_任务图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7983, PicName = 电缆XPD2
+[2017-03-27 10:31:32]nPos=2166, DB_OPT_插入_产品图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7984, PicName = 电缆XPJ
+[2017-03-27 10:31:32]nPos=2167, DB_OPT_插入_任务图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7984, PicName = 电缆XPJ
+[2017-03-27 10:31:32]nPos=2168, DB_OPT_插入_产品图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7985, PicName = 电缆XSK
+[2017-03-27 10:31:32]nPos=2169, DB_OPT_插入_任务图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7985, PicName = 电缆XSK
+[2017-03-27 10:31:32]nPos=2170, DB_OPT_插入_产品图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7986, PicName = 电缆XY
+[2017-03-27 10:31:32]nPos=2171, DB_OPT_插入_任务图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7986, PicName = 电缆XY
+[2017-03-27 10:31:32]nPos=2172, DB_OPT_插入_产品图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7987, PicName = 电缆XZX
+[2017-03-27 10:31:32]nPos=2173, DB_OPT_插入_任务图号_成功：nOid=102941, nTaskPos=5, Product_no=1D0111-31B, PicNo=Dy6.646.7987, PicName = 电缆XZX
+[2017-03-27 10:31:32]nPos=2174, DB_OPT_插入_产品代号_成功：nOid=96294, nProdPos=6, Product_no=1Y221-31B
+[2017-03-27 10:31:32]nPos=2175, DB_OPT_插入_任务_成功：nOid=96294, nTaskPos=6, Product_no=1Y221-31B, Project_name=NZ-XH16007-W31B-47-01, nCodeCnt=1, nPicNumCnt=5
+[2017-03-27 10:31:32]nPos=2176, DB_OPT_插入_任务编号_成功：nOid=96294, nTaskPos=6, Product_no=1Y221-31B, nCodeIndex=1, szCodeName=01
+[2017-03-27 10:31:32]nPos=2177, DB_OPT_插入_产品图号_成功：nOid=96294, nTaskPos=6, Product_no=1Y221-31B, PicNo=Dy6.646.7905, PicName = 电缆3Y7
+[2017-03-27 10:31:32]nPos=2178, DB_OPT_插入_任务图号_成功：nOid=96294, nTaskPos=6, Product_no=1Y221-31B, PicNo=Dy6.646.7905, PicName = 电缆3Y7
+[2017-03-27 10:31:32]nPos=2179, DB_OPT_插入_产品图号_成功：nOid=96294, nTaskPos=6, Product_no=1Y221-31B, PicNo=Dy6.646.7906, PicName = 电缆3Y8
+[2017-03-27 10:31:32]nPos=2180, DB_OPT_插入_任务图号_成功：nOid=96294, nTaskPos=6, Product_no=1Y221-31B, PicNo=Dy6.646.7906, PicName = 电缆3Y8
+[2017-03-27 10:31:32]nPos=2181, DB_OPT_插入_产品图号_成功：nOid=96294, nTaskPos=6, Product_no=1Y221-31B, PicNo=Dy6.646.7907, PicName = 电缆3Y9
+[2017-03-27 10:31:32]nPos=2182, DB_OPT_插入_任务图号_成功：nOid=96294, nTaskPos=6, Product_no=1Y221-31B, PicNo=Dy6.646.7907, PicName = 电缆3Y9
+[2017-03-27 10:31:32]nPos=2183, DB_OPT_插入_产品图号_成功：nOid=96294, nTaskPos=6, Product_no=1Y221-31B, PicNo=Dy6.646.7908, PicName = 电缆3KY1
+[2017-03-27 10:31:32]nPos=2184, DB_OPT_插入_任务图号_成功：nOid=96294, nTaskPos=6, Product_no=1Y221-31B, PicNo=Dy6.646.7908, PicName = 电缆3KY1
+[2017-03-27 10:31:32]nPos=2185, DB_OPT_插入_产品图号_成功：nOid=96294, nTaskPos=6, Product_no=1Y221-31B, PicNo=Dy6.646.7909, PicName = 电缆YF31
+[2017-03-27 10:31:32]nPos=2186, DB_OPT_插入_任务图号_成功：nOid=96294, nTaskPos=6, Product_no=1Y221-31B, PicNo=Dy6.646.7909, PicName = 电缆YF31
+[2017-03-27 10:31:32]nPos=2187, DB_OPT_插入_产品代号_代号已存在：nOid=103276, nProdPos=7, Product_no=1Y221-31B
+[2017-03-27 10:31:32]nPos=2188, DB_OPT_插入_任务_成功：nOid=103276, nTaskPos=7, Product_no=1Y221-31B, Project_name=NZ-XH16007-W31B-47-01, nCodeCnt=1, nPicNumCnt=6
+[2017-03-27 10:31:32]nPos=2189, DB_OPT_插入_任务编号_成功：nOid=103276, nTaskPos=7, Product_no=1Y221-31B, nCodeIndex=1, szCodeName=01
+[2017-03-27 10:31:32]nPos=2190, DB_OPT_插入_产品图号_成功：nOid=103276, nTaskPos=7, Product_no=1Y221-31B, PicNo=Dy6.646.7899, PicName = 电缆1Y2
+[2017-03-27 10:31:32]nPos=2191, DB_OPT_插入_任务图号_成功：nOid=103276, nTaskPos=7, Product_no=1Y221-31B, PicNo=Dy6.646.7899, PicName = 电缆1Y2
+[2017-03-27 10:31:32]nPos=2192, DB_OPT_插入_产品图号_成功：nOid=103276, nTaskPos=7, Product_no=1Y221-31B, PicNo=Dy6.646.7900, PicName = 电缆YF21
+[2017-03-27 10:31:32]nPos=2193, DB_OPT_插入_任务图号_成功：nOid=103276, nTaskPos=7, Product_no=1Y221-31B, PicNo=Dy6.646.7900, PicName = 电缆YF21
+[2017-03-27 10:31:32]nPos=2194, DB_OPT_插入_产品图号_成功：nOid=103276, nTaskPos=7, Product_no=1Y221-31B, PicNo=Dy6.646.7901, PicName = 电缆2Y3
+[2017-03-27 10:31:32]nPos=2195, DB_OPT_插入_任务图号_成功：nOid=103276, nTaskPos=7, Product_no=1Y221-31B, PicNo=Dy6.646.7901, PicName = 电缆2Y3
+[2017-03-27 10:31:32]nPos=2196, DB_OPT_插入_产品图号_成功：nOid=103276, nTaskPos=7, Product_no=1Y221-31B, PicNo=Dy6.646.7902, PicName = 电缆2Y4
+[2017-03-27 10:31:32]nPos=2197, DB_OPT_插入_任务图号_成功：nOid=103276, nTaskPos=7, Product_no=1Y221-31B, PicNo=Dy6.646.7902, PicName = 电缆2Y4
+[2017-03-27 10:31:32]nPos=2198, DB_OPT_插入_产品图号_成功：nOid=103276, nTaskPos=7, Product_no=1Y221-31B, PicNo=Dy6.646.7903, PicName = 电缆Y191X1
+[2017-03-27 10:31:32]nPos=2199, DB_OPT_插入_任务图号_成功：nOid=103276, nTaskPos=7, Product_no=1Y221-31B, PicNo=Dy6.646.7903, PicName = 电缆Y191X1
+[2017-03-27 10:31:32]nPos=2200, DB_OPT_插入_产品图号_成功：nOid=103276, nTaskPos=7, Product_no=1Y221-31B, PicNo=Dy6.646.7904, PicName = 电缆3Y6
+[2017-03-27 10:31:32]nPos=2201, DB_OPT_插入_任务图号_成功：nOid=103276, nTaskPos=7, Product_no=1Y221-31B, PicNo=Dy6.646.7904, PicName = 电缆3Y6
+[2017-03-27 10:31:32]nPos=2202, DB_OPT_插入_产品代号_成功：nOid=90168, nProdPos=8, Product_no=1Y223-5B
+[2017-03-27 10:31:32]nPos=2203, DB_OPT_插入_任务_成功：nOid=90168, nTaskPos=8, Product_no=1Y223-5B, Project_name=NZ-XH1438-W5B03-68-01, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:32]nPos=2204, DB_OPT_插入_任务编号_成功：nOid=90168, nTaskPos=8, Product_no=1Y223-5B, nCodeIndex=1, szCodeName=201510-19
+[2017-03-27 10:31:32]nPos=2205, DB_OPT_插入_产品图号_成功：nOid=90168, nTaskPos=8, Product_no=1Y223-5B, PicNo=Dy6.643.3474, PicName = 转接电缆1
+[2017-03-27 10:31:32]nPos=2206, DB_OPT_插入_任务图号_成功：nOid=90168, nTaskPos=8, Product_no=1Y223-5B, PicNo=Dy6.643.3474, PicName = 转接电缆1
+[2017-03-27 10:31:32]nPos=2207, DB_OPT_插入_产品代号_代号已存在：nOid=97006, nProdPos=9, Product_no=1Y223-5B
+[2017-03-27 10:31:32]nPos=2208, DB_OPT_插入_任务_成功：nOid=97006, nTaskPos=9, Product_no=1Y223-5B, Project_name=NZ-XH1438-W5B03-68-01, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:32]nPos=2209, DB_OPT_插入_任务编号_成功：nOid=97006, nTaskPos=9, Product_no=1Y223-5B, nCodeIndex=1, szCodeName=201510-19
+[2017-03-27 10:31:32]nPos=2210, DB_OPT_插入_产品图号_成功：nOid=97006, nTaskPos=9, Product_no=1Y223-5B, PicNo=Dy6.643.3475, PicName = 转接电缆2
+[2017-03-27 10:31:32]nPos=2211, DB_OPT_插入_任务图号_成功：nOid=97006, nTaskPos=9, Product_no=1Y223-5B, PicNo=Dy6.643.3475, PicName = 转接电缆2
+[2017-03-27 10:31:32]nPos=2212, DB_OPT_插入_产品代号_代号已存在：nOid=102493, nProdPos=10, Product_no=1Y223-5B
+[2017-03-27 10:31:32]nPos=2213, DB_OPT_插入_任务_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, Project_name=NZ-XH1438-W5B03-68-01, nCodeCnt=1, nPicNumCnt=8
+[2017-03-27 10:31:32]nPos=2214, DB_OPT_插入_任务编号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, nCodeIndex=1, szCodeName=201510-19
+[2017-03-27 10:31:32]nPos=2215, DB_OPT_插入_产品图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.1644, PicName = 电缆Y171X8
+[2017-03-27 10:31:32]nPos=2216, DB_OPT_插入_任务图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.1644, PicName = 电缆Y171X8
+[2017-03-27 10:31:32]nPos=2217, DB_OPT_插入_产品图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.1648, PicName = 电缆X6
+[2017-03-27 10:31:32]nPos=2218, DB_OPT_插入_任务图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.1648, PicName = 电缆X6
+[2017-03-27 10:31:32]nPos=2219, DB_OPT_插入_产品图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.1650, PicName = 电缆DC
+[2017-03-27 10:31:32]nPos=2220, DB_OPT_插入_任务图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.1650, PicName = 电缆DC
+[2017-03-27 10:31:32]nPos=2221, DB_OPT_插入_产品图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.1653, PicName = 电缆Y181X2
+[2017-03-27 10:31:32]nPos=2222, DB_OPT_插入_任务图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.1653, PicName = 电缆Y181X2
+[2017-03-27 10:31:32]nPos=2223, DB_OPT_插入_产品图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.1664, PicName = 电缆Y181X5
+[2017-03-27 10:31:32]nPos=2224, DB_OPT_插入_任务图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.1664, PicName = 电缆Y181X5
+[2017-03-27 10:31:32]nPos=2225, DB_OPT_插入_产品图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.1667, PicName = 电缆F2
+[2017-03-27 10:31:32]nPos=2226, DB_OPT_插入_任务图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.1667, PicName = 电缆F2
+[2017-03-27 10:31:32]nPos=2227, DB_OPT_插入_产品图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.3472, PicName = 电缆Y171X9
+[2017-03-27 10:31:32]nPos=2228, DB_OPT_插入_任务图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.3472, PicName = 电缆Y171X9
+[2017-03-27 10:31:32]nPos=2229, DB_OPT_插入_产品图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.3473, PicName = 电缆1Y6
+[2017-03-27 10:31:32]nPos=2230, DB_OPT_插入_任务图号_成功：nOid=102493, nTaskPos=10, Product_no=1Y223-5B, PicNo=Dy6.643.3473, PicName = 电缆1Y6
+[2017-03-27 10:31:32]nPos=2231, DB_OPT_插入_产品代号_成功：nOid=71026, nProdPos=11, Product_no=1Y230-15
+[2017-03-27 10:31:32]nPos=2232, DB_OPT_插入_任务_成功：nOid=71026, nTaskPos=11, Product_no=1Y230-15, Project_name=NZ-XH1501-W15A-68-01, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:32]nPos=2233, DB_OPT_插入_任务编号_成功：nOid=71026, nTaskPos=11, Product_no=1Y230-15, nCodeIndex=1, szCodeName=201602-07
+[2017-03-27 10:31:32]nPos=2234, DB_OPT_插入_产品图号_成功：nOid=71026, nTaskPos=11, Product_no=1Y230-15, PicNo=Dy6.646.7951, PicName = 电缆2
+[2017-03-27 10:31:32]nPos=2235, DB_OPT_插入_任务图号_成功：nOid=71026, nTaskPos=11, Product_no=1Y230-15, PicNo=Dy6.646.7951, PicName = 电缆2
+[2017-03-27 10:31:32]nPos=2236, DB_OPT_插入_产品代号_成功：nOid=82715, nProdPos=12, Product_no=3SJ04-8
+[2017-03-27 10:31:32]nPos=2237, DB_OPT_插入_任务_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, Project_name=NZ-XH1606-WL8-47-01, nCodeCnt=18, nPicNumCnt=1
+[2017-03-27 10:31:32]nPos=2238, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=1, szCodeName=201606-164
+[2017-03-27 10:31:32]nPos=2239, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=2, szCodeName=201606-165
+[2017-03-27 10:31:32]nPos=2240, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=3, szCodeName=201606-166
+[2017-03-27 10:31:32]nPos=2241, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=4, szCodeName=201606-167
+[2017-03-27 10:31:32]nPos=2242, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=5, szCodeName=201606-168
+[2017-03-27 10:31:32]nPos=2243, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=6, szCodeName=201606-169
+[2017-03-27 10:31:32]nPos=2244, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=7, szCodeName=201606-170
+[2017-03-27 10:31:32]nPos=2245, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=8, szCodeName=201606-171
+[2017-03-27 10:31:32]nPos=2246, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=9, szCodeName=201606-172
+[2017-03-27 10:31:32]nPos=2247, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=10, szCodeName=201606-173
+[2017-03-27 10:31:32]nPos=2248, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=11, szCodeName=201606-175
+[2017-03-27 10:31:32]nPos=2249, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=12, szCodeName=201606-176
+[2017-03-27 10:31:32]nPos=2250, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=13, szCodeName=201606-177
+[2017-03-27 10:31:32]nPos=2251, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=14, szCodeName=201606-178
+[2017-03-27 10:31:32]nPos=2252, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=15, szCodeName=201606-179
+[2017-03-27 10:31:32]nPos=2253, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=16, szCodeName=201606-180
+[2017-03-27 10:31:32]nPos=2254, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=17, szCodeName=201606-182
+[2017-03-27 10:31:32]nPos=2255, DB_OPT_插入_任务编号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, nCodeIndex=18, szCodeName=201606-183
+[2017-03-27 10:31:32]nPos=2256, DB_OPT_插入_产品图号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, PicNo=Dy4.859.219, PicName = 鱼雷助飞火箭脱插机构电缆
+[2017-03-27 10:31:32]nPos=2257, DB_OPT_插入_任务图号_成功：nOid=82715, nTaskPos=12, Product_no=3SJ04-8, PicNo=Dy4.859.219, PicName = 鱼雷助飞火箭脱插机构电缆
+[2017-03-27 10:31:32]nPos=2258, DB_OPT_插入_产品代号_代号已存在：nOid=90228, nProdPos=13, Product_no=3SJ04-8
+[2017-03-27 10:31:32]nPos=2259, DB_OPT_插入_任务_成功：nOid=90228, nTaskPos=13, Product_no=3SJ04-8, Project_name=NZ-XH1606-WL8-47-01, nCodeCnt=10, nPicNumCnt=1
+[2017-03-27 10:31:32]nPos=2260, DB_OPT_插入_任务编号_成功：nOid=90228, nTaskPos=13, Product_no=3SJ04-8, nCodeIndex=1, szCodeName=201607-204
+[2017-03-27 10:31:32]nPos=2261, DB_OPT_插入_任务编号_成功：nOid=90228, nTaskPos=13, Product_no=3SJ04-8, nCodeIndex=2, szCodeName=201607-205
+[2017-03-27 10:31:32]nPos=2262, DB_OPT_插入_任务编号_成功：nOid=90228, nTaskPos=13, Product_no=3SJ04-8, nCodeIndex=3, szCodeName=201607-206
+[2017-03-27 10:31:32]nPos=2263, DB_OPT_插入_任务编号_成功：nOid=90228, nTaskPos=13, Product_no=3SJ04-8, nCodeIndex=4, szCodeName=201607-207
+[2017-03-27 10:31:32]nPos=2264, DB_OPT_插入_任务编号_成功：nOid=90228, nTaskPos=13, Product_no=3SJ04-8, nCodeIndex=5, szCodeName=201607-208
+[2017-03-27 10:31:32]nPos=2265, DB_OPT_插入_任务编号_成功：nOid=90228, nTaskPos=13, Product_no=3SJ04-8, nCodeIndex=6, szCodeName=201607-209
+[2017-03-27 10:31:32]nPos=2266, DB_OPT_插入_任务编号_成功：nOid=90228, nTaskPos=13, Product_no=3SJ04-8, nCodeIndex=7, szCodeName=201607-210
+[2017-03-27 10:31:32]nPos=2267, DB_OPT_插入_任务编号_成功：nOid=90228, nTaskPos=13, Product_no=3SJ04-8, nCodeIndex=8, szCodeName=201607-211
+[2017-03-27 10:31:32]nPos=2268, DB_OPT_插入_任务编号_成功：nOid=90228, nTaskPos=13, Product_no=3SJ04-8, nCodeIndex=9, szCodeName=201607-212
+[2017-03-27 10:31:32]nPos=2269, DB_OPT_插入_任务编号_成功：nOid=90228, nTaskPos=13, Product_no=3SJ04-8, nCodeIndex=10, szCodeName=201607-213
+[2017-03-27 10:31:32]nPos=2270, DB_OPT_插入_任务图号_成功：nOid=90228, nTaskPos=13, Product_no=3SJ04-8, PicNo=Dy4.859.219, PicName = 鱼雷助飞火箭脱插机构电缆
+[2017-03-27 10:31:32]nPos=2271, DB_OPT_插入_产品代号_代号已存在：nOid=90308, nProdPos=14, Product_no=3SJ04-8
+[2017-03-27 10:31:32]nPos=2272, DB_OPT_插入_任务_成功：nOid=90308, nTaskPos=14, Product_no=3SJ04-8, Project_name=NZ-XH1606-WL8-47-01, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:32]nPos=2273, DB_OPT_插入_任务编号_成功：nOid=90308, nTaskPos=14, Product_no=3SJ04-8, nCodeIndex=1, szCodeName=201606-181
+[2017-03-27 10:31:32]nPos=2274, DB_OPT_插入_任务图号_成功：nOid=90308, nTaskPos=14, Product_no=3SJ04-8, PicNo=Dy4.859.219, PicName = 鱼雷助飞火箭脱插机构电缆
+[2017-03-27 10:31:32]nPos=2275, DB_OPT_插入_产品代号_代号已存在：nOid=90664, nProdPos=15, Product_no=3SJ04-8
+[2017-03-27 10:31:32]nPos=2276, DB_OPT_插入_任务_成功：nOid=90664, nTaskPos=15, Product_no=3SJ04-8, Project_name=NZ-XH1606-WL8-47-01, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:32]nPos=2277, DB_OPT_插入_任务编号_成功：nOid=90664, nTaskPos=15, Product_no=3SJ04-8, nCodeIndex=1, szCodeName=201606-181
+[2017-03-27 10:31:32]nPos=2278, DB_OPT_插入_任务图号_成功：nOid=90664, nTaskPos=15, Product_no=3SJ04-8, PicNo=Dy4.859.219, PicName = 鱼雷助飞火箭脱插机构电缆
+[2017-03-27 10:31:32]nPos=2279, DB_OPT_插入_产品代号_代号已存在：nOid=93114, nProdPos=16, Product_no=3SJ04-8
+[2017-03-27 10:31:32]nPos=2280, DB_OPT_插入_任务_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, Project_name=NZ-XH1606-WL8-47-01, nCodeCnt=18, nPicNumCnt=1
+[2017-03-27 10:31:32]nPos=2281, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=1, szCodeName=201606-164
+[2017-03-27 10:31:32]nPos=2282, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=2, szCodeName=201606-165
+[2017-03-27 10:31:32]nPos=2283, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=3, szCodeName=201606-166
+[2017-03-27 10:31:32]nPos=2284, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=4, szCodeName=201606-167
+[2017-03-27 10:31:32]nPos=2285, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=5, szCodeName=201606-168
+[2017-03-27 10:31:32]nPos=2286, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=6, szCodeName=201606-169
+[2017-03-27 10:31:32]nPos=2287, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=7, szCodeName=201606-170
+[2017-03-27 10:31:32]nPos=2288, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=8, szCodeName=201606-171
+[2017-03-27 10:31:32]nPos=2289, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=9, szCodeName=201606-172
+[2017-03-27 10:31:32]nPos=2290, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=10, szCodeName=201606-173
+[2017-03-27 10:31:32]nPos=2291, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=11, szCodeName=201606-175
+[2017-03-27 10:31:32]nPos=2292, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=12, szCodeName=201606-176
+[2017-03-27 10:31:32]nPos=2293, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=13, szCodeName=201606-177
+[2017-03-27 10:31:32]nPos=2294, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=14, szCodeName=201606-178
+[2017-03-27 10:31:32]nPos=2295, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=15, szCodeName=201606-179
+[2017-03-27 10:31:32]nPos=2296, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=16, szCodeName=201606-180
+[2017-03-27 10:31:32]nPos=2297, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=17, szCodeName=201606-182
+[2017-03-27 10:31:32]nPos=2298, DB_OPT_插入_任务编号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, nCodeIndex=18, szCodeName=201606-183
+[2017-03-27 10:31:32]nPos=2299, DB_OPT_插入_任务图号_成功：nOid=93114, nTaskPos=16, Product_no=3SJ04-8, PicNo=Dy4.859.219, PicName = 鱼雷助飞火箭脱插机构电缆
+[2017-03-27 10:31:32]nPos=2300, DB_OPT_插入_产品代号_代号已存在：nOid=93344, nProdPos=17, Product_no=3SJ04-8
+[2017-03-27 10:31:32]nPos=2301, DB_OPT_插入_任务_成功：nOid=93344, nTaskPos=17, Product_no=3SJ04-8, Project_name=NZ-XH1606-WL8-47-01, nCodeCnt=10, nPicNumCnt=1
+[2017-03-27 10:31:32]nPos=2302, DB_OPT_插入_任务编号_成功：nOid=93344, nTaskPos=17, Product_no=3SJ04-8, nCodeIndex=1, szCodeName=201607-204
+[2017-03-27 10:31:32]nPos=2303, DB_OPT_插入_任务编号_成功：nOid=93344, nTaskPos=17, Product_no=3SJ04-8, nCodeIndex=2, szCodeName=201607-205
+[2017-03-27 10:31:32]nPos=2304, DB_OPT_插入_任务编号_成功：nOid=93344, nTaskPos=17, Product_no=3SJ04-8, nCodeIndex=3, szCodeName=201607-206
+[2017-03-27 10:31:32]nPos=2305, DB_OPT_插入_任务编号_成功：nOid=93344, nTaskPos=17, Product_no=3SJ04-8, nCodeIndex=4, szCodeName=201607-207
+[2017-03-27 10:31:32]nPos=2306, DB_OPT_插入_任务编号_成功：nOid=93344, nTaskPos=17, Product_no=3SJ04-8, nCodeIndex=5, szCodeName=201607-208
+[2017-03-27 10:31:32]nPos=2307, DB_OPT_插入_任务编号_成功：nOid=93344, nTaskPos=17, Product_no=3SJ04-8, nCodeIndex=6, szCodeName=201607-209
+[2017-03-27 10:31:32]nPos=2308, DB_OPT_插入_任务编号_成功：nOid=93344, nTaskPos=17, Product_no=3SJ04-8, nCodeIndex=7, szCodeName=201607-210
+[2017-03-27 10:31:32]nPos=2309, DB_OPT_插入_任务编号_成功：nOid=93344, nTaskPos=17, Product_no=3SJ04-8, nCodeIndex=8, szCodeName=201607-211
+[2017-03-27 10:31:32]nPos=2310, DB_OPT_插入_任务编号_成功：nOid=93344, nTaskPos=17, Product_no=3SJ04-8, nCodeIndex=9, szCodeName=201607-212
+[2017-03-27 10:31:32]nPos=2311, DB_OPT_插入_任务编号_成功：nOid=93344, nTaskPos=17, Product_no=3SJ04-8, nCodeIndex=10, szCodeName=201607-213
+[2017-03-27 10:31:32]nPos=2312, DB_OPT_插入_任务图号_成功：nOid=93344, nTaskPos=17, Product_no=3SJ04-8, PicNo=Dy4.859.219, PicName = 鱼雷助飞火箭脱插机构电缆
+[2017-03-27 10:31:32]nPos=2313, DB_OPT_插入_产品代号_代号已存在：nOid=93424, nProdPos=18, Product_no=3SJ04-8
+[2017-03-27 10:31:32]nPos=2314, DB_OPT_插入_任务_成功：nOid=93424, nTaskPos=18, Product_no=3SJ04-8, Project_name=NZ-XH1606-WL8-47-01, nCodeCnt=10, nPicNumCnt=1
+[2017-03-27 10:31:32]nPos=2315, DB_OPT_插入_任务编号_成功：nOid=93424, nTaskPos=18, Product_no=3SJ04-8, nCodeIndex=1, szCodeName=201607-204
+[2017-03-27 10:31:32]nPos=2316, DB_OPT_插入_任务编号_成功：nOid=93424, nTaskPos=18, Product_no=3SJ04-8, nCodeIndex=2, szCodeName=201607-205
+[2017-03-27 10:31:32]nPos=2317, DB_OPT_插入_任务编号_成功：nOid=93424, nTaskPos=18, Product_no=3SJ04-8, nCodeIndex=3, szCodeName=201607-206
+[2017-03-27 10:31:32]nPos=2318, DB_OPT_插入_任务编号_成功：nOid=93424, nTaskPos=18, Product_no=3SJ04-8, nCodeIndex=4, szCodeName=201607-207
+[2017-03-27 10:31:32]nPos=2319, DB_OPT_插入_任务编号_成功：nOid=93424, nTaskPos=18, Product_no=3SJ04-8, nCodeIndex=5, szCodeName=201607-208
+[2017-03-27 10:31:32]nPos=2320, DB_OPT_插入_任务编号_成功：nOid=93424, nTaskPos=18, Product_no=3SJ04-8, nCodeIndex=6, szCodeName=201607-209
+[2017-03-27 10:31:32]nPos=2321, DB_OPT_插入_任务编号_成功：nOid=93424, nTaskPos=18, Product_no=3SJ04-8, nCodeIndex=7, szCodeName=201607-210
+[2017-03-27 10:31:32]nPos=2322, DB_OPT_插入_任务编号_成功：nOid=93424, nTaskPos=18, Product_no=3SJ04-8, nCodeIndex=8, szCodeName=201607-211
+[2017-03-27 10:31:32]nPos=2323, DB_OPT_插入_任务编号_成功：nOid=93424, nTaskPos=18, Product_no=3SJ04-8, nCodeIndex=9, szCodeName=201607-212
+[2017-03-27 10:31:32]nPos=2324, DB_OPT_插入_任务编号_成功：nOid=93424, nTaskPos=18, Product_no=3SJ04-8, nCodeIndex=10, szCodeName=201607-213
+[2017-03-27 10:31:32]nPos=2325, DB_OPT_插入_任务图号_成功：nOid=93424, nTaskPos=18, Product_no=3SJ04-8, PicNo=Dy4.859.219, PicName = 鱼雷助飞火箭脱插机构电缆
+[2017-03-27 10:31:32]nPos=2326, DB_OPT_插入_产品代号_代号已存在：nOid=95711, nProdPos=19, Product_no=3SJ04-8
+[2017-03-27 10:31:32]nPos=2327, DB_OPT_插入_任务_成功：nOid=95711, nTaskPos=19, Product_no=3SJ04-8, Project_name=NZ-XH1606-WL8-47-01, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:32]nPos=2328, DB_OPT_插入_任务编号_成功：nOid=95711, nTaskPos=19, Product_no=3SJ04-8, nCodeIndex=1, szCodeName=201606-174
+[2017-03-27 10:31:32]nPos=2329, DB_OPT_插入_任务图号_成功：nOid=95711, nTaskPos=19, Product_no=3SJ04-8, PicNo=Dy4.859.219, PicName = 鱼雷助飞火箭脱插机构电缆
+[2017-03-27 10:31:32]nPos=2330, DB_OPT_插入_产品代号_代号已存在：nOid=104114, nProdPos=20, Product_no=3SJ04-8
+[2017-03-27 10:31:32]nPos=2331, DB_OPT_插入_任务_成功：nOid=104114, nTaskPos=20, Product_no=3SJ04-8, Project_name=NZ-XH1606-WL8-47-01, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:32]nPos=2332, DB_OPT_插入_任务编号_成功：nOid=104114, nTaskPos=20, Product_no=3SJ04-8, nCodeIndex=1, szCodeName=201606-174
+[2017-03-27 10:31:32]nPos=2333, DB_OPT_插入_任务图号_成功：nOid=104114, nTaskPos=20, Product_no=3SJ04-8, PicNo=Dy4.859.219, PicName = 鱼雷助飞火箭脱插机构电缆
+[2017-03-27 10:31:32]nPos=2334, DB_OPT_插入_产品代号_成功：nOid=103232, nProdPos=21, Product_no=8D0119-7
+[2017-03-27 10:31:32]nPos=2335, DB_OPT_插入_任务_成功：nOid=103232, nTaskPos=21, Product_no=8D0119-7, Project_name=NZ-XH16013-Y7-47-01, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:32]nPos=2336, DB_OPT_插入_任务编号_成功：nOid=103232, nTaskPos=21, Product_no=8D0119-7, nCodeIndex=1, szCodeName=201607-02
+[2017-03-27 10:31:32]nPos=2337, DB_OPT_插入_产品图号_成功：nOid=103232, nTaskPos=21, Product_no=8D0119-7, PicNo=Dy6.646.6968, PicName = 发射场地面脱拔电缆TBCL
+[2017-03-27 10:31:32]nPos=2338, DB_OPT_插入_任务图号_成功：nOid=103232, nTaskPos=21, Product_no=8D0119-7, PicNo=Dy6.646.6968, PicName = 发射场地面脱拔电缆TBCL
+[2017-03-27 10:31:32]nPos=2339, DB_OPT_插入_产品代号_成功：nOid=82632, nProdPos=22, Product_no=8Y2211-5
+[2017-03-27 10:31:32]nPos=2340, DB_OPT_插入_任务_成功：nOid=82632, nTaskPos=22, Product_no=8Y2211-5, Project_name=NZ-XH1237-Y5-68-16, nCodeCnt=1, nPicNumCnt=4
+[2017-03-27 10:31:32]nPos=2341, DB_OPT_插入_任务编号_成功：nOid=82632, nTaskPos=22, Product_no=8Y2211-5, nCodeIndex=1, szCodeName=201604-04
+[2017-03-27 10:31:32]nPos=2342, DB_OPT_插入_产品图号_成功：nOid=82632, nTaskPos=22, Product_no=8Y2211-5, PicNo=Dy6.640.896, PicName = 电缆OYF14
+[2017-03-27 10:31:32]nPos=2343, DB_OPT_插入_任务图号_成功：nOid=82632, nTaskPos=22, Product_no=8Y2211-5, PicNo=Dy6.640.896, PicName = 电缆OYF14
+[2017-03-27 10:31:32]nPos=2344, DB_OPT_插入_产品图号_成功：nOid=82632, nTaskPos=22, Product_no=8Y2211-5, PicNo=Dy6.640.897, PicName = 电缆OYF24
+[2017-03-27 10:31:32]nPos=2345, DB_OPT_插入_任务图号_成功：nOid=82632, nTaskPos=22, Product_no=8Y2211-5, PicNo=Dy6.640.897, PicName = 电缆OYF24
+[2017-03-27 10:31:32]nPos=2346, DB_OPT_插入_产品图号_成功：nOid=82632, nTaskPos=22, Product_no=8Y2211-5, PicNo=Dy6.640.898, PicName = 电缆OYF34
+[2017-03-27 10:31:32]nPos=2347, DB_OPT_插入_任务图号_成功：nOid=82632, nTaskPos=22, Product_no=8Y2211-5, PicNo=Dy6.640.898, PicName = 电缆OYF34
+[2017-03-27 10:31:32]nPos=2348, DB_OPT_插入_产品图号_成功：nOid=82632, nTaskPos=22, Product_no=8Y2211-5, PicNo=Dy6.640.899, PicName = 电缆OYF44
+[2017-03-27 10:31:32]nPos=2349, DB_OPT_插入_任务图号_成功：nOid=82632, nTaskPos=22, Product_no=8Y2211-5, PicNo=Dy6.640.899, PicName = 电缆OYF44
+[2017-03-27 10:31:32]nPos=2350, DB_OPT_插入_产品代号_成功：nOid=99481, nProdPos=23, Product_no=8Y223-5
+[2017-03-27 10:31:32]nPos=2351, DB_OPT_插入_任务_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, Project_name=NZ-XH1237-Y5-68-13, nCodeCnt=1, nPicNumCnt=75
+[2017-03-27 10:31:32]nPos=2352, DB_OPT_插入_任务编号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, nCodeIndex=1, szCodeName=201604-05
+[2017-03-27 10:31:32]nPos=2353, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1541, PicName = 电缆Y201X207
+[2017-03-27 10:31:32]nPos=2354, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1541, PicName = 电缆Y201X207
+[2017-03-27 10:31:32]nPos=2355, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1542, PicName = 电缆Y202X2
+[2017-03-27 10:31:32]nPos=2356, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1542, PicName = 电缆Y202X2
+[2017-03-27 10:31:32]nPos=2357, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1544, PicName = 电缆Y201X209
+[2017-03-27 10:31:32]nPos=2358, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1544, PicName = 电缆Y201X209
+[2017-03-27 10:31:32]nPos=2359, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1545, PicName = 电缆Y201X317
+[2017-03-27 10:31:32]nPos=2360, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1545, PicName = 电缆Y201X317
+[2017-03-27 10:31:32]nPos=2361, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1546, PicName = 电缆Y201X211
+[2017-03-27 10:31:32]nPos=2362, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1546, PicName = 电缆Y201X211
+[2017-03-27 10:31:32]nPos=2363, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1547, PicName = 电缆Y192X1
+[2017-03-27 10:31:32]nPos=2364, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1547, PicName = 电缆Y192X1
+[2017-03-27 10:31:32]nPos=2365, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1548, PicName = 电缆Y173X3
+[2017-03-27 10:31:32]nPos=2366, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1548, PicName = 电缆Y173X3
+[2017-03-27 10:31:32]nPos=2367, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1550, PicName = 电缆4Y17
+[2017-03-27 10:31:32]nPos=2368, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1550, PicName = 电缆4Y17
+[2017-03-27 10:31:32]nPos=2369, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1551, PicName = 电缆4Y18
+[2017-03-27 10:31:32]nPos=2370, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.1551, PicName = 电缆4Y18
+[2017-03-27 10:31:32]nPos=2371, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.912, PicName = 电缆Y193X12
+[2017-03-27 10:31:32]nPos=2372, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.912, PicName = 电缆Y193X12
+[2017-03-27 10:31:32]nPos=2373, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.913, PicName = 电缆Y191X11
+[2017-03-27 10:31:32]nPos=2374, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.913, PicName = 电缆Y191X11
+[2017-03-27 10:31:32]nPos=2375, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.914, PicName = 电缆Y703X5
+[2017-03-27 10:31:32]nPos=2376, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.914, PicName = 电缆Y703X5
+[2017-03-27 10:31:32]nPos=2377, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.915, PicName = 电缆Y702X5
+[2017-03-27 10:31:32]nPos=2378, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.915, PicName = 电缆Y702X5
+[2017-03-27 10:31:32]nPos=2379, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.916, PicName = 电缆2Y101
+[2017-03-27 10:31:32]nPos=2380, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.916, PicName = 电缆2Y101
+[2017-03-27 10:31:32]nPos=2381, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.917, PicName = 电缆2Y102
+[2017-03-27 10:31:32]nPos=2382, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.917, PicName = 电缆2Y102
+[2017-03-27 10:31:32]nPos=2383, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.918, PicName = 电缆Y201X307
+[2017-03-27 10:31:32]nPos=2384, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.918, PicName = 电缆Y201X307
+[2017-03-27 10:31:32]nPos=2385, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.919, PicName = 电缆XAD205
+[2017-03-27 10:31:32]nPos=2386, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.919, PicName = 电缆XAD205
+[2017-03-27 10:31:32]nPos=2387, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.920, PicName = 电缆Y624X2
+[2017-03-27 10:31:32]nPos=2388, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.920, PicName = 电缆Y624X2
+[2017-03-27 10:31:32]nPos=2389, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.921, PicName = 电缆XAD106
+[2017-03-27 10:31:32]nPos=2390, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.921, PicName = 电缆XAD106
+[2017-03-27 10:31:32]nPos=2391, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.922, PicName = 电缆Y201X310
+[2017-03-27 10:31:32]nPos=2392, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.922, PicName = 电缆Y201X310
+[2017-03-27 10:31:33]nPos=2393, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.923, PicName = 电缆XAD105
+[2017-03-27 10:31:33]nPos=2394, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.923, PicName = 电缆XAD105
+[2017-03-27 10:31:33]nPos=2395, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.924, PicName = 电缆XAD206
+[2017-03-27 10:31:33]nPos=2396, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.924, PicName = 电缆XAD206
+[2017-03-27 10:31:33]nPos=2397, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.925, PicName = 低温密封插座2YXQ
+[2017-03-27 10:31:33]nPos=2398, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.925, PicName = 低温密封插座2YXQ
+[2017-03-27 10:31:33]nPos=2399, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.926, PicName = 电缆2Y104
+[2017-03-27 10:31:33]nPos=2400, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.926, PicName = 电缆2Y104
+[2017-03-27 10:31:33]nPos=2401, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.927, PicName = 电缆2Y105
+[2017-03-27 10:31:33]nPos=2402, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.927, PicName = 电缆2Y105
+[2017-03-27 10:31:33]nPos=2403, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.928, PicName = 电缆2Y108
+[2017-03-27 10:31:33]nPos=2404, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.928, PicName = 电缆2Y108
+[2017-03-27 10:31:33]nPos=2405, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.929, PicName = 电缆2Y107
+[2017-03-27 10:31:33]nPos=2406, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.929, PicName = 电缆2Y107
+[2017-03-27 10:31:33]nPos=2407, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.930, PicName = 电缆1YF1
+[2017-03-27 10:31:33]nPos=2408, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.930, PicName = 电缆1YF1
+[2017-03-27 10:31:33]nPos=2409, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.931, PicName = 电缆1YF2
+[2017-03-27 10:31:33]nPos=2410, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.931, PicName = 电缆1YF2
+[2017-03-27 10:31:33]nPos=2411, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.932, PicName = 电缆3Y304
+[2017-03-27 10:31:33]nPos=2412, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.932, PicName = 电缆3Y304
+[2017-03-27 10:31:33]nPos=2413, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.933, PicName = 电缆3Y306
+[2017-03-27 10:31:33]nPos=2414, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.933, PicName = 电缆3Y306
+[2017-03-27 10:31:33]nPos=2415, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.934, PicName = 电缆2Y109
+[2017-03-27 10:31:33]nPos=2416, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.934, PicName = 电缆2Y109
+[2017-03-27 10:31:33]nPos=2417, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.935, PicName = 电缆2YXQ1
+[2017-03-27 10:31:33]nPos=2418, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.935, PicName = 电缆2YXQ1
+[2017-03-27 10:31:33]nPos=2419, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.936, PicName = 电缆2Y110
+[2017-03-27 10:31:33]nPos=2420, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.936, PicName = 电缆2Y110
+[2017-03-27 10:31:33]nPos=2421, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.937, PicName = 电缆2ITL
+[2017-03-27 10:31:33]nPos=2422, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.937, PicName = 电缆2ITL
+[2017-03-27 10:31:33]nPos=2423, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.938, PicName = 电缆Y201X311
+[2017-03-27 10:31:33]nPos=2424, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.938, PicName = 电缆Y201X311
+[2017-03-27 10:31:33]nPos=2425, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.939, PicName = 电缆2Y23
+[2017-03-27 10:31:33]nPos=2426, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.939, PicName = 电缆2Y23
+[2017-03-27 10:31:33]nPos=2427, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.940, PicName = 电缆2Y22
+[2017-03-27 10:31:33]nPos=2428, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.940, PicName = 电缆2Y22
+[2017-03-27 10:31:33]nPos=2429, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.941, PicName = 电缆2Y24
+[2017-03-27 10:31:33]nPos=2430, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.941, PicName = 电缆2Y24
+[2017-03-27 10:31:33]nPos=2431, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.942, PicName = 电缆2RXQ1
+[2017-03-27 10:31:33]nPos=2432, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.942, PicName = 电缆2RXQ1
+[2017-03-27 10:31:33]nPos=2433, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.943, PicName = 电缆2Y25
+[2017-03-27 10:31:33]nPos=2434, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.943, PicName = 电缆2Y25
+[2017-03-27 10:31:33]nPos=2435, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.944, PicName = 电缆XRP07
+[2017-03-27 10:31:33]nPos=2436, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.944, PicName = 电缆XRP07
+[2017-03-27 10:31:33]nPos=2437, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.945, PicName = 电缆XAD07
+[2017-03-27 10:31:33]nPos=2438, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.945, PicName = 电缆XAD07
+[2017-03-27 10:31:33]nPos=2439, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.947, PicName = 电缆XAD08
+[2017-03-27 10:31:33]nPos=2440, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.947, PicName = 电缆XAD08
+[2017-03-27 10:31:33]nPos=2441, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.948, PicName = 电缆X11Y1
+[2017-03-27 10:31:33]nPos=2442, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.948, PicName = 电缆X11Y1
+[2017-03-27 10:31:33]nPos=2443, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.949, PicName = 电缆X45Y
+[2017-03-27 10:31:33]nPos=2444, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.949, PicName = 电缆X45Y
+[2017-03-27 10:31:33]nPos=2445, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.950, PicName = 电缆X15Y
+[2017-03-27 10:31:33]nPos=2446, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.950, PicName = 电缆X15Y
+[2017-03-27 10:31:33]nPos=2447, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.951, PicName = 电缆X11Y2
+[2017-03-27 10:31:33]nPos=2448, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.951, PicName = 电缆X11Y2
+[2017-03-27 10:31:33]nPos=2449, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.952, PicName = 电缆Y122X2
+[2017-03-27 10:31:33]nPos=2450, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.952, PicName = 电缆Y122X2
+[2017-03-27 10:31:33]nPos=2451, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.953, PicName = 电缆XAD09
+[2017-03-27 10:31:33]nPos=2452, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.953, PicName = 电缆XAD09
+[2017-03-27 10:31:33]nPos=2453, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.954, PicName = 电缆Y201X213
+[2017-03-27 10:31:33]nPos=2454, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.954, PicName = 电缆Y201X213
+[2017-03-27 10:31:33]nPos=2455, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.955, PicName = 电缆Y201X214
+[2017-03-27 10:31:33]nPos=2456, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.955, PicName = 电缆Y201X214
+[2017-03-27 10:31:33]nPos=2457, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.956, PicName = 电缆2KY
+[2017-03-27 10:31:33]nPos=2458, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.956, PicName = 电缆2KY
+[2017-03-27 10:31:33]nPos=2459, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.957, PicName = 电缆Y201X210
+[2017-03-27 10:31:33]nPos=2460, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.957, PicName = 电缆Y201X210
+[2017-03-27 10:31:33]nPos=2461, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.958, PicName = 低温密封插座2RXQ
+[2017-03-27 10:31:33]nPos=2462, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.958, PicName = 低温密封插座2RXQ
+[2017-03-27 10:31:33]nPos=2463, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.967, PicName = 电缆3Y309
+[2017-03-27 10:31:33]nPos=2464, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.967, PicName = 电缆3Y309
+[2017-03-27 10:31:33]nPos=2465, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.968, PicName = 电缆3Y310
+[2017-03-27 10:31:33]nPos=2466, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.968, PicName = 电缆3Y310
+[2017-03-27 10:31:33]nPos=2467, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.969, PicName = 电缆3Y301
+[2017-03-27 10:31:33]nPos=2468, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.969, PicName = 电缆3Y301
+[2017-03-27 10:31:33]nPos=2469, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.970, PicName = 电缆3Y328
+[2017-03-27 10:31:33]nPos=2470, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.970, PicName = 电缆3Y328
+[2017-03-27 10:31:33]nPos=2471, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.971, PicName = 电缆3Y305
+[2017-03-27 10:31:33]nPos=2472, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.971, PicName = 电缆3Y305
+[2017-03-27 10:31:33]nPos=2473, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.972, PicName = 电缆Y703X6
+[2017-03-27 10:31:33]nPos=2474, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.972, PicName = 电缆Y703X6
+[2017-03-27 10:31:33]nPos=2475, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.984, PicName = 电缆3Y316
+[2017-03-27 10:31:33]nPos=2476, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.984, PicName = 电缆3Y316
+[2017-03-27 10:31:33]nPos=2477, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.985, PicName = 电缆XDTP12
+[2017-03-27 10:31:33]nPos=2478, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.985, PicName = 电缆XDTP12
+[2017-03-27 10:31:33]nPos=2479, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.986, PicName = 电缆Y432X3
+[2017-03-27 10:31:33]nPos=2480, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.986, PicName = 电缆Y432X3
+[2017-03-27 10:31:33]nPos=2481, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.987, PicName = 电缆4Y14
+[2017-03-27 10:31:33]nPos=2482, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.987, PicName = 电缆4Y14
+[2017-03-27 10:31:33]nPos=2483, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.989, PicName = 电缆4Y11
+[2017-03-27 10:31:33]nPos=2484, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.989, PicName = 电缆4Y11
+[2017-03-27 10:31:33]nPos=2485, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.990, PicName = 电缆4Y12
+[2017-03-27 10:31:33]nPos=2486, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.990, PicName = 电缆4Y12
+[2017-03-27 10:31:33]nPos=2487, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.991, PicName = 电缆4Y13
+[2017-03-27 10:31:33]nPos=2488, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.991, PicName = 电缆4Y13
+[2017-03-27 10:31:33]nPos=2489, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.992, PicName = 电缆2YF2
+[2017-03-27 10:31:33]nPos=2490, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.992, PicName = 电缆2YF2
+[2017-03-27 10:31:33]nPos=2491, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.993, PicName = 电缆Y201X215
+[2017-03-27 10:31:33]nPos=2492, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.993, PicName = 电缆Y201X215
+[2017-03-27 10:31:33]nPos=2493, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.994, PicName = 电缆XAD11
+[2017-03-27 10:31:33]nPos=2494, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.994, PicName = 电缆XAD11
+[2017-03-27 10:31:33]nPos=2495, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.995, PicName = 电缆2YF1
+[2017-03-27 10:31:33]nPos=2496, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.995, PicName = 电缆2YF1
+[2017-03-27 10:31:33]nPos=2497, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.997, PicName = 电缆Y122X5
+[2017-03-27 10:31:33]nPos=2498, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.997, PicName = 电缆Y122X5
+[2017-03-27 10:31:33]nPos=2499, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.998, PicName = 电缆Y122X4
+[2017-03-27 10:31:33]nPos=2500, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.998, PicName = 电缆Y122X4
+[2017-03-27 10:31:33]nPos=2501, DB_OPT_插入_产品图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.999, PicName = 电缆2YF3
+[2017-03-27 10:31:33]nPos=2502, DB_OPT_插入_任务图号_成功：nOid=99481, nTaskPos=23, Product_no=8Y223-5, PicNo=Dy6.640.999, PicName = 电缆2YF3
+[2017-03-27 10:31:33]nPos=2503, DB_OPT_插入_产品代号_成功：nOid=82705, nProdPos=24, Product_no=BC1-3
+[2017-03-27 10:31:33]nPos=2504, DB_OPT_插入_任务_成功：nOid=82705, nTaskPos=24, Product_no=BC1-3, Project_name=NZ-XH1504-W5C-68-06, nCodeCnt=2, nPicNumCnt=2
+[2017-03-27 10:31:33]nPos=2505, DB_OPT_插入_任务编号_成功：nOid=82705, nTaskPos=24, Product_no=BC1-3, nCodeIndex=1, szCodeName=07
+[2017-03-27 10:31:33]nPos=2506, DB_OPT_插入_任务编号_成功：nOid=82705, nTaskPos=24, Product_no=BC1-3, nCodeIndex=2, szCodeName=08
+[2017-03-27 10:31:33]nPos=2507, DB_OPT_插入_产品图号_成功：nOid=82705, nTaskPos=24, Product_no=BC1-3, PicNo=Dt6.644.4983, PicName = 电缆BC2
+[2017-03-27 10:31:33]nPos=2508, DB_OPT_插入_任务图号_成功：nOid=82705, nTaskPos=24, Product_no=BC1-3, PicNo=Dt6.644.4983, PicName = 电缆BC2
+[2017-03-27 10:31:33]nPos=2509, DB_OPT_插入_产品图号_成功：nOid=82705, nTaskPos=24, Product_no=BC1-3, PicNo=Dt6.644.4986, PicName = 电缆BC5
+[2017-03-27 10:31:33]nPos=2510, DB_OPT_插入_任务图号_成功：nOid=82705, nTaskPos=24, Product_no=BC1-3, PicNo=Dt6.644.4986, PicName = 电缆BC5
+[2017-03-27 10:31:33]nPos=2511, DB_OPT_插入_产品代号_代号已存在：nOid=96495, nProdPos=25, Product_no=BC1-3
+[2017-03-27 10:31:33]nPos=2512, DB_OPT_插入_任务_成功：nOid=96495, nTaskPos=25, Product_no=BC1-3, Project_name=NZ-XH1504-W5C-68-06, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:33]nPos=2513, DB_OPT_插入_任务编号_成功：nOid=96495, nTaskPos=25, Product_no=BC1-3, nCodeIndex=1, szCodeName=07
+[2017-03-27 10:31:33]nPos=2514, DB_OPT_插入_产品图号_成功：nOid=96495, nTaskPos=25, Product_no=BC1-3, PicNo=Dt6.644.4988, PicName = 电缆BC7
+[2017-03-27 10:31:33]nPos=2515, DB_OPT_插入_任务图号_成功：nOid=96495, nTaskPos=25, Product_no=BC1-3, PicNo=Dt6.644.4988, PicName = 电缆BC7
+[2017-03-27 10:31:33]nPos=2516, DB_OPT_插入_产品代号_成功：nOid=65591, nProdPos=26, Product_no=BK1-188
+[2017-03-27 10:31:33]nPos=2517, DB_OPT_插入_任务_成功：nOid=65591, nTaskPos=26, Product_no=BK1-188, Project_name=NZ-XH1423-W15B08-68-06, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:33]nPos=2518, DB_OPT_插入_任务编号_成功：nOid=65591, nTaskPos=26, Product_no=BK1-188, nCodeIndex=1, szCodeName=201603-07
+[2017-03-27 10:31:33]nPos=2519, DB_OPT_插入_产品图号_成功：nOid=65591, nTaskPos=26, Product_no=BK1-188, PicNo=Dt6.644.5062, PicName = 电缆BK6
+[2017-03-27 10:31:33]nPos=2520, DB_OPT_插入_任务图号_成功：nOid=65591, nTaskPos=26, Product_no=BK1-188, PicNo=Dt6.644.5062, PicName = 电缆BK6
+[2017-03-27 10:31:33]nPos=2521, DB_OPT_插入_产品代号_成功：nOid=102267, nProdPos=27, Product_no=BK1-227
+[2017-03-27 10:31:33]nPos=2522, DB_OPT_插入_任务_成功：nOid=102267, nTaskPos=27, Product_no=BK1-227, Project_name=NZ-XH1530-W3-68-04, nCodeCnt=1, nPicNumCnt=4
+[2017-03-27 10:31:33]nPos=2523, DB_OPT_插入_任务编号_成功：nOid=102267, nTaskPos=27, Product_no=BK1-227, nCodeIndex=1, szCodeName=201605-03
+[2017-03-27 10:31:33]nPos=2524, DB_OPT_插入_产品图号_成功：nOid=102267, nTaskPos=27, Product_no=BK1-227, PicNo=Dt6.644.5707, PicName = 电缆1
+[2017-03-27 10:31:33]nPos=2525, DB_OPT_插入_任务图号_成功：nOid=102267, nTaskPos=27, Product_no=BK1-227, PicNo=Dt6.644.5707, PicName = 电缆1
+[2017-03-27 10:31:33]nPos=2526, DB_OPT_插入_产品图号_成功：nOid=102267, nTaskPos=27, Product_no=BK1-227, PicNo=Dt6.644.5709, PicName = 电缆3
+[2017-03-27 10:31:33]nPos=2527, DB_OPT_插入_任务图号_成功：nOid=102267, nTaskPos=27, Product_no=BK1-227, PicNo=Dt6.644.5709, PicName = 电缆3
+[2017-03-27 10:31:33]nPos=2528, DB_OPT_插入_产品图号_成功：nOid=102267, nTaskPos=27, Product_no=BK1-227, PicNo=Dt6.644.5710, PicName = 电缆4
+[2017-03-27 10:31:33]nPos=2529, DB_OPT_插入_任务图号_成功：nOid=102267, nTaskPos=27, Product_no=BK1-227, PicNo=Dt6.644.5710, PicName = 电缆4
+[2017-03-27 10:31:33]nPos=2530, DB_OPT_插入_产品图号_成功：nOid=102267, nTaskPos=27, Product_no=BK1-227, PicNo=Dt6.644.5711, PicName = 短路插头
+[2017-03-27 10:31:33]nPos=2531, DB_OPT_插入_任务图号_成功：nOid=102267, nTaskPos=27, Product_no=BK1-227, PicNo=Dt6.644.5711, PicName = 短路插头
+[2017-03-27 10:31:33]nPos=2532, DB_OPT_插入_产品代号_代号已存在：nOid=102278, nProdPos=28, Product_no=BK1-227
+[2017-03-27 10:31:33]nPos=2533, DB_OPT_插入_任务_成功：nOid=102278, nTaskPos=28, Product_no=BK1-227, Project_name=NZ-XH1530-W3-68-04, nCodeCnt=1, nPicNumCnt=5
+[2017-03-27 10:31:33]nPos=2534, DB_OPT_插入_任务编号_成功：nOid=102278, nTaskPos=28, Product_no=BK1-227, nCodeIndex=1, szCodeName=201605-02
+[2017-03-27 10:31:33]nPos=2535, DB_OPT_插入_任务图号_成功：nOid=102278, nTaskPos=28, Product_no=BK1-227, PicNo=Dt6.644.5707, PicName = 电缆1
+[2017-03-27 10:31:33]nPos=2536, DB_OPT_插入_产品图号_成功：nOid=102278, nTaskPos=28, Product_no=BK1-227, PicNo=Dt6.644.5708, PicName = 电缆2
+[2017-03-27 10:31:33]nPos=2537, DB_OPT_插入_任务图号_成功：nOid=102278, nTaskPos=28, Product_no=BK1-227, PicNo=Dt6.644.5708, PicName = 电缆2
+[2017-03-27 10:31:33]nPos=2538, DB_OPT_插入_任务图号_成功：nOid=102278, nTaskPos=28, Product_no=BK1-227, PicNo=Dt6.644.5709, PicName = 电缆3
+[2017-03-27 10:31:33]nPos=2539, DB_OPT_插入_任务图号_成功：nOid=102278, nTaskPos=28, Product_no=BK1-227, PicNo=Dt6.644.5710, PicName = 电缆4
+[2017-03-27 10:31:33]nPos=2540, DB_OPT_插入_任务图号_成功：nOid=102278, nTaskPos=28, Product_no=BK1-227, PicNo=Dt6.644.5711, PicName = 短路插头
+[2017-03-27 10:31:33]nPos=2541, DB_OPT_插入_产品代号_成功：nOid=102468, nProdPos=29, Product_no=BK1-28
+[2017-03-27 10:31:33]nPos=2542, DB_OPT_插入_任务_成功：nOid=102468, nTaskPos=29, Product_no=BK1-28, Project_name=NZ-XH1603-W15A-47-04, nCodeCnt=3, nPicNumCnt=2
+[2017-03-27 10:31:33]nPos=2543, DB_OPT_插入_任务编号_成功：nOid=102468, nTaskPos=29, Product_no=BK1-28, nCodeIndex=1, szCodeName=201606-178
+[2017-03-27 10:31:33]nPos=2544, DB_OPT_插入_任务编号_成功：nOid=102468, nTaskPos=29, Product_no=BK1-28, nCodeIndex=2, szCodeName=201606-176
+[2017-03-27 10:31:33]nPos=2545, DB_OPT_插入_任务编号_成功：nOid=102468, nTaskPos=29, Product_no=BK1-28, nCodeIndex=3, szCodeName=201606-177
+[2017-03-27 10:31:33]nPos=2546, DB_OPT_插入_产品图号_成功：nOid=102468, nTaskPos=29, Product_no=BK1-28, PicNo=Dt6.648.1805, PicName = 电缆 7
+[2017-03-27 10:31:33]nPos=2547, DB_OPT_插入_任务图号_成功：nOid=102468, nTaskPos=29, Product_no=BK1-28, PicNo=Dt6.648.1805, PicName = 电缆 7
+[2017-03-27 10:31:33]nPos=2548, DB_OPT_插入_产品图号_成功：nOid=102468, nTaskPos=29, Product_no=BK1-28, PicNo=Dt6.648.2410, PicName = 电缆 6
+[2017-03-27 10:31:33]nPos=2549, DB_OPT_插入_任务图号_成功：nOid=102468, nTaskPos=29, Product_no=BK1-28, PicNo=Dt6.648.2410, PicName = 电缆 6
+[2017-03-27 10:31:33]nPos=2550, DB_OPT_插入_产品代号_成功：nOid=102478, nProdPos=30, Product_no=BK100-8
+[2017-03-27 10:31:33]nPos=2551, DB_OPT_插入_任务_成功：nOid=102478, nTaskPos=30, Product_no=BK100-8, Project_name=NZ-XH1417-W26-68-07, nCodeCnt=10, nPicNumCnt=1
+[2017-03-27 10:31:33]nPos=2552, DB_OPT_插入_任务编号_成功：nOid=102478, nTaskPos=30, Product_no=BK100-8, nCodeIndex=1, szCodeName=15-26CP01-113
+[2017-03-27 10:31:33]nPos=2553, DB_OPT_插入_任务编号_成功：nOid=102478, nTaskPos=30, Product_no=BK100-8, nCodeIndex=2, szCodeName=15-26CP01-114
+[2017-03-27 10:31:33]nPos=2554, DB_OPT_插入_任务编号_成功：nOid=102478, nTaskPos=30, Product_no=BK100-8, nCodeIndex=3, szCodeName=15-26CP01-115
+[2017-03-27 10:31:33]nPos=2555, DB_OPT_插入_任务编号_成功：nOid=102478, nTaskPos=30, Product_no=BK100-8, nCodeIndex=4, szCodeName=15-26CP01-116
+[2017-03-27 10:31:33]nPos=2556, DB_OPT_插入_任务编号_成功：nOid=102478, nTaskPos=30, Product_no=BK100-8, nCodeIndex=5, szCodeName=15-26CP01-117
+[2017-03-27 10:31:33]nPos=2557, DB_OPT_插入_任务编号_成功：nOid=102478, nTaskPos=30, Product_no=BK100-8, nCodeIndex=6, szCodeName=15-26CP01-119
+[2017-03-27 10:31:33]nPos=2558, DB_OPT_插入_任务编号_成功：nOid=102478, nTaskPos=30, Product_no=BK100-8, nCodeIndex=7, szCodeName=15-26CP01-120
+[2017-03-27 10:31:33]nPos=2559, DB_OPT_插入_任务编号_成功：nOid=102478, nTaskPos=30, Product_no=BK100-8, nCodeIndex=8, szCodeName=15-26CP01-121
+[2017-03-27 10:31:33]nPos=2560, DB_OPT_插入_任务编号_成功：nOid=102478, nTaskPos=30, Product_no=BK100-8, nCodeIndex=9, szCodeName=15-26CP01-122
+[2017-03-27 10:31:33]nPos=2561, DB_OPT_插入_任务编号_成功：nOid=102478, nTaskPos=30, Product_no=BK100-8, nCodeIndex=10, szCodeName=15-26CP01-125
+[2017-03-27 10:31:33]nPos=2562, DB_OPT_插入_产品图号_成功：nOid=102478, nTaskPos=30, Product_no=BK100-8, PicNo=Dt4.851.1173, PicName = 分离开关电缆
+[2017-03-27 10:31:33]nPos=2563, DB_OPT_插入_任务图号_成功：nOid=102478, nTaskPos=30, Product_no=BK100-8, PicNo=Dt4.851.1173, PicName = 分离开关电缆
+[2017-03-27 10:31:33]nPos=2564, DB_OPT_插入_产品代号_成功：nOid=90217, nProdPos=31, Product_no=BKD1-39A
+[2017-03-27 10:31:33]nPos=2565, DB_OPT_插入_任务_成功：nOid=90217, nTaskPos=31, Product_no=BKD1-39A, Project_name=NZ-XH1539-W15A-68-10, nCodeCnt=1, nPicNumCnt=4
+[2017-03-27 10:31:33]nPos=2566, DB_OPT_插入_任务编号_成功：nOid=90217, nTaskPos=31, Product_no=BKD1-39A, nCodeIndex=1, szCodeName=02
+[2017-03-27 10:31:33]nPos=2567, DB_OPT_插入_产品图号_成功：nOid=90217, nTaskPos=31, Product_no=BKD1-39A, PicNo=Dt6.648.2269, PicName = 电缆D4
+[2017-03-27 10:31:33]nPos=2568, DB_OPT_插入_任务图号_成功：nOid=90217, nTaskPos=31, Product_no=BKD1-39A, PicNo=Dt6.648.2269, PicName = 电缆D4
+[2017-03-27 10:31:33]nPos=2569, DB_OPT_插入_产品图号_成功：nOid=90217, nTaskPos=31, Product_no=BKD1-39A, PicNo=Dt6.648.2270, PicName = 电缆D5
+[2017-03-27 10:31:33]nPos=2570, DB_OPT_插入_任务图号_成功：nOid=90217, nTaskPos=31, Product_no=BKD1-39A, PicNo=Dt6.648.2270, PicName = 电缆D5
+[2017-03-27 10:31:33]nPos=2571, DB_OPT_插入_产品图号_成功：nOid=90217, nTaskPos=31, Product_no=BKD1-39A, PicNo=Dt6.648.2271, PicName = 电缆D6
+[2017-03-27 10:31:33]nPos=2572, DB_OPT_插入_任务图号_成功：nOid=90217, nTaskPos=31, Product_no=BKD1-39A, PicNo=Dt6.648.2271, PicName = 电缆D6
+[2017-03-27 10:31:33]nPos=2573, DB_OPT_插入_产品图号_成功：nOid=90217, nTaskPos=31, Product_no=BKD1-39A, PicNo=Dt6.648.2642, PicName = 电缆D10
+[2017-03-27 10:31:33]nPos=2574, DB_OPT_插入_任务图号_成功：nOid=90217, nTaskPos=31, Product_no=BKD1-39A, PicNo=Dt6.648.2642, PicName = 电缆D10
+[2017-03-27 10:31:33]nPos=2575, DB_OPT_插入_产品代号_代号已存在：nOid=94867, nProdPos=32, Product_no=BKD1-39A
+[2017-03-27 10:31:33]nPos=2576, DB_OPT_插入_任务_成功：nOid=94867, nTaskPos=32, Product_no=BKD1-39A, Project_name=NZ-XH1539-W15A-68-10, nCodeCnt=1, nPicNumCnt=4
+[2017-03-27 10:31:33]nPos=2577, DB_OPT_插入_任务编号_成功：nOid=94867, nTaskPos=32, Product_no=BKD1-39A, nCodeIndex=1, szCodeName=02
+[2017-03-27 10:31:33]nPos=2578, DB_OPT_插入_产品图号_成功：nOid=94867, nTaskPos=32, Product_no=BKD1-39A, PicNo=Dt6.648.2272, PicName = 电缆D7
+[2017-03-27 10:31:33]nPos=2579, DB_OPT_插入_任务图号_成功：nOid=94867, nTaskPos=32, Product_no=BKD1-39A, PicNo=Dt6.648.2272, PicName = 电缆D7
+[2017-03-27 10:31:33]nPos=2580, DB_OPT_插入_产品图号_成功：nOid=94867, nTaskPos=32, Product_no=BKD1-39A, PicNo=Dt6.648.2273, PicName = 电缆D9
+[2017-03-27 10:31:33]nPos=2581, DB_OPT_插入_任务图号_成功：nOid=94867, nTaskPos=32, Product_no=BKD1-39A, PicNo=Dt6.648.2273, PicName = 电缆D9
+[2017-03-27 10:31:33]nPos=2582, DB_OPT_插入_产品图号_成功：nOid=94867, nTaskPos=32, Product_no=BKD1-39A, PicNo=Dt6.648.2639, PicName = 电缆D1
+[2017-03-27 10:31:33]nPos=2583, DB_OPT_插入_任务图号_成功：nOid=94867, nTaskPos=32, Product_no=BKD1-39A, PicNo=Dt6.648.2639, PicName = 电缆D1
+[2017-03-27 10:31:33]nPos=2584, DB_OPT_插入_产品图号_成功：nOid=94867, nTaskPos=32, Product_no=BKD1-39A, PicNo=Dt6.648.2641, PicName = 电缆D8
+[2017-03-27 10:31:33]nPos=2585, DB_OPT_插入_任务图号_成功：nOid=94867, nTaskPos=32, Product_no=BKD1-39A, PicNo=Dt6.648.2641, PicName = 电缆D8
+[2017-03-27 10:31:33]nPos=2586, DB_OPT_插入_产品代号_代号已存在：nOid=97013, nProdPos=33, Product_no=BKD1-39A
+[2017-03-27 10:31:33]nPos=2587, DB_OPT_插入_任务_成功：nOid=97013, nTaskPos=33, Product_no=BKD1-39A, Project_name=NZ-XH1539-W15A-68-10, nCodeCnt=1, nPicNumCnt=2
+[2017-03-27 10:31:33]nPos=2588, DB_OPT_插入_任务编号_成功：nOid=97013, nTaskPos=33, Product_no=BKD1-39A, nCodeIndex=1, szCodeName=02
+[2017-03-27 10:31:33]nPos=2589, DB_OPT_插入_产品图号_成功：nOid=97013, nTaskPos=33, Product_no=BKD1-39A, PicNo=Dt6.648.2103, PicName = 电缆D3
+[2017-03-27 10:31:33]nPos=2590, DB_OPT_插入_任务图号_成功：nOid=97013, nTaskPos=33, Product_no=BKD1-39A, PicNo=Dt6.648.2103, PicName = 电缆D3
+[2017-03-27 10:31:33]nPos=2591, DB_OPT_插入_产品图号_成功：nOid=97013, nTaskPos=33, Product_no=BKD1-39A, PicNo=Dt6.648.2276, PicName = 电缆D12
+[2017-03-27 10:31:33]nPos=2592, DB_OPT_插入_任务图号_成功：nOid=97013, nTaskPos=33, Product_no=BKD1-39A, PicNo=Dt6.648.2276, PicName = 电缆D12
+[2017-03-27 10:31:33]nPos=2593, DB_OPT_插入_产品代号_成功：nOid=99465, nProdPos=34, Product_no=BKD1-42
+[2017-03-27 10:31:33]nPos=2594, DB_OPT_插入_任务_成功：nOid=99465, nTaskPos=34, Product_no=BKD1-42, Project_name=NZ-XH1538-W31A-68-08, nCodeCnt=2, nPicNumCnt=1
+[2017-03-27 10:31:33]nPos=2595, DB_OPT_插入_任务编号_成功：nOid=99465, nTaskPos=34, Product_no=BKD1-42, nCodeIndex=1, szCodeName=201607-36
+[2017-03-27 10:31:33]nPos=2596, DB_OPT_插入_任务编号_成功：nOid=99465, nTaskPos=34, Product_no=BKD1-42, nCodeIndex=2, szCodeName=201607-37
+[2017-03-27 10:31:33]nPos=2597, DB_OPT_插入_产品图号_成功：nOid=99465, nTaskPos=34, Product_no=BKD1-42, PicNo=Dt6.648.2367, PicName = 慢旋火工品测试电缆
+[2017-03-27 10:31:33]nPos=2598, DB_OPT_插入_任务图号_成功：nOid=99465, nTaskPos=34, Product_no=BKD1-42, PicNo=Dt6.648.2367, PicName = 慢旋火工品测试电缆
+[2017-03-27 10:31:33]nPos=2599, DB_OPT_插入_产品代号_成功：nOid=86232, nProdPos=35, Product_no=BT1-14
+[2017-03-27 10:31:33]nPos=2600, DB_OPT_插入_任务_成功：nOid=86232, nTaskPos=35, Product_no=BT1-14, Project_name=NZ-XH1537-W26C-68-06, nCodeCnt=3, nPicNumCnt=1
+[2017-03-27 10:31:33]nPos=2601, DB_OPT_插入_任务编号_成功：nOid=86232, nTaskPos=35, Product_no=BT1-14, nCodeIndex=1, szCodeName=201607-044
+[2017-03-27 10:31:33]nPos=2602, DB_OPT_插入_任务编号_成功：nOid=86232, nTaskPos=35, Product_no=BT1-14, nCodeIndex=2, szCodeName=201607-045
+[2017-03-27 10:31:33]nPos=2603, DB_OPT_插入_任务编号_成功：nOid=86232, nTaskPos=35, Product_no=BT1-14, nCodeIndex=3, szCodeName=201607-047
+[2017-03-27 10:31:33]nPos=2604, DB_OPT_插入_产品图号_成功：nOid=86232, nTaskPos=35, Product_no=BT1-14, PicNo=Dt6.644.4010, PicName = 电缆BT
+[2017-03-27 10:31:33]nPos=2605, DB_OPT_插入_任务图号_成功：nOid=86232, nTaskPos=35, Product_no=BT1-14, PicNo=Dt6.644.4010, PicName = 电缆BT
+[2017-03-27 10:31:33]nPos=2606, DB_OPT_插入_产品代号_代号已存在：nOid=86253, nProdPos=36, Product_no=BT1-14
+[2017-03-27 10:31:33]nPos=2607, DB_OPT_插入_任务_成功：nOid=86253, nTaskPos=36, Product_no=BT1-14, Project_name=NZ-XH1537-W26C-68-06, nCodeCnt=3, nPicNumCnt=1
+[2017-03-27 10:31:33]nPos=2608, DB_OPT_插入_任务编号_成功：nOid=86253, nTaskPos=36, Product_no=BT1-14, nCodeIndex=1, szCodeName=201607-043
+[2017-03-27 10:31:33]nPos=2609, DB_OPT_插入_任务编号_成功：nOid=86253, nTaskPos=36, Product_no=BT1-14, nCodeIndex=2, szCodeName=201607-046
+[2017-03-27 10:31:33]nPos=2610, DB_OPT_插入_任务编号_成功：nOid=86253, nTaskPos=36, Product_no=BT1-14, nCodeIndex=3, szCodeName=201607-048
+[2017-03-27 10:31:33]nPos=2611, DB_OPT_插入_任务图号_成功：nOid=86253, nTaskPos=36, Product_no=BT1-14, PicNo=Dt6.644.4010, PicName = 电缆BT
+[2017-03-27 10:31:33]nPos=2612, DB_OPT_插入_产品代号_成功：nOid=95815, nProdPos=37, Product_no=BTD100-1
+[2017-03-27 10:31:33]nPos=2613, DB_OPT_插入_任务_成功：nOid=95815, nTaskPos=37, Product_no=BTD100-1, Project_name=NZ-XH16014-W31A-47-01, nCodeCnt=2, nPicNumCnt=3
+[2017-03-27 10:31:33]nPos=2614, DB_OPT_插入_任务编号_成功：nOid=95815, nTaskPos=37, Product_no=BTD100-1, nCodeIndex=1, szCodeName=201607-49
+[2017-03-27 10:31:33]nPos=2615, DB_OPT_插入_任务编号_成功：nOid=95815, nTaskPos=37, Product_no=BTD100-1, nCodeIndex=2, szCodeName=201607-50
+[2017-03-27 10:31:33]nPos=2616, DB_OPT_插入_产品图号_成功：nOid=95815, nTaskPos=37, Product_no=BTD100-1, PicNo=Dt3.642.013, PicName = 短路插座
+[2017-03-27 10:31:33]nPos=2617, DB_OPT_插入_任务图号_成功：nOid=95815, nTaskPos=37, Product_no=BTD100-1, PicNo=Dt3.642.013, PicName = 短路插座
+[2017-03-27 10:31:33]nPos=2618, DB_OPT_插入_产品图号_成功：nOid=95815, nTaskPos=37, Product_no=BTD100-1, PicNo=Dt3.642.014, PicName = 短路插座
+[2017-03-27 10:31:33]nPos=2619, DB_OPT_插入_任务图号_成功：nOid=95815, nTaskPos=37, Product_no=BTD100-1, PicNo=Dt3.642.014, PicName = 短路插座
+[2017-03-27 10:31:33]nPos=2620, DB_OPT_插入_产品图号_成功：nOid=95815, nTaskPos=37, Product_no=BTD100-1, PicNo=Dt4.851.533, PicName = 测试电缆
+[2017-03-27 10:31:33]nPos=2621, DB_OPT_插入_任务图号_成功：nOid=95815, nTaskPos=37, Product_no=BTD100-1, PicNo=Dt4.851.533, PicName = 测试电缆
+[2017-03-27 10:31:33]nPos=2622, DB_OPT_插入_产品代号_成功：nOid=95828, nProdPos=38, Product_no=BTD100-2
+[2017-03-27 10:31:33]nPos=2623, DB_OPT_插入_任务_成功：nOid=95828, nTaskPos=38, Product_no=BTD100-2, Project_name=NZ-XH16014-W31A-47-02, nCodeCnt=2, nPicNumCnt=1
+[2017-03-27 10:31:33]nPos=2624, DB_OPT_插入_任务编号_成功：nOid=95828, nTaskPos=38, Product_no=BTD100-2, nCodeIndex=1, szCodeName=201607-50
+[2017-03-27 10:31:33]nPos=2625, DB_OPT_插入_任务编号_成功：nOid=95828, nTaskPos=38, Product_no=BTD100-2, nCodeIndex=2, szCodeName=201607-51
+[2017-03-27 10:31:33]nPos=2626, DB_OPT_插入_产品图号_成功：nOid=95828, nTaskPos=38, Product_no=BTD100-2, PicNo=Dt4.851.538, PicName = 测试电缆
+[2017-03-27 10:31:33]nPos=2627, DB_OPT_插入_任务图号_成功：nOid=95828, nTaskPos=38, Product_no=BTD100-2, PicNo=Dt4.851.538, PicName = 测试电缆
+[2017-03-27 10:31:33]nPos=2628, DB_OPT_插入_产品代号_成功：nOid=82673, nProdPos=39, Product_no=BTD100-5
+[2017-03-27 10:31:33]nPos=2629, DB_OPT_插入_任务_成功：nOid=82673, nTaskPos=39, Product_no=BTD100-5, Project_name=NZ-XH1539-W15A-68-11, nCodeCnt=1, nPicNumCnt=3
+[2017-03-27 10:31:33]nPos=2630, DB_OPT_插入_任务编号_成功：nOid=82673, nTaskPos=39, Product_no=BTD100-5, nCodeIndex=1, szCodeName=31
+[2017-03-27 10:31:33]nPos=2631, DB_OPT_插入_产品图号_成功：nOid=82673, nTaskPos=39, Product_no=BTD100-5, PicNo=Dt3.642.015, PicName = 短路插座
+[2017-03-27 10:31:33]nPos=2632, DB_OPT_插入_任务图号_成功：nOid=82673, nTaskPos=39, Product_no=BTD100-5, PicNo=Dt3.642.015, PicName = 短路插座
+[2017-03-27 10:31:33]nPos=2633, DB_OPT_插入_产品图号_成功：nOid=82673, nTaskPos=39, Product_no=BTD100-5, PicNo=Dt3.642.016, PicName = 短路插头
+[2017-03-27 10:31:33]nPos=2634, DB_OPT_插入_任务图号_成功：nOid=82673, nTaskPos=39, Product_no=BTD100-5, PicNo=Dt3.642.016, PicName = 短路插头
+[2017-03-27 10:31:33]nPos=2635, DB_OPT_插入_产品图号_成功：nOid=82673, nTaskPos=39, Product_no=BTD100-5, PicNo=Dt4.851.726, PicName = 测试电缆
+[2017-03-27 10:31:33]nPos=2636, DB_OPT_插入_任务图号_成功：nOid=82673, nTaskPos=39, Product_no=BTD100-5, PicNo=Dt4.851.726, PicName = 测试电缆
+[2017-03-27 10:31:33]nPos=2637, DB_OPT_插入_产品代号_代号已存在：nOid=82687, nProdPos=40, Product_no=BTD100-5
+[2017-03-27 10:31:33]nPos=2638, DB_OPT_插入_任务_成功：nOid=82687, nTaskPos=40, Product_no=BTD100-5, Project_name=NZ-XH1539-W15A-68-11, nCodeCnt=1, nPicNumCnt=3
+[2017-03-27 10:31:33]nPos=2639, DB_OPT_插入_任务编号_成功：nOid=82687, nTaskPos=40, Product_no=BTD100-5, nCodeIndex=1, szCodeName=31
+[2017-03-27 10:31:33]nPos=2640, DB_OPT_插入_任务图号_成功：nOid=82687, nTaskPos=40, Product_no=BTD100-5, PicNo=Dt3.642.015, PicName = 短路插座
+[2017-03-27 10:31:33]nPos=2641, DB_OPT_插入_任务图号_成功：nOid=82687, nTaskPos=40, Product_no=BTD100-5, PicNo=Dt3.642.016, PicName = 短路插头
+[2017-03-27 10:31:33]nPos=2642, DB_OPT_插入_任务图号_成功：nOid=82687, nTaskPos=40, Product_no=BTD100-5, PicNo=Dt4.851.726, PicName = 测试电缆
+[2017-03-27 10:31:33]nPos=2643, DB_OPT_插入_产品代号_成功：nOid=85311, nProdPos=41, Product_no=BY1-170
+[2017-03-27 10:31:33]nPos=2644, DB_OPT_插入_任务_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, Project_name=NZ-XH1504-W5C-68-03SD, nCodeCnt=1, nPicNumCnt=37
+[2017-03-27 10:31:33]nPos=2645, DB_OPT_插入_任务编号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, nCodeIndex=1, szCodeName=201606-03
+[2017-03-27 10:31:33]nPos=2646, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5195, PicName = 电缆BY3
+[2017-03-27 10:31:33]nPos=2647, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5195, PicName = 电缆BY3
+[2017-03-27 10:31:33]nPos=2648, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5196, PicName = 电缆BY4
+[2017-03-27 10:31:33]nPos=2649, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5196, PicName = 电缆BY4
+[2017-03-27 10:31:33]nPos=2650, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5198, PicName = 电缆BY6
+[2017-03-27 10:31:33]nPos=2651, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5198, PicName = 电缆BY6
+[2017-03-27 10:31:33]nPos=2652, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5200, PicName = 电缆BY8
+[2017-03-27 10:31:33]nPos=2653, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5200, PicName = 电缆BY8
+[2017-03-27 10:31:33]nPos=2654, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5202, PicName = 电缆BY10
+[2017-03-27 10:31:33]nPos=2655, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5202, PicName = 电缆BY10
+[2017-03-27 10:31:33]nPos=2656, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5203, PicName = 电缆BY11
+[2017-03-27 10:31:33]nPos=2657, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5203, PicName = 电缆BY11
+[2017-03-27 10:31:33]nPos=2658, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5204, PicName = 电缆BY12
+[2017-03-27 10:31:33]nPos=2659, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5204, PicName = 电缆BY12
+[2017-03-27 10:31:33]nPos=2660, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5205, PicName = 电缆BY13
+[2017-03-27 10:31:33]nPos=2661, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5205, PicName = 电缆BY13
+[2017-03-27 10:31:33]nPos=2662, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5206, PicName = 电缆BY14
+[2017-03-27 10:31:33]nPos=2663, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5206, PicName = 电缆BY14
+[2017-03-27 10:31:33]nPos=2664, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5208, PicName = 电缆BY16
+[2017-03-27 10:31:33]nPos=2665, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5208, PicName = 电缆BY16
+[2017-03-27 10:31:33]nPos=2666, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5209, PicName = 电缆BY17
+[2017-03-27 10:31:33]nPos=2667, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5209, PicName = 电缆BY17
+[2017-03-27 10:31:33]nPos=2668, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5210, PicName = 电缆BY18
+[2017-03-27 10:31:33]nPos=2669, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5210, PicName = 电缆BY18
+[2017-03-27 10:31:33]nPos=2670, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5211, PicName = 电缆BY19
+[2017-03-27 10:31:33]nPos=2671, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5211, PicName = 电缆BY19
+[2017-03-27 10:31:33]nPos=2672, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5213, PicName = 电缆BY21
+[2017-03-27 10:31:33]nPos=2673, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5213, PicName = 电缆BY21
+[2017-03-27 10:31:33]nPos=2674, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5214, PicName = 电缆BY22
+[2017-03-27 10:31:33]nPos=2675, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5214, PicName = 电缆BY22
+[2017-03-27 10:31:33]nPos=2676, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5215, PicName = 电缆BY23
+[2017-03-27 10:31:33]nPos=2677, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5215, PicName = 电缆BY23
+[2017-03-27 10:31:33]nPos=2678, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5216, PicName = 电缆BY24
+[2017-03-27 10:31:33]nPos=2679, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5216, PicName = 电缆BY24
+[2017-03-27 10:31:33]nPos=2680, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5217, PicName = 电缆BY25
+[2017-03-27 10:31:33]nPos=2681, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5217, PicName = 电缆BY25
+[2017-03-27 10:31:33]nPos=2682, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5218, PicName = 电缆BY26
+[2017-03-27 10:31:33]nPos=2683, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5218, PicName = 电缆BY26
+[2017-03-27 10:31:33]nPos=2684, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5219, PicName = 电缆BY27
+[2017-03-27 10:31:33]nPos=2685, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5219, PicName = 电缆BY27
+[2017-03-27 10:31:33]nPos=2686, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5220, PicName = 电缆BY28
+[2017-03-27 10:31:33]nPos=2687, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5220, PicName = 电缆BY28
+[2017-03-27 10:31:33]nPos=2688, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5221, PicName = 电缆BY29
+[2017-03-27 10:31:33]nPos=2689, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5221, PicName = 电缆BY29
+[2017-03-27 10:31:33]nPos=2690, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5222, PicName = 电缆BY30
+[2017-03-27 10:31:33]nPos=2691, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5222, PicName = 电缆BY30
+[2017-03-27 10:31:33]nPos=2692, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5224, PicName = 电缆BY32
+[2017-03-27 10:31:33]nPos=2693, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5224, PicName = 电缆BY32
+[2017-03-27 10:31:33]nPos=2694, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5225, PicName = 电缆BY33
+[2017-03-27 10:31:33]nPos=2695, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5225, PicName = 电缆BY33
+[2017-03-27 10:31:33]nPos=2696, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5226, PicName = 电缆BY34
+[2017-03-27 10:31:33]nPos=2697, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5226, PicName = 电缆BY34
+[2017-03-27 10:31:33]nPos=2698, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5227, PicName = 电缆BY35
+[2017-03-27 10:31:33]nPos=2699, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5227, PicName = 电缆BY35
+[2017-03-27 10:31:33]nPos=2700, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5228, PicName = 电缆BY36
+[2017-03-27 10:31:33]nPos=2701, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5228, PicName = 电缆BY36
+[2017-03-27 10:31:33]nPos=2702, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5229, PicName = 电缆BY37
+[2017-03-27 10:31:33]nPos=2703, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5229, PicName = 电缆BY37
+[2017-03-27 10:31:33]nPos=2704, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5230, PicName = 电缆BY38
+[2017-03-27 10:31:33]nPos=2705, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5230, PicName = 电缆BY38
+[2017-03-27 10:31:33]nPos=2706, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5231, PicName = 电缆BY40
+[2017-03-27 10:31:33]nPos=2707, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5231, PicName = 电缆BY40
+[2017-03-27 10:31:33]nPos=2708, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5232, PicName = 电缆BY41
+[2017-03-27 10:31:33]nPos=2709, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5232, PicName = 电缆BY41
+[2017-03-27 10:31:33]nPos=2710, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5233, PicName = 电缆BY42
+[2017-03-27 10:31:33]nPos=2711, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5233, PicName = 电缆BY42
+[2017-03-27 10:31:33]nPos=2712, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5235, PicName = 电缆BY44
+[2017-03-27 10:31:33]nPos=2713, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5235, PicName = 电缆BY44
+[2017-03-27 10:31:33]nPos=2714, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5236, PicName = 电缆BY45
+[2017-03-27 10:31:33]nPos=2715, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5236, PicName = 电缆BY45
+[2017-03-27 10:31:33]nPos=2716, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5237, PicName = 电缆BY46
+[2017-03-27 10:31:33]nPos=2717, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.644.5237, PicName = 电缆BY46
+[2017-03-27 10:31:33]nPos=2718, DB_OPT_插入_产品图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.645.1798, PicName = 电缆BY39
+[2017-03-27 10:31:33]nPos=2719, DB_OPT_插入_任务图号_成功：nOid=85311, nTaskPos=41, Product_no=BY1-170, PicNo=Dt6.645.1798, PicName = 电缆BY39
+[2017-03-27 10:31:33]nPos=2720, DB_OPT_插入_产品代号_代号已存在：nOid=90244, nProdPos=42, Product_no=BY1-170
+[2017-03-27 10:31:33]nPos=2721, DB_OPT_插入_任务_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, Project_name=NZ-XH1504-W5C-68-03SD, nCodeCnt=1, nPicNumCnt=43
+[2017-03-27 10:31:33]nPos=2722, DB_OPT_插入_任务编号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, nCodeIndex=1, szCodeName=201606-04
+[2017-03-27 10:31:33]nPos=2723, DB_OPT_插入_产品图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5193, PicName = 电缆BY1
+[2017-03-27 10:31:33]nPos=2724, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5193, PicName = 电缆BY1
+[2017-03-27 10:31:33]nPos=2725, DB_OPT_插入_产品图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5194, PicName = 电缆BY2
+[2017-03-27 10:31:33]nPos=2726, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5194, PicName = 电缆BY2
+[2017-03-27 10:31:33]nPos=2727, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5195, PicName = 电缆BY3
+[2017-03-27 10:31:33]nPos=2728, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5196, PicName = 电缆BY4
+[2017-03-27 10:31:33]nPos=2729, DB_OPT_插入_产品图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5197, PicName = 电缆BY5
+[2017-03-27 10:31:33]nPos=2730, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5197, PicName = 电缆BY5
+[2017-03-27 10:31:33]nPos=2731, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5198, PicName = 电缆BY6
+[2017-03-27 10:31:33]nPos=2732, DB_OPT_插入_产品图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5199, PicName = 电缆BY7
+[2017-03-27 10:31:33]nPos=2733, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5199, PicName = 电缆BY7
+[2017-03-27 10:31:33]nPos=2734, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5200, PicName = 电缆BY8
+[2017-03-27 10:31:33]nPos=2735, DB_OPT_插入_产品图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5201, PicName = 电缆BY9
+[2017-03-27 10:31:33]nPos=2736, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5201, PicName = 电缆BY9
+[2017-03-27 10:31:33]nPos=2737, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5202, PicName = 电缆BY10
+[2017-03-27 10:31:33]nPos=2738, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5203, PicName = 电缆BY11
+[2017-03-27 10:31:33]nPos=2739, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5204, PicName = 电缆BY12
+[2017-03-27 10:31:33]nPos=2740, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5205, PicName = 电缆BY13
+[2017-03-27 10:31:33]nPos=2741, DB_OPT_插入_产品图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5207, PicName = 电缆BY15
+[2017-03-27 10:31:33]nPos=2742, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5207, PicName = 电缆BY15
+[2017-03-27 10:31:33]nPos=2743, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5208, PicName = 电缆BY16
+[2017-03-27 10:31:33]nPos=2744, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5209, PicName = 电缆BY17
+[2017-03-27 10:31:33]nPos=2745, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5210, PicName = 电缆BY18
+[2017-03-27 10:31:33]nPos=2746, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5211, PicName = 电缆BY19
+[2017-03-27 10:31:33]nPos=2747, DB_OPT_插入_产品图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5212, PicName = 电缆BY20
+[2017-03-27 10:31:33]nPos=2748, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5212, PicName = 电缆BY20
+[2017-03-27 10:31:33]nPos=2749, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5213, PicName = 电缆BY21
+[2017-03-27 10:31:33]nPos=2750, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5214, PicName = 电缆BY22
+[2017-03-27 10:31:33]nPos=2751, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5216, PicName = 电缆BY24
+[2017-03-27 10:31:33]nPos=2752, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5217, PicName = 电缆BY25
+[2017-03-27 10:31:33]nPos=2753, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5219, PicName = 电缆BY27
+[2017-03-27 10:31:33]nPos=2754, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5220, PicName = 电缆BY28
+[2017-03-27 10:31:33]nPos=2755, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5221, PicName = 电缆BY29
+[2017-03-27 10:31:33]nPos=2756, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5222, PicName = 电缆BY30
+[2017-03-27 10:31:33]nPos=2757, DB_OPT_插入_产品图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5223, PicName = 电缆BY31
+[2017-03-27 10:31:33]nPos=2758, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5223, PicName = 电缆BY31
+[2017-03-27 10:31:33]nPos=2759, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5224, PicName = 电缆BY32
+[2017-03-27 10:31:33]nPos=2760, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5225, PicName = 电缆BY33
+[2017-03-27 10:31:33]nPos=2761, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5226, PicName = 电缆BY34
+[2017-03-27 10:31:33]nPos=2762, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5227, PicName = 电缆BY35
+[2017-03-27 10:31:33]nPos=2763, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5228, PicName = 电缆BY36
+[2017-03-27 10:31:33]nPos=2764, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5229, PicName = 电缆BY37
+[2017-03-27 10:31:33]nPos=2765, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5230, PicName = 电缆BY38
+[2017-03-27 10:31:33]nPos=2766, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5231, PicName = 电缆BY40
+[2017-03-27 10:31:33]nPos=2767, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5232, PicName = 电缆BY41
+[2017-03-27 10:31:33]nPos=2768, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5233, PicName = 电缆BY42
+[2017-03-27 10:31:33]nPos=2769, DB_OPT_插入_产品图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5234, PicName = 电缆BY43
+[2017-03-27 10:31:33]nPos=2770, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5234, PicName = 电缆BY43
+[2017-03-27 10:31:33]nPos=2771, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5235, PicName = 电缆BY44
+[2017-03-27 10:31:33]nPos=2772, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5236, PicName = 电缆BY45
+[2017-03-27 10:31:33]nPos=2773, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.644.5237, PicName = 电缆BY46
+[2017-03-27 10:31:33]nPos=2774, DB_OPT_插入_任务图号_成功：nOid=90244, nTaskPos=42, Product_no=BY1-170, PicNo=Dt6.645.1798, PicName = 电缆BY39
+[2017-03-27 10:31:33]nPos=2775, DB_OPT_插入_产品代号_代号已存在：nOid=90294, nProdPos=43, Product_no=BY1-170
+[2017-03-27 10:31:33]nPos=2776, DB_OPT_插入_任务_成功：nOid=90294, nTaskPos=43, Product_no=BY1-170, Project_name=NZ-XH1504-W5C-68-03SD, nCodeCnt=1, nPicNumCnt=7
+[2017-03-27 10:31:33]nPos=2777, DB_OPT_插入_任务编号_成功：nOid=90294, nTaskPos=43, Product_no=BY1-170, nCodeIndex=1, szCodeName=201606-03
+[2017-03-27 10:31:33]nPos=2778, DB_OPT_插入_任务图号_成功：nOid=90294, nTaskPos=43, Product_no=BY1-170, PicNo=Dt6.644.5193, PicName = 电缆BY1
+[2017-03-27 10:31:33]nPos=2779, DB_OPT_插入_任务图号_成功：nOid=90294, nTaskPos=43, Product_no=BY1-170, PicNo=Dt6.644.5194, PicName = 电缆BY2
+[2017-03-27 10:31:33]nPos=2780, DB_OPT_插入_任务图号_成功：nOid=90294, nTaskPos=43, Product_no=BY1-170, PicNo=Dt6.644.5197, PicName = 电缆BY5
+[2017-03-27 10:31:33]nPos=2781, DB_OPT_插入_任务图号_成功：nOid=90294, nTaskPos=43, Product_no=BY1-170, PicNo=Dt6.644.5199, PicName = 电缆BY7
+[2017-03-27 10:31:33]nPos=2782, DB_OPT_插入_任务图号_成功：nOid=90294, nTaskPos=43, Product_no=BY1-170, PicNo=Dt6.644.5201, PicName = 电缆BY9
+[2017-03-27 10:31:33]nPos=2783, DB_OPT_插入_任务图号_成功：nOid=90294, nTaskPos=43, Product_no=BY1-170, PicNo=Dt6.644.5207, PicName = 电缆BY15
+[2017-03-27 10:31:33]nPos=2784, DB_OPT_插入_任务图号_成功：nOid=90294, nTaskPos=43, Product_no=BY1-170, PicNo=Dt6.644.5212, PicName = 电缆BY20
+[2017-03-27 10:31:33]nPos=2785, DB_OPT_插入_产品代号_代号已存在：nOid=90671, nProdPos=44, Product_no=BY1-170
+[2017-03-27 10:31:33]nPos=2786, DB_OPT_插入_任务_成功：nOid=90671, nTaskPos=44, Product_no=BY1-170, Project_name=NZ-XH1504-W5C-68-03SD, nCodeCnt=1, nPicNumCnt=7
+[2017-03-27 10:31:33]nPos=2787, DB_OPT_插入_任务编号_成功：nOid=90671, nTaskPos=44, Product_no=BY1-170, nCodeIndex=1, szCodeName=201606-03
+[2017-03-27 10:31:33]nPos=2788, DB_OPT_插入_任务图号_成功：nOid=90671, nTaskPos=44, Product_no=BY1-170, PicNo=Dt6.644.5193, PicName = 电缆BY1
+[2017-03-27 10:31:33]nPos=2789, DB_OPT_插入_任务图号_成功：nOid=90671, nTaskPos=44, Product_no=BY1-170, PicNo=Dt6.644.5194, PicName = 电缆BY2
+[2017-03-27 10:31:33]nPos=2790, DB_OPT_插入_任务图号_成功：nOid=90671, nTaskPos=44, Product_no=BY1-170, PicNo=Dt6.644.5197, PicName = 电缆BY5
+[2017-03-27 10:31:33]nPos=2791, DB_OPT_插入_任务图号_成功：nOid=90671, nTaskPos=44, Product_no=BY1-170, PicNo=Dt6.644.5199, PicName = 电缆BY7
+[2017-03-27 10:31:33]nPos=2792, DB_OPT_插入_任务图号_成功：nOid=90671, nTaskPos=44, Product_no=BY1-170, PicNo=Dt6.644.5201, PicName = 电缆BY9
+[2017-03-27 10:31:33]nPos=2793, DB_OPT_插入_任务图号_成功：nOid=90671, nTaskPos=44, Product_no=BY1-170, PicNo=Dt6.644.5207, PicName = 电缆BY15
+[2017-03-27 10:31:33]nPos=2794, DB_OPT_插入_任务图号_成功：nOid=90671, nTaskPos=44, Product_no=BY1-170, PicNo=Dt6.644.5212, PicName = 电缆BY20
+[2017-03-27 10:31:33]nPos=2795, DB_OPT_插入_产品代号_代号已存在：nOid=93360, nProdPos=45, Product_no=BY1-170
+[2017-03-27 10:31:33]nPos=2796, DB_OPT_插入_任务_成功：nOid=93360, nTaskPos=45, Product_no=BY1-170, Project_name=NZ-XH1504-W5C-68-03SD, nCodeCnt=1, nPicNumCnt=7
+[2017-03-27 10:31:33]nPos=2797, DB_OPT_插入_任务编号_成功：nOid=93360, nTaskPos=45, Product_no=BY1-170, nCodeIndex=1, szCodeName=201606-03
+[2017-03-27 10:31:33]nPos=2798, DB_OPT_插入_任务图号_成功：nOid=93360, nTaskPos=45, Product_no=BY1-170, PicNo=Dt6.644.5193, PicName = 电缆BY1
+[2017-03-27 10:31:33]nPos=2799, DB_OPT_插入_任务图号_成功：nOid=93360, nTaskPos=45, Product_no=BY1-170, PicNo=Dt6.644.5194, PicName = 电缆BY2
+[2017-03-27 10:31:33]nPos=2800, DB_OPT_插入_任务图号_成功：nOid=93360, nTaskPos=45, Product_no=BY1-170, PicNo=Dt6.644.5197, PicName = 电缆BY5
+[2017-03-27 10:31:33]nPos=2801, DB_OPT_插入_任务图号_成功：nOid=93360, nTaskPos=45, Product_no=BY1-170, PicNo=Dt6.644.5199, PicName = 电缆BY7
+[2017-03-27 10:31:33]nPos=2802, DB_OPT_插入_任务图号_成功：nOid=93360, nTaskPos=45, Product_no=BY1-170, PicNo=Dt6.644.5201, PicName = 电缆BY9
+[2017-03-27 10:31:33]nPos=2803, DB_OPT_插入_任务图号_成功：nOid=93360, nTaskPos=45, Product_no=BY1-170, PicNo=Dt6.644.5207, PicName = 电缆BY15
+[2017-03-27 10:31:33]nPos=2804, DB_OPT_插入_任务图号_成功：nOid=93360, nTaskPos=45, Product_no=BY1-170, PicNo=Dt6.644.5212, PicName = 电缆BY20
+[2017-03-27 10:31:33]nPos=2805, DB_OPT_插入_产品代号_代号已存在：nOid=93374, nProdPos=46, Product_no=BY1-170
+[2017-03-27 10:31:33]nPos=2806, DB_OPT_插入_任务_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, Project_name=NZ-XH1504-W5C-68-03SD, nCodeCnt=1, nPicNumCnt=43
+[2017-03-27 10:31:33]nPos=2807, DB_OPT_插入_任务编号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, nCodeIndex=1, szCodeName=201606-04
+[2017-03-27 10:31:33]nPos=2808, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5193, PicName = 电缆BY1
+[2017-03-27 10:31:33]nPos=2809, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5194, PicName = 电缆BY2
+[2017-03-27 10:31:33]nPos=2810, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5195, PicName = 电缆BY3
+[2017-03-27 10:31:33]nPos=2811, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5196, PicName = 电缆BY4
+[2017-03-27 10:31:33]nPos=2812, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5197, PicName = 电缆BY5
+[2017-03-27 10:31:33]nPos=2813, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5198, PicName = 电缆BY6
+[2017-03-27 10:31:33]nPos=2814, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5199, PicName = 电缆BY7
+[2017-03-27 10:31:33]nPos=2815, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5200, PicName = 电缆BY8
+[2017-03-27 10:31:33]nPos=2816, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5201, PicName = 电缆BY9
+[2017-03-27 10:31:33]nPos=2817, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5202, PicName = 电缆BY10
+[2017-03-27 10:31:33]nPos=2818, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5203, PicName = 电缆BY11
+[2017-03-27 10:31:33]nPos=2819, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5204, PicName = 电缆BY12
+[2017-03-27 10:31:33]nPos=2820, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5205, PicName = 电缆BY13
+[2017-03-27 10:31:33]nPos=2821, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5207, PicName = 电缆BY15
+[2017-03-27 10:31:33]nPos=2822, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5208, PicName = 电缆BY16
+[2017-03-27 10:31:33]nPos=2823, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5209, PicName = 电缆BY17
+[2017-03-27 10:31:33]nPos=2824, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5210, PicName = 电缆BY18
+[2017-03-27 10:31:33]nPos=2825, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5211, PicName = 电缆BY19
+[2017-03-27 10:31:33]nPos=2826, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5212, PicName = 电缆BY20
+[2017-03-27 10:31:33]nPos=2827, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5213, PicName = 电缆BY21
+[2017-03-27 10:31:34]nPos=2828, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5214, PicName = 电缆BY22
+[2017-03-27 10:31:34]nPos=2829, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5216, PicName = 电缆BY24
+[2017-03-27 10:31:34]nPos=2830, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5217, PicName = 电缆BY25
+[2017-03-27 10:31:34]nPos=2831, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5219, PicName = 电缆BY27
+[2017-03-27 10:31:34]nPos=2832, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5220, PicName = 电缆BY28
+[2017-03-27 10:31:34]nPos=2833, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5221, PicName = 电缆BY29
+[2017-03-27 10:31:34]nPos=2834, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5222, PicName = 电缆BY30
+[2017-03-27 10:31:34]nPos=2835, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5223, PicName = 电缆BY31
+[2017-03-27 10:31:34]nPos=2836, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5224, PicName = 电缆BY32
+[2017-03-27 10:31:34]nPos=2837, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5225, PicName = 电缆BY33
+[2017-03-27 10:31:34]nPos=2838, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5226, PicName = 电缆BY34
+[2017-03-27 10:31:34]nPos=2839, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5227, PicName = 电缆BY35
+[2017-03-27 10:31:34]nPos=2840, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5228, PicName = 电缆BY36
+[2017-03-27 10:31:34]nPos=2841, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5229, PicName = 电缆BY37
+[2017-03-27 10:31:34]nPos=2842, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5230, PicName = 电缆BY38
+[2017-03-27 10:31:34]nPos=2843, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5231, PicName = 电缆BY40
+[2017-03-27 10:31:34]nPos=2844, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5232, PicName = 电缆BY41
+[2017-03-27 10:31:34]nPos=2845, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5233, PicName = 电缆BY42
+[2017-03-27 10:31:34]nPos=2846, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5234, PicName = 电缆BY43
+[2017-03-27 10:31:34]nPos=2847, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5235, PicName = 电缆BY44
+[2017-03-27 10:31:34]nPos=2848, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5236, PicName = 电缆BY45
+[2017-03-27 10:31:34]nPos=2849, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.644.5237, PicName = 电缆BY46
+[2017-03-27 10:31:34]nPos=2850, DB_OPT_插入_任务图号_成功：nOid=93374, nTaskPos=46, Product_no=BY1-170, PicNo=Dt6.645.1798, PicName = 电缆BY39
+[2017-03-27 10:31:34]nPos=2851, DB_OPT_插入_产品代号_代号已存在：nOid=94715, nProdPos=47, Product_no=BY1-170
+[2017-03-27 10:31:34]nPos=2852, DB_OPT_插入_任务_成功：nOid=94715, nTaskPos=47, Product_no=BY1-170, Project_name=NZ-XH1504-W5C-68-03SD, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:34]nPos=2853, DB_OPT_插入_任务编号_成功：nOid=94715, nTaskPos=47, Product_no=BY1-170, nCodeIndex=1, szCodeName=201606-03
+[2017-03-27 10:31:34]nPos=2854, DB_OPT_插入_任务图号_成功：nOid=94715, nTaskPos=47, Product_no=BY1-170, PicNo=Dt6.644.5234, PicName = 电缆BY43
+[2017-03-27 10:31:34]nPos=2855, DB_OPT_插入_产品代号_代号已存在：nOid=94781, nProdPos=48, Product_no=BY1-170
+[2017-03-27 10:31:34]nPos=2856, DB_OPT_插入_任务_成功：nOid=94781, nTaskPos=48, Product_no=BY1-170, Project_name=NZ-XH1504-W5C-68-03SD, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:34]nPos=2857, DB_OPT_插入_任务编号_成功：nOid=94781, nTaskPos=48, Product_no=BY1-170, nCodeIndex=1, szCodeName=201606-03
+[2017-03-27 10:31:34]nPos=2858, DB_OPT_插入_任务图号_成功：nOid=94781, nTaskPos=48, Product_no=BY1-170, PicNo=Dt6.644.5196, PicName = 电缆BY4
+[2017-03-27 10:31:34]nPos=2859, DB_OPT_插入_产品代号_代号已存在：nOid=94789, nProdPos=49, Product_no=BY1-170
+[2017-03-27 10:31:34]nPos=2860, DB_OPT_插入_任务_成功：nOid=94789, nTaskPos=49, Product_no=BY1-170, Project_name=NZ-XH1504-W5C-68-03SD, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:34]nPos=2861, DB_OPT_插入_任务编号_成功：nOid=94789, nTaskPos=49, Product_no=BY1-170, nCodeIndex=1, szCodeName=201606-03
+[2017-03-27 10:31:34]nPos=2862, DB_OPT_插入_任务图号_成功：nOid=94789, nTaskPos=49, Product_no=BY1-170, PicNo=Dt6.644.5223, PicName = 电缆BY31
+[2017-03-27 10:31:34]nPos=2863, DB_OPT_插入_产品代号_代号已存在：nOid=103268, nProdPos=50, Product_no=BY1-170
+[2017-03-27 10:31:34]nPos=2864, DB_OPT_插入_任务_成功：nOid=103268, nTaskPos=50, Product_no=BY1-170, Project_name=NZ-XH1504-W5C-68-03SD, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:34]nPos=2865, DB_OPT_插入_任务编号_成功：nOid=103268, nTaskPos=50, Product_no=BY1-170, nCodeIndex=1, szCodeName=201606-04
+[2017-03-27 10:31:34]nPos=2866, DB_OPT_插入_任务图号_成功：nOid=103268, nTaskPos=50, Product_no=BY1-170, PicNo=Dt6.644.5206, PicName = 电缆BY14
+[2017-03-27 10:31:34]nPos=2867, DB_OPT_插入_产品代号_成功：nOid=83153, nProdPos=51, Product_no=BY1-180
+[2017-03-27 10:31:34]nPos=2868, DB_OPT_插入_任务_成功：nOid=83153, nTaskPos=51, Product_no=BY1-180, Project_name=NZ-XH1504-W5C-68-07, nCodeCnt=1, nPicNumCnt=2
+[2017-03-27 10:31:34]nPos=2869, DB_OPT_插入_任务编号_成功：nOid=83153, nTaskPos=51, Product_no=BY1-180, nCodeIndex=1, szCodeName=201606-04
+[2017-03-27 10:31:34]nPos=2870, DB_OPT_插入_产品图号_成功：nOid=83153, nTaskPos=51, Product_no=BY1-180, PicNo=Dt6.644.5241, PicName = 电缆BY47
+[2017-03-27 10:31:34]nPos=2871, DB_OPT_插入_任务图号_成功：nOid=83153, nTaskPos=51, Product_no=BY1-180, PicNo=Dt6.644.5241, PicName = 电缆BY47
+[2017-03-27 10:31:34]nPos=2872, DB_OPT_插入_产品图号_成功：nOid=83153, nTaskPos=51, Product_no=BY1-180, PicNo=Dt6.644.5242, PicName = 电缆BY48
+[2017-03-27 10:31:34]nPos=2873, DB_OPT_插入_任务图号_成功：nOid=83153, nTaskPos=51, Product_no=BY1-180, PicNo=Dt6.644.5242, PicName = 电缆BY48
+[2017-03-27 10:31:34]nPos=2874, DB_OPT_插入_产品代号_代号已存在：nOid=84092, nProdPos=52, Product_no=BY1-180
+[2017-03-27 10:31:34]nPos=2875, DB_OPT_插入_任务_成功：nOid=84092, nTaskPos=52, Product_no=BY1-180, Project_name=NZ-XH1504-W5C-68-07, nCodeCnt=1, nPicNumCnt=3
+[2017-03-27 10:31:34]nPos=2876, DB_OPT_插入_任务编号_成功：nOid=84092, nTaskPos=52, Product_no=BY1-180, nCodeIndex=1, szCodeName=201606-03
+[2017-03-27 10:31:34]nPos=2877, DB_OPT_插入_任务图号_成功：nOid=84092, nTaskPos=52, Product_no=BY1-180, PicNo=Dt6.644.5241, PicName = 电缆BY47
+[2017-03-27 10:31:34]nPos=2878, DB_OPT_插入_任务图号_成功：nOid=84092, nTaskPos=52, Product_no=BY1-180, PicNo=Dt6.644.5242, PicName = 电缆BY48
+[2017-03-27 10:31:34]nPos=2879, DB_OPT_插入_产品图号_成功：nOid=84092, nTaskPos=52, Product_no=BY1-180, PicNo=Dt6.644.5243, PicName = 电缆BY49
+[2017-03-27 10:31:34]nPos=2880, DB_OPT_插入_任务图号_成功：nOid=84092, nTaskPos=52, Product_no=BY1-180, PicNo=Dt6.644.5243, PicName = 电缆BY49
+[2017-03-27 10:31:34]nPos=2881, DB_OPT_插入_产品代号_代号已存在：nOid=85287, nProdPos=53, Product_no=BY1-180
+[2017-03-27 10:31:34]nPos=2882, DB_OPT_插入_任务_成功：nOid=85287, nTaskPos=53, Product_no=BY1-180, Project_name=NZ-XH1504-W5C-68-07, nCodeCnt=1, nPicNumCnt=1
+[2017-03-27 10:31:34]nPos=2883, DB_OPT_插入_任务编号_成功：nOid=85287, nTaskPos=53, Product_no=BY1-180, nCodeIndex=1, szCodeName=201606-04
+[2017-03-27 10:31:34]nPos=2884, DB_OPT_插入_任务图号_成功：nOid=85287, nTaskPos=53, Product_no=BY1-180, PicNo=Dt6.644.5243, PicName = 电缆BY49
+[2017-03-27 10:39:47]释放 CMainFrame::OnClose:Release 用时 0 毫秒
+[2017-03-27 10:39:47]释放 CMainFrame::OnClose:DeleteItemInfo 用时 47 毫秒

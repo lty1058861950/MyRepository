@@ -1,0 +1,7 @@
+[2017-02-15 17:31:18]申请 CMainFrame.OnCreate,NewItemInfo 用时 109 毫秒
+[2017-02-15 17:31:35]用时3947毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportTempPath\2017-02-15 17_31_31.doc
+[2017-02-15 17:31:37]开始生成文件：c:\PAD_JH\DataManage\ReportTempPath\t_Mode2_2017-02-15 17_31_36.doc
+[2017-02-15 17:31:39]用时1716毫秒! ret=1, 生成文件成功：c:\PAD_JH\DataManage\ReportTempPath\t_Mode2_2017-02-15 17_31_36.doc
+[2017-02-15 17:31:41]开始生成文件：c:\PAD_JH\DataManage\ReportTempPath\t_Mode2_2017-02-15 17_31_40.doc
+[2017-02-15 17:31:44]用时2184毫秒! ret=1, 生成文件成功：c:\PAD_JH\DataManage\ReportTempPath\t_Mode2_2017-02-15 17_31_40.doc
+[2017-02-15 17:31:45]用时16177毫秒! ret=1, 输出文件：C:\Users\ASUS_LTY\Desktop\1BJ2-2_201607-2292_2017-02-15_17_31.doc

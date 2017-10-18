@@ -1,0 +1,5 @@
+[2017-02-21 14:10:06]申请 CMainFrame.OnCreate,NewItemInfo 用时 141 毫秒
+[2017-02-21 14:12:31]手动添加任务: DB_OPT_插入_产品代号_代号已存在：nOid=1, Product_no=Y27-30
+[2017-02-21 14:12:31] DB_OPT_插入_产品系列号_成功：nOid=1,Product_no=1
+[2017-02-21 14:17:46]释放 CMainFrame::OnClose:Release 用时 0 毫秒
+[2017-02-21 14:17:46]释放 CMainFrame::OnClose:DeleteItemInfo 用时 609 毫秒

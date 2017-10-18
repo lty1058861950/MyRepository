@@ -1,0 +1,17 @@
+[2017-02-15 15:44:03]申请 CMainFrame.OnCreate,NewItemInfo 用时 93 毫秒
+[2017-02-15 15:45:08]用时827毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 15_45_08_150.doc
+[2017-02-15 15:45:11]用时827毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 15_45_10_273.doc
+[2017-02-15 15:45:13]用时842毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 15_45_12_261.doc
+[2017-02-15 15:45:13]用时5850毫秒! ret=1, 输出文件：C:\Users\ASUS_LTY\Desktop\Report_2017-02-15_15_44.doc
+[2017-02-15 15:45:52]用时717毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 15_45_52_62.doc
+[2017-02-15 15:45:54]用时811毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 15_45_54_68.doc
+[2017-02-15 15:45:56]用时811毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 15_45_56_74.doc
+[2017-02-15 15:45:57]用时5835毫秒! ret=1, 输出文件：C:\Users\ASUS_LTY\Desktop\Report_2017-02-15_15_45.doc
+[2017-02-15 15:46:21]用时764毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 15_46_21_210.doc
+[2017-02-15 15:46:24]用时1451毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 15_46_23_262.doc
+[2017-02-15 15:46:26]用时748毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 15_46_25_927.doc
+[2017-02-15 15:46:27]用时6380毫秒! ret=1, 输出文件：C:\Users\ASUS_LTY\Desktop\Report_2017-02-15_15_46.doc
+[2017-02-15 15:46:52]用时780毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 15_46_51_771.doc
+[2017-02-15 15:46:53]用时2636毫秒! ret=1, 输出文件：C:\Users\ASUS_LTY\Desktop\Report_2017-02-15_15_46.doc
+[2017-02-15 15:47:54]用时812毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 15_47_54_52.doc
+[2017-02-15 15:47:55]用时6053毫秒! ret=1, 输出文件：C:\Users\ASUS_LTY\Desktop\Report_2017-02-15_15_47.doc

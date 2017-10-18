@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<RootInfo Version="1.0" Date="2017-04-05" Time="13:14:15">
+    <UserSetConfig>
+        <SelProductInfo RowCnt="46">
+            <ItemRoot1 nOid="280" szProductNo="1BJ2-2" szProductName="加温电缆JC1" />
+            <ItemRoot2 nOid="281" szProductNo="1D0111-31B" szProductName="技术阵地地面电缆网" />
+            <ItemRoot3 nOid="282" szProductNo="1Y221-31B" szProductName="测量系统弹上电缆网" />
+            <ItemRoot4 nOid="283" szProductNo="1Y223-5B" szProductName="弹上电缆网" />
+            <ItemRoot5 nOid="284" szProductNo="1Y230-15" szProductName="炮训弹上电缆网" />
+            <ItemRoot6 nOid="285" szProductNo="3SJ04-8" szProductName="鱼雷助飞火箭脱插机构电缆" />
+            <ItemRoot7 nOid="286" szProductNo="8D0119-7" szProductName="发射场地面脱拔电缆" />
+            <ItemRoot8 nOid="287" szProductNo="8Y2211-5" szProductName="助推器箭上低频电缆网" />
+            <ItemRoot9 nOid="288" szProductNo="8Y223-5" szProductName="二级箭上低频电缆网" />
+            <ItemRoot10 nOid="289" szProductNo="BC1-3" szProductName="弹上电缆网" />
+            <ItemRoot11 nOid="290" szProductNo="BK1-188" szProductName="弹上电缆网" />
+            <ItemRoot12 nOid="291" szProductNo="BK1-227" szProductName="电缆网" />
+            <ItemRoot13 nOid="292" szProductNo="BK1-28" szProductName="电缆网" />
+            <ItemRoot14 nOid="293" szProductNo="BK100-8" szProductName="分离开关电缆" />
+            <ItemRoot15 nOid="294" szProductNo="BKD1-39A" szProductName="地面电缆" />
+            <ItemRoot16 nOid="295" szProductNo="BKD1-42" szProductName="慢旋火工品测试电缆" />
+            <ItemRoot17 nOid="296" szProductNo="BT1-14" szProductName="弹上电缆网" />
+            <ItemRoot18 nOid="297" szProductNo="BTD100-1" szProductName="测试电缆" />
+            <ItemRoot19 nOid="298" szProductNo="BTD100-2" szProductName="测试电缆" />
+            <ItemRoot20 nOid="299" szProductNo="BTD100-5" szProductName="测试电缆、短路插头、短路插座" />
+            <ItemRoot21 nOid="300" szProductNo="BY1-170" szProductName="弹头遥外测系统弹上电缆网" />
+            <ItemRoot22 nOid="301" szProductNo="BY1-180" szProductName="AY状态弹头遥外测系统头体连接电缆网" />
+            <ItemRoot23 nOid="302" szProductNo="1BJ2-2" szProductName="加温电缆JC1" />
+            <ItemRoot24 nOid="303" szProductNo="1D0111-31B" szProductName="技术阵地地面电缆网" />
+            <ItemRoot25 nOid="304" szProductNo="1Y221-31B" szProductName="测量系统弹上电缆网" />
+            <ItemRoot26 nOid="305" szProductNo="1Y223-5B" szProductName="弹上电缆网" />
+            <ItemRoot27 nOid="306" szProductNo="1Y230-15" szProductName="炮训弹上电缆网" />
+            <ItemRoot28 nOid="307" szProductNo="3SJ04-8" szProductName="鱼雷助飞火箭脱插机构电缆" />
+            <ItemRoot29 nOid="308" szProductNo="8D0119-7" szProductName="发射场地面脱拔电缆" />
+            <ItemRoot30 nOid="309" szProductNo="8Y2211-5" szProductName="助推器箭上低频电缆网" />
+            <ItemRoot31 nOid="310" szProductNo="8Y223-5" szProductName="二级箭上低频电缆网" />
+            <ItemRoot32 nOid="311" szProductNo="BC1-3" szProductName="弹上电缆网" />
+            <ItemRoot33 nOid="312" szProductNo="BK1-188" szProductName="弹上电缆网" />
+            <ItemRoot34 nOid="313" szProductNo="BK1-227" szProductName="电缆网" />
+            <ItemRoot35 nOid="314" szProductNo="BK1-28" szProductName="电缆网" />
+            <ItemRoot36 nOid="315" szProductNo="BK100-8" szProductName="分离开关电缆" />
+            <ItemRoot37 nOid="316" szProductNo="BKD1-39A" szProductName="地面电缆" />
+            <ItemRoot38 nOid="317" szProductNo="BKD1-42" szProductName="慢旋火工品测试电缆" />
+            <ItemRoot39 nOid="318" szProductNo="BT1-14" szProductName="弹上电缆网" />
+            <ItemRoot40 nOid="319" szProductNo="BTD100-1" szProductName="测试电缆" />
+            <ItemRoot41 nOid="320" szProductNo="BTD100-2" szProductName="测试电缆" />
+            <ItemRoot42 nOid="321" szProductNo="BTD100-5" szProductName="测试电缆、短路插头、短路插座" />
+            <ItemRoot43 nOid="322" szProductNo="BY1-170" szProductName="弹头遥外测系统弹上电缆网" />
+            <ItemRoot44 nOid="323" szProductNo="BY1-180" szProductName="AY状态弹头遥外测系统头体连接电缆网" />
+            <ItemRoot45 nOid="324" szProductNo="YH2-28A-2" szProductName="中心程序器" />
+            <ItemRoot46 nOid="325" szProductNo="YH2-28A-1" szProductName="中心程序器" />
+        </SelProductInfo>
+    </UserSetConfig>
+</RootInfo>

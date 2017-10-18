@@ -1,0 +1,9 @@
+[2017-02-15 14:27:33]申请 CMainFrame.OnCreate,NewItemInfo 用时 93 毫秒
+[2017-02-15 14:27:43]CResultSearch::ShowCurData 用时 16 毫秒
+[2017-02-15 14:27:43]CResultShow::OnInitDialog() GetCurTaskInfoLoad,AnalysisData 用时 16 毫秒
+[2017-02-15 14:27:43]CResultShow::OnInitDialog() 用时 32 毫秒
+[2017-02-15 14:27:52]释放 CResultShow 用时 0 毫秒
+[2017-02-15 14:28:19]用时2870毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 14_28_18_572.doc
+[2017-02-15 14:28:22]用时1420毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 14_28_21_633.doc
+[2017-02-15 14:28:26]用时3089毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 14_28_25_840.doc
+[2017-02-15 14:28:33]用时22308毫秒! ret=1, 输出文件：C:\Users\ASUS_LTY\Desktop\Report_2017-02-15_14_28.doc

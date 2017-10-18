@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<RootInfo Version="1.0" Date="2017-02-09" Time="13:56:52">
+    <UserSetConfig>
+        <SelProductInfo RowCnt="24">
+            <ItemRoot1 nOid="72" szProductNo="1BJ2-2" szProductName="23213" />
+            <ItemRoot2 nOid="74" szProductNo="1BJ2-4" szProductName="" />
+            <ItemRoot3 nOid="80" szProductNo="1BJ2-8" szProductName="" />
+            <ItemRoot4 nOid="103" szProductNo="1D0111-31B" szProductName="技术阵地地面电缆网" />
+            <ItemRoot5 nOid="104" szProductNo="1Y221-31B" szProductName="测量系统弹上电缆网" />
+            <ItemRoot6 nOid="105" szProductNo="1Y223-5B" szProductName="弹上电缆网" />
+            <ItemRoot7 nOid="106" szProductNo="1Y230-15" szProductName="炮训弹上电缆网" />
+            <ItemRoot8 nOid="107" szProductNo="3SJ04-8" szProductName="鱼雷助飞火箭脱插机构电缆" />
+            <ItemRoot9 nOid="108" szProductNo="8D0119-7" szProductName="发射场地面脱拔电缆" />
+            <ItemRoot10 nOid="109" szProductNo="8Y2211-5" szProductName="助推器箭上低频电缆网" />
+            <ItemRoot11 nOid="110" szProductNo="8Y223-5" szProductName="二级箭上低频电缆网" />
+            <ItemRoot12 nOid="111" szProductNo="BC1-3" szProductName="弹上电缆网" />
+            <ItemRoot13 nOid="112" szProductNo="BK1-188" szProductName="弹上电缆网" />
+            <ItemRoot14 nOid="113" szProductNo="BK1-227" szProductName="电缆网" />
+            <ItemRoot15 nOid="114" szProductNo="BK1-28" szProductName="电缆网" />
+            <ItemRoot16 nOid="115" szProductNo="BK100-8" szProductName="分离开关电缆" />
+            <ItemRoot17 nOid="116" szProductNo="BKD1-39A" szProductName="地面电缆" />
+            <ItemRoot18 nOid="117" szProductNo="BKD1-42" szProductName="慢旋火工品测试电缆" />
+            <ItemRoot19 nOid="118" szProductNo="BT1-14" szProductName="弹上电缆网" />
+            <ItemRoot20 nOid="119" szProductNo="BTD100-1" szProductName="测试电缆" />
+            <ItemRoot21 nOid="120" szProductNo="BTD100-2" szProductName="测试电缆" />
+            <ItemRoot22 nOid="121" szProductNo="BTD100-5" szProductName="测试电缆、短路插头、短路插座" />
+            <ItemRoot23 nOid="122" szProductNo="BY1-170" szProductName="弹头遥外测系统弹上电缆网" />
+            <ItemRoot24 nOid="123" szProductNo="BY1-180" szProductName="AY状态弹头遥外测系统头体连接电缆网" />
+        </SelProductInfo>
+    </UserSetConfig>
+</RootInfo>

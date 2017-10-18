@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<RootInfo Version="1.0" Date="2017-03-06" Time="14:20:08">
+    <UserSetConfig>
+        <SelProductInfo RowCnt="9">
+            <ItemRoot1 nOid="1" szProductNo="Y27-30" szProductName="12121212" />
+            <ItemRoot2 nOid="5" szProductNo="Y27-31" szProductName="gggggg" />
+            <ItemRoot3 nOid="6" szProductNo="Y27-32" szProductName="fffffffff" />
+            <ItemRoot4 nOid="7" szProductNo="Y27-33" szProductName="hhhhhhhh" />
+            <ItemRoot5 nOid="8" szProductNo="Y27-34" szProductName="rrrrrrrrr" />
+            <ItemRoot6 nOid="10" szProductNo="Y27-35" szProductName="ooooooooo" />
+            <ItemRoot7 nOid="12" szProductNo="Y27-36" szProductName="" />
+            <ItemRoot8 nOid="13" szProductNo="Y27-37" szProductName="Y27-37" />
+            <ItemRoot9 nOid="14" szProductNo="Y27-38" szProductName="weqe" />
+        </SelProductInfo>
+    </UserSetConfig>
+</RootInfo>

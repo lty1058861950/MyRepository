@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<RootInfo Version="1.0" Date="2017-04-05" Time="18:10:02">
+    <MdCfgTabSrtInfo>
+        <TabItemData TabRowCnt="11" TabColCnt="6">
+            <ItemRoot1 Index1="1">
+                <ItemRoot2 Index2="1" Value2="序号" />
+                <ItemRoot2 Index2="2" Value2="测试项目" />
+                <ItemRoot2 Index2="3" Value2="技术条件" />
+                <ItemRoot2 Index2="4" Value2="测试结果" />
+                <ItemRoot2 Index2="5" Value2="" />
+                <ItemRoot2 Index2="6" Value2="" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="2">
+                <ItemRoot2 Index2="1" Value2="" />
+                <ItemRoot2 Index2="2" Value2="" />
+                <ItemRoot2 Index2="3" Value2="规定值" />
+                <ItemRoot2 Index2="4" Value2="第一次振动" />
+                <ItemRoot2 Index2="5" Value2="负40℃" />
+                <ItemRoot2 Index2="6" Value2="62℃" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="3">
+                <ItemRoot2 Index2="1" Value2="1" />
+                <ItemRoot2 Index2="2" Value2="采编路序" />
+                <ItemRoot2 Index2="3" Value2="正常" />
+                <ItemRoot2 Index2="4" Value2="D_NUM" />
+                <ItemRoot2 Index2="5" Value2="D_STR" />
+                <ItemRoot2 Index2="6" Value2="D_CAL" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="4">
+                <ItemRoot2 Index2="1" Value2="2" />
+                <ItemRoot2 Index2="2" Value2="帧格式版本" />
+                <ItemRoot2 Index2="3" Value2="/" />
+                <ItemRoot2 Index2="4" Value2="D_NUM" />
+                <ItemRoot2 Index2="5" Value2="" />
+                <ItemRoot2 Index2="6" Value2="" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="5">
+                <ItemRoot2 Index2="1" Value2="3" />
+                <ItemRoot2 Index2="2" Value2="路数" />
+                <ItemRoot2 Index2="3" Value2="64(路)" />
+                <ItemRoot2 Index2="4" Value2="D_NUM" />
+                <ItemRoot2 Index2="5" Value2="D_STR" />
+                <ItemRoot2 Index2="6" Value2="D_CAL" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="6">
+                <ItemRoot2 Index2="1" Value2="4" />
+                <ItemRoot2 Index2="2" Value2="字长" />
+                <ItemRoot2 Index2="3" Value2="8(bit)" />
+                <ItemRoot2 Index2="4" Value2="D_NUM" />
+                <ItemRoot2 Index2="5" Value2="D_STR" />
+                <ItemRoot2 Index2="6" Value2="D_CAL" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="7">
+                <ItemRoot2 Index2="1" Value2="5" />
+                <ItemRoot2 Index2="2" Value2="缓变编码精度" />
+                <ItemRoot2 Index2="3" Value2="≤0.4%" />
+                <ItemRoot2 Index2="4" Value2="D_NUM" />
+                <ItemRoot2 Index2="5" Value2="D_STR" />
+                <ItemRoot2 Index2="6" Value2="D_CAL" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="8">
+                <ItemRoot2 Index2="1" Value2="6" />
+                <ItemRoot2 Index2="2" Value2="异源校准" />
+                <ItemRoot2 Index2="3" Value2="3.75±0.1(V)" />
+                <ItemRoot2 Index2="4" Value2="D_NUM" />
+                <ItemRoot2 Index2="5" Value2="D_STR" />
+                <ItemRoot2 Index2="6" Value2="D_CAL" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="9">
+                <ItemRoot2 Index2="1" Value2="7" />
+                <ItemRoot2 Index2="2" Value2="电源拉偏" />
+                <ItemRoot2 Index2="3" Value2="工作正常" />
+                <ItemRoot2 Index2="4" Value2="D_NUM" />
+                <ItemRoot2 Index2="5" Value2="D_STR" />
+                <ItemRoot2 Index2="6" Value2="D_CAL" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="10">
+                <ItemRoot2 Index2="1" Value2="" />
+                <ItemRoot2 Index2="2" Value2="(28.5±3.5)V" />
+                <ItemRoot2 Index2="3" Value2="" />
+                <ItemRoot2 Index2="4" Value2="" />
+                <ItemRoot2 Index2="5" Value2="" />
+                <ItemRoot2 Index2="6" Value2="" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="11">
+                <ItemRoot2 Index2="1" Value2="日期" />
+                <ItemRoot2 Index2="2" Value2="" />
+                <ItemRoot2 Index2="3" Value2="" />
+                <ItemRoot2 Index2="4" Value2="D_NUM" />
+                <ItemRoot2 Index2="5" Value2="D_STR" />
+                <ItemRoot2 Index2="6" Value2="D_CAL" />
+            </ItemRoot1>
+        </TabItemData>
+        <TabHeadLen Count="6">
+            <ItemRoot1 Index1="1" Value1="63" />
+            <ItemRoot1 Index1="2" Value1="129" />
+            <ItemRoot1 Index1="3" Value1="141" />
+            <ItemRoot1 Index1="4" Value1="99" />
+            <ItemRoot1 Index1="5" Value1="105" />
+            <ItemRoot1 Index1="6" Value1="99" />
+        </TabHeadLen>
+        <TabCellSrt Count="10">
+            <ItemRoot1 Index1="1" BegRow="1" BegCol="1" EndRow="2" EndCol="1" />
+            <ItemRoot1 Index1="2" BegRow="1" BegCol="2" EndRow="2" EndCol="2" />
+            <ItemRoot1 Index1="3" BegRow="1" BegCol="4" EndRow="1" EndCol="6" />
+            <ItemRoot1 Index1="4" BegRow="4" BegCol="4" EndRow="4" EndCol="6" />
+            <ItemRoot1 Index1="5" BegRow="9" BegCol="1" EndRow="10" EndCol="1" />
+            <ItemRoot1 Index1="6" BegRow="9" BegCol="3" EndRow="10" EndCol="3" />
+            <ItemRoot1 Index1="7" BegRow="9" BegCol="4" EndRow="10" EndCol="4" />
+            <ItemRoot1 Index1="8" BegRow="9" BegCol="5" EndRow="10" EndCol="5" />
+            <ItemRoot1 Index1="9" BegRow="9" BegCol="6" EndRow="10" EndCol="6" />
+            <ItemRoot1 Index1="10" BegRow="11" BegCol="1" EndRow="11" EndCol="3" />
+        </TabCellSrt>
+        <TabRowSrt Count="8">
+            <ItemRoot1 Index1="1" Pos="1" Flag="0" Name="" />
+            <ItemRoot1 Index1="2" Pos="2" Flag="0" Name="" />
+            <ItemRoot1 Index1="3" Pos="3" Flag="1" Name="采编路序" />
+            <ItemRoot1 Index1="4" Pos="4" Flag="1" Name="帧格式版本" />
+            <ItemRoot1 Index1="5" Pos="5" Flag="1" Name="路数" />
+            <ItemRoot1 Index1="6" Pos="6" Flag="1" Name="字长" />
+            <ItemRoot1 Index1="7" Pos="7" Flag="1" Name="缓变编码精度" />
+            <ItemRoot1 Index1="8" Pos="8" Flag="1" Name="异源校准" />
+            <ItemRoot1 Index1="9" Pos="9" Flag="1" Name="电源拉偏" />
+            <ItemRoot1 Index1="10" Pos="10" Flag="0" Name="" />
+            <ItemRoot1 Index1="11" Pos="11" Flag="1" Name="日期" />
+        </TabRowSrt>
+        <TabColSrt Count="3">
+            <ItemRoot1 Index1="1" Pos="1" Flag="0" Name="" />
+            <ItemRoot1 Index1="2" Pos="2" Flag="0" Name="" />
+            <ItemRoot1 Index1="3" Pos="3" Flag="0" Name="" />
+            <ItemRoot1 Index1="4" Pos="4" Flag="1" Name="第一次振动" />
+            <ItemRoot1 Index1="5" Pos="5" Flag="1" Name="负40℃" />
+            <ItemRoot1 Index1="6" Pos="6" Flag="1" Name="62℃" />
+        </TabColSrt>
+        <TabDataSrt Count="22">
+            <ItemRoot1 Index1="1" NAME="D01_3_4" DESC="采编路序_第一次振动" BegRow="3" BegCol="4" DataType="1" />
+            <ItemRoot1 Index1="2" NAME="D02_3_5" DESC="采编路序_负40℃" BegRow="3" BegCol="5" DataType="2" />
+            <ItemRoot1 Index1="3" NAME="D03_3_6" DESC="采编路序_62℃" BegRow="3" BegCol="6" DataType="3" />
+            <ItemRoot1 Index1="4" NAME="D04_4_4" DESC="帧格式版本_第一次振动" BegRow="4" BegCol="4" DataType="1" />
+            <ItemRoot1 Index1="5" NAME="D05_5_4" DESC="路数_第一次振动" BegRow="5" BegCol="4" DataType="1" />
+            <ItemRoot1 Index1="6" NAME="D06_5_5" DESC="路数_负40℃" BegRow="5" BegCol="5" DataType="2" />
+            <ItemRoot1 Index1="7" NAME="D07_5_6" DESC="路数_62℃" BegRow="5" BegCol="6" DataType="3" />
+            <ItemRoot1 Index1="8" NAME="D08_6_4" DESC="字长_第一次振动" BegRow="6" BegCol="4" DataType="1" />
+            <ItemRoot1 Index1="9" NAME="D09_6_5" DESC="字长_负40℃" BegRow="6" BegCol="5" DataType="2" />
+            <ItemRoot1 Index1="10" NAME="D10_6_6" DESC="字长_62℃" BegRow="6" BegCol="6" DataType="3" />
+            <ItemRoot1 Index1="11" NAME="D11_7_4" DESC="缓变编码精度_第一次振动" BegRow="7" BegCol="4" DataType="1" />
+            <ItemRoot1 Index1="12" NAME="D12_7_5" DESC="缓变编码精度_负40℃" BegRow="7" BegCol="5" DataType="2" />
+            <ItemRoot1 Index1="13" NAME="D13_7_6" DESC="缓变编码精度_62℃" BegRow="7" BegCol="6" DataType="3" />
+            <ItemRoot1 Index1="14" NAME="D14_8_4" DESC="异源校准_第一次振动" BegRow="8" BegCol="4" DataType="1" />
+            <ItemRoot1 Index1="15" NAME="D15_8_5" DESC="异源校准_负40℃" BegRow="8" BegCol="5" DataType="2" />
+            <ItemRoot1 Index1="16" NAME="D16_8_6" DESC="异源校准_62℃" BegRow="8" BegCol="6" DataType="3" />
+            <ItemRoot1 Index1="17" NAME="D17_9_4" DESC="电源拉偏_第一次振动" BegRow="9" BegCol="4" DataType="1" />
+            <ItemRoot1 Index1="18" NAME="D18_9_5" DESC="电源拉偏_负40℃" BegRow="9" BegCol="5" DataType="2" />
+            <ItemRoot1 Index1="19" NAME="D19_9_6" DESC="电源拉偏_62℃" BegRow="9" BegCol="6" DataType="3" />
+            <ItemRoot1 Index1="20" NAME="D20_11_4" DESC="日期_第一次振动" BegRow="11" BegCol="4" DataType="1" />
+            <ItemRoot1 Index1="21" NAME="D21_11_5" DESC="日期_负40℃" BegRow="11" BegCol="5" DataType="2" />
+            <ItemRoot1 Index1="22" NAME="D22_11_6" DESC="日期_62℃" BegRow="11" BegCol="6" DataType="3" />
+        </TabDataSrt>
+        <TabAlarmSrt Count="22">
+            <ItemRoot1 Index1="1" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="2" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="3" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="4" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="5" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="6" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="7" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="8" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="9" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="10" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="11" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="12" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="13" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="14" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="15" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="16" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="17" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="18" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="19" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="20" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="21" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="22" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+        </TabAlarmSrt>
+    </MdCfgTabSrtInfo>
+</RootInfo>
+                                                                                                                                                                                        

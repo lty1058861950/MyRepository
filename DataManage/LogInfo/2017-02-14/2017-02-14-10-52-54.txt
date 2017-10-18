@@ -1,0 +1,7 @@
+[2017-02-14 10:52:54]申请 CMainFrame.OnCreate,NewItemInfo 用时 109 毫秒
+[2017-02-14 10:54:03]手动添加任务: DB_OPT_插入_产品代号_成功：nOid=125, Product_no=YZ2017
+[2017-02-14 10:54:03] DB_OPT_插入_产品系列号_成功：nOid=128,Product_no=1
+[2017-02-14 10:56:05]手动添加任务: DB_OPT_插入_产品代号_成功：nOid=126, Product_no=AA2017
+[2017-02-14 10:56:05] DB_OPT_插入_产品系列号_成功：nOid=129,Product_no=1
+[2017-02-14 10:56:50]手动添加任务: DB_OPT_插入_产品代号_代号已存在：nOid=126, Product_no=AA2017
+[2017-02-14 10:56:50]nPos=0001, DB_OPT_读取_产品系列号_成功：nOid=129, Product_no=1

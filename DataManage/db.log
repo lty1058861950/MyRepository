@@ -1,0 +1,1020 @@
+[2017-01-12 10:21:59]
+Êý¾Ý¿â³õÊ¼»¯Ê§°Ü£¬Ô­ÒòÎª£º
+ORA-12500: TNS: ¼àÌý³ÌÐòÎÞ·¨Æô¶¯×¨ÓÃ·þÎñÆ÷½ø³Ì
+
+[2017-01-12 10:21:59]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-01-12 10:22:00]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÏµÍ³¹ÜÀíÔ±', '111')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-01-12 10:22:01]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, '²¿ÃÅ¾­Àí', '222')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-01-12 10:22:02]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, '¸ß¼¶ÓÃ»§', '333')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-01-12 10:22:02]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÆÕÍ¨ÓÃ»§', '444')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-01-12 10:27:22]
+Êý¾Ý¿â³õÊ¼»¯Ê§°Ü£¬Ô­ÒòÎª£º
+ORA-12500: TNS: ¼àÌý³ÌÐòÎÞ·¨Æô¶¯×¨ÓÃ·þÎñÆ÷½ø³Ì
+
+[2017-01-12 10:27:22]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-01-12 10:27:30]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÏµÍ³¹ÜÀíÔ±', '111')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-01-12 10:27:31]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, '²¿ÃÅ¾­Àí', '222')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-01-12 10:27:31]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, '¸ß¼¶ÓÃ»§', '333')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-01-12 10:27:31]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÆÕÍ¨ÓÃ»§', '444')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-01-13 15:32:31]
+Ö´ÐÐSQLÓï¾ä£º
+select OID,PRODUCT_NO from where GROUP_OID=2 and PRODUCT_NO like '%' order by PRODUCT_NO 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00903: ±íÃûÎÞÐ§
+
+[2017-01-14 14:02:15]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from TST_RESULT_BASE_0002 where TASK_NAME like '%' and t2.PRODUCT_NO like '%' and t2.SERIES_NAME like '%' 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "T2"."SERIES_NAME": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-01-14 14:16:03]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from TST_RESULT_BASE_0002					  left join BAS_TASK on .oid=BAS_TASK.task_oid					  where TST_RESULT_BASE_0002.task_name like 'TST_RESULT_BASE_0002%' and .PRODUCT_NO like 'BAS_TASK%' and .SERIES_NAME like 'BAS_TASK%' 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00936: È±ÉÙ±í´ïÊ½
+
+[2017-01-14 14:20:51]
+Ö´ÐÐSQLÓï¾ä£º
+
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-24373: ÎªÓï¾äÖ¸¶¨µÄ³¤¶ÈÎÞÐ§
+
+[2017-01-14 14:21:20]
+Ö´ÐÐSQLÓï¾ä£º
+
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-24373: ÎªÓï¾äÖ¸¶¨µÄ³¤¶ÈÎÞÐ§
+
+[2017-01-14 14:22:30]
+Ö´ÐÐSQLÓï¾ä£º
+select t1.count(*) AS COUNT from TST_RESULT_BASE_0002 t1 					  left join BAS_TASK t2 on t2.oid=t1.task_oid					  where t1.task_name like '%' and t2.PRODUCT_NO like '%' and t2.SERIES_NAME like '%'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00936: È±ÉÙ±í´ïÊ½
+
+[2017-01-14 14:23:11]
+Ö´ÐÐSQLÓï¾ä£º
+select t1.count(*) AS COUNT from TST_RESULT_BASE_0002 t1 					  left join BAS_TASK t2 on t2.oid=t1.task_oid					  where t1.task_name like '%' and t2.PRODUCT_NO like '%' and t2.SERIES_NAME like '%'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00936: È±ÉÙ±í´ïÊ½
+
+[2017-01-14 14:54:58]
+Ö´ÐÐSQLÓï¾ä£º
+create table TST_RESULT_BASE_0002 (		OID           NUMBER(10) not null,		TASK_OID      NUMBER(10),		SEND_DATE     DATE,		TASK_NAME     VARCHAR2(100),		IMPORT_DATE   DATE,		CHECK_USER    VARCHAR2(20)),		PRODUCT_OID   NUMBER(10),		PRODUCT_NO    VARCHAR2(100),		SERIES_OID    NUMBER(10),		SERIES_NAME   VARCHAR2(100)		
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00922: È±ÉÙ»òÎÞÐ§Ñ¡Ïî
+
+[2017-01-15 12:18:50]
+Ö´ÐÐSQLÓï¾ä£º
+select t1.*, t2.PRODUCT_NO AS PRODUCT_NO,					t2.SERIES_NAME AS SERIES_NAME, t2.PRODUCT_NAME AS PRODUCT_NAME from TST_RESULT_BASE_0002 t1,BAS_TASK t2 					where t1.SEND_DATE > to_date('2017-01-12','YYYY_MM_DD') and t1.SEND_DATE < to_date('2017-01-16','YYYY_MM_DD') t1.TASK_OID=10 and t2.OID=10
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00933: SQL ÃüÁîÎ´ÕýÈ·½áÊø
+
+[2017-01-15 12:22:26]
+Ö´ÐÐSQLÓï¾ä£º
+select t1.*, t2.PRODUCT_NO AS PRODUCT_NO,					t2.SERIES_NAME AS SERIES_NAME, t2.PRODUCT_NAME AS PRODUCT_NAME from TST_RESULT_BASE_0002 t1,BAS_TASK t2 					where t1.SEND_DATE >= to_date('2017-01-09','YYYY_MM_DD') and t1.SEND_DATE <= to_date('2017-01-13','YYYY_MM_DD') t1.TASK_OID=10 and t2.OID=10
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00933: SQL ÃüÁîÎ´ÕýÈ·½áÊø
+
+[2017-01-15 12:40:58]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_ATTA_0002.TASK_NAME is 'ÈÎÎñÃû³Æ'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "TASK_NAME": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-01-16 16:14:02]
+Ö´ÐÐSQLÓï¾ä£º
+insert into TST_DATA_0002_0012(OID,BELONG_MODEL,BELONG_MOMENT,PRODUCT_OID,PRODUCT_NO,						  PRODUCT_NAME,SERIES_OID,SERIES_NAME,PRODUCT_CODE,TASK_OID,TASK_NAME,SEND_DATE,IMPORT_DATE,DEF_EDIT_3,						  DEF_EDIT_4,DEF_EDIT_5,DEF_EDIT_6,BASE_OID,ATTA_OID) values (1,'W31B','C',18,'1D0111-31B',  '¼¼ÊõÕóµØµØÃæµçÀÂÍø',19,'','01',10,  '1D0111-31B_102941',						  to_date('2017-01-14 14:49:30','YYYY_MM_DD hh24:MI:SS'),to_date('2017-01-16 16:14:02','YYYY_MM_DD hh24:MI:SS'),'',  						  '','','2017-01-14 14:52:26')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00947: Ã»ÓÐ×ã¹»µÄÖµ
+
+[2017-01-18 15:22:38]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=17 and SERIES_OID=18 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:50]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=18 and SERIES_OID=19 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:51]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=19 and SERIES_OID=20 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:51]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=20 and SERIES_OID=21 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:51]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=21 and SERIES_OID=22 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:52]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=22 and SERIES_OID=23 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:52]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=23 and SERIES_OID=24 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:52]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=24 and SERIES_OID=25 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:52]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=25 and SERIES_OID=26 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:52]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=26 and SERIES_OID=27 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:53]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=27 and SERIES_OID=28 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:53]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=28 and SERIES_OID=29 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:53]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=29 and SERIES_OID=30 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:53]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=30 and SERIES_OID=31 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:53]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=31 and SERIES_OID=32 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:54]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=32 and SERIES_OID=33 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:54]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=33 and SERIES_OID=34 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:54]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=34 and SERIES_OID=35 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:54]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=35 and SERIES_OID=36 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:55]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=36 and SERIES_OID=37 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:55]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=37 and SERIES_OID=38 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:55]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=38 and SERIES_OID=39 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:56]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=56 and SERIES_OID=61 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-01-18 15:22:56]
+Ö´ÐÐSQLÓï¾ä£º
+BAS_TASK where PRODUCT_OID=55 and SERIES_OID=60 order by TASK_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00900: ÎÞÐ§ SQL Óï¾ä
+
+[2017-02-07 09:29:01]
+Êý¾Ý¿â³õÊ¼»¯Ê§°Ü£¬Ô­ÒòÎª£º
+ORA-12500: TNS: ¼àÌý³ÌÐòÎÞ·¨Æô¶¯×¨ÓÃ·þÎñÆ÷½ø³Ì
+
+[2017-02-07 09:29:01]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-02-07 09:29:06]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÏµÍ³¹ÜÀíÔ±', '111')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-02-07 09:29:07]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, '¸ß¼¶ÓÃ»§', '333')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-02-07 09:29:07]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÆÕÍ¨ÓÃ»§', '444')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-02-07 09:29:07]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-02-07 17:28:48]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_GROUP where OID=25 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-12571: TNS: °üÐ´Èë³ÌÐòÊ§°Ü
+
+[2017-02-07 17:29:15]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_GROUP where OID=25 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-03114: Î´Á¬½Óµ½ ORALCE
+
+[2017-02-15 10:05:46]
+Ö´ÐÐSQLÓï¾ä£º
+create table TST_DATA_0002_0012 (					 OID            NUMBER(10) PRIMARY KEY not null,					 BELONG_MODEL   VARCHAR2(100),					 BELONG_MOMENT  VARCHAR2(100),					 PRODUCT_OID    NUMBER(10),					 PRODUCT_NO     VARCHAR2(100),					 PRODUCT_NAME   VARCHAR2(100),					 SERIES_OID     NUMBER(10),					 SERIES_NAME    VARCHAR2(100),					 PRODUCT_CODE	VARCHAR2(100),					 PICNUM_OID     NUMBER(10),					 PICNUM_NO      VARCHAR2(100),					 PICNUM_NAME    VARCHAR2(100),					 TASK_OID	    NUMBER(10),					 TASK_NAME      VARCHAR2(100),					 SEND_DATE      DATE,					 IMPORT_DATE    DATE,					 Def_Edit_3     VARCHAR2(100),					 Def_Edit_4     VARCHAR2(100),					 Def_Edit_5     VARCHAR2(100),					 Def_Edit_6     VARCHAR2(100),					 D01_3_4 VARCHAR2(100),D02_3_5 VARCHAR2(100),D03_3_6 VARCHAR2(100),D04_4_4 VARCHAR2(100),D05_5_4 VARCHAR2(100),D06_5_5 VARCHAR2(100),D07_5_6 VARCHAR2(100),D08_6_4 VARCHAR2(100),D09_6_5 VARCHAR2(100),D10_6_6 VARCHAR2(100),D11_7_4 VARCHAR2(100),D12_7_5 VARCHAR2(100),D13_7_6 VARCHAR2(100),D14_8_4 VARCHAR2(100),D15_8_5 VARCHAR2(100),D16_8_6 VARCHAR2(100),D17_9_4 VARCHAR2(100),D18_9_5 VARCHAR2(100),D19_9_6 VARCHAR2(100),D20_11_4 VARCHAR2(100),D21_11_5 VARCHAR2(100),D22_11_6 VARCHAR2(100),					 BASE_OID       NUMBER(10),					 ATTA_OID       NUMBER(10),					 DATA_XMLFILE   BLOB)
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00955: Ãû³ÆÒÑÓÉÏÖÓÐ¶ÔÏóÊ¹ÓÃ
+
+[2017-02-15 10:07:00]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from TST_DATA_0002_0012 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-02-15 10:10:40]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from TST_DATA_0002_0012 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-02-15 10:10:50]
+Ö´ÐÐSQLÓï¾ä£º
+drop table TST_DATA_0002_0012
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-02-15 10:12:04]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from TST_DATA_0002_0012 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-02-15 10:12:06]
+Ö´ÐÐSQLÓï¾ä£º
+drop table TST_DATA_0002_0012
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-02-20 17:37:33]
+Êý¾Ý¿â³õÊ¼»¯Ê§°Ü£¬Ô­ÒòÎª£º
+ORA-12560: TNS: Ð­ÒéÊÊÅäÆ÷´íÎó
+
+[2017-02-20 17:37:33]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-02-20 17:37:43]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÏµÍ³¹ÜÀíÔ±', '111')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-02-20 17:37:44]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, '¸ß¼¶ÓÃ»§', '333')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-02-20 17:37:56]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÆÕÍ¨ÓÃ»§', '444')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-02-20 17:37:56]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-02-21 09:12:00]
+Êý¾Ý¿â³õÊ¼»¯Ê§°Ü£¬Ô­ÒòÎª£º
+ORA-12500: TNS: ¼àÌý³ÌÐòÎÞ·¨Æô¶¯×¨ÓÃ·þÎñÆ÷½ø³Ì
+
+[2017-02-21 09:12:00]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-02-21 09:12:15]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÏµÍ³¹ÜÀíÔ±', '111')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-02-21 09:12:15]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, '¸ß¼¶ÓÃ»§', '333')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-02-21 09:12:16]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÆÕÍ¨ÓÃ»§', '444')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-02-21 09:12:16]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-02-21 17:46:49]
+Ö´ÐÐSQLÓï¾ä£º
+insert into BAS_PRODUCT				   values (seq_product.nextval,'','',0,0,0,to_date('','YYYY_MM_DD HH24:MI:SS'),'')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-01400: ÎÞ·¨½« NULL ²åÈë ("PAD_JH"."BAS_PRODUCT"."PRODUCT_NO")
+
+[2017-02-24 14:36:10]
+Ö´ÐÐSQLÓï¾ä£º
+insert into BAS_TASK(OID,TASK_NAME,PROJECT_NO,TASK_STATUS,TASK_TYPE,				   MODEL,PHASE,PRODUCT_OID,PRODUCT_CODE,CODE_COUNT,				   BATCH,UP_DEPART,UP_USER,UP_DATE,SEND_DATE,				   CHECK_LEADER,CHECK_USER,TECH_USER,ARMY_TEST,DIANSHI_NUM,				   ACCORDING1,ACCORDING2,ACCORDING3,ACCORDING4,ACCORDING5,				   TASK_REMARK,PLAN_BEGTIME,PLAN_ENDTIME,REAL_BEGTIME,REAL_ENDTIME,				   DOWNLOAD_DATE,FINISH_DATE,CREATE_TIME,CREATE_USER)				   values (Seq_Task.nextval,'','',0,0,				   '','',0,'',0,				   '',0,'',to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   '','','',0,0,				   '','','','','',				   '',to_date('1970-01-01 08:00:00','YYYY_MM_DD HH24:MI:SS'),to_date('1970-01-01 08:00:00','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS')),				   to_date('','YYYY_MM_DD HH24:MI:SS'),''
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00947: Ã»ÓÐ×ã¹»µÄÖµ
+
+[2017-02-24 14:42:59]
+Ö´ÐÐSQLÓï¾ä£º
+insert into BAS_TASK(OID,TASK_NAME,PROJECT_NO,TASK_STATUS,TASK_TYPE,				   MODEL,PHASE,PRODUCT_OID,PRODUCT_CODE,CODE_COUNT,				   BATCH,UP_DEPART,UP_USER,UP_DATE,SEND_DATE,				   CHECK_LEADER,CHECK_USER,TECH_USER,ARMY_TEST,DIANSHI_NUM,				   ACCORDING1,ACCORDING2,ACCORDING3,ACCORDING4,ACCORDING5,				   TASK_REMARK,PLAN_BEGTIME,PLAN_ENDTIME,REAL_BEGTIME,REAL_ENDTIME,				   DOWNLOAD_DATE,FINISH_DATE,CREATE_TIME,CREATE_USER)				   values (Seq_Task.nextval,'Y27-30_102','',0,0,				   '','',0,'C006-C010',5,				   '',0,'',to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   '','','',1,1,				   '1.sdfsdf','2.dgretert','3.fggfdgret','4.sdfsdfs','4.sdffdgfd',				   '7.sdfsdf',to_date('1970-01-01 08:00:00','YYYY_MM_DD HH24:MI:SS'),to_date('1970-01-01 08:00:00','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('2017-02-24 14:42:16','YYYY_MM_DD HH24:MI:SS'),'admin'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00917: È±ÉÙ¶ººÅ
+
+[2017-02-24 14:47:41]
+Ö´ÐÐSQLÓï¾ä£º
+update BAS_TASK set TASK_NAME='Y27-30_102',PROJECT_NO='',TASK_STATUS=0,TASK_TYPE=0,				   MODEL='',PHASE='',PRODUCT_OID=1,PRODUCT_CODE='C006-C010',CODE_COUNT=0,BATCH='102',				   UP_DEPART=0,UP_USER='',UP_DATE=to_date('','YYYY_MM_DD HH24:MI:SS'),				   SEND_DATE=to_date('','YYYY_MM_DD HH24:MI:SS'),CHECK_LEADER='',				   CHECK_USER='',TECH_USER='Liuty',ARMY_TEST=1,DIANSHI_NUM=1,ACCORDING1='1.sdfsdf',				   ACCORDING2='2.dgretert',ACCORDING3='3.fggfdgret',ACCORDING4='4.sdfsdfs',ACCORDING5='4.sdffdgfd',TASK_REMARK='7.sdfsdf',				   PLAN_BEGTIME=to_date('1970-01-01 08:00:00','YYYY_MM_DD HH24:MI:SS'),				   PLAN_ENDTIME=to_date('1970-01-01 08:00:00','YYYY_MM_DD HH24:MI:SS'),				   REAL_BEGTIME=to_date('','YYYY_MM_DD HH24:MI:SS'),				   REAL_ENDTIME=to_date('','YYYY_MM_DD HH24:MI:SS'),				   DOWMLOAD_DATE=to_date('','YYYY_MM_DD HH24:MI:SS'),				   FINISH_DATE=to_date('','YYYY_MM_DD HH24:MI:SS'),				   CREATE_TIME=to_date('2017-02-24 14:42:16','YYYY_MM_DD HH24:MI:SS'),				   CREATE_USER='admin' 				   where 				   OID=3
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "DOWMLOAD_DATE": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-02-24 15:43:51]
+Ö´ÐÐSQLÓï¾ä£º
+insert into BAS_PRODUCT(OID,PRODUCT_NO,PRODUCT_NAME,PICNUM_TYPE,GROUP_OID,CREATE_TIME,CREATE_USER)				   values (seq_product.nextval,'','',0,1,to_date('2017-02-24 15:43:51','YYYY_MM_DD HH24:MI:SS'),'aaaa')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-01400: ÎÞ·¨½« NULL ²åÈë ("PAD_JH"."BAS_PRODUCT"."PRODUCT_NO")
+
+[2017-02-27 14:29:57]
+Ö´ÐÐSQLÓï¾ä£º
+insert into BAS_PRODUCT(OID,PRODUCT_NO,PRODUCT_NAME,PICNUM_TYPE,GROUP_OID,CREATE_TIME,CREATE_USER)				   values (seq_product.nextval,'','',0,1,to_date('2017-02-27 14:29:57','YYYY_MM_DD HH24:MI:SS'),'admin')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-01400: ÎÞ·¨½« NULL ²åÈë ("PAD_JH"."BAS_PRODUCT"."PRODUCT_NO")
+
+[2017-02-27 16:23:34]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from BAS_PRODUCT  where GROUP_OID=1 and PRODUCT_NO like '%2%' and t2.CREATE_USER like '%ad%' 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "T2"."CREATE_USER": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-02-27 16:25:10]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from BAS_PRODUCT  where GROUP_OID=1 and CREATE_TIME >= to_date('00:00:00 2017-02-24','YYYY_MM_DD HH24:MI:SS') 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-01843: ÎÞÐ§µÄÔÂ·Ý
+
+[2017-02-27 16:54:50]
+Ö´ÐÐSQLÓï¾ä£º
+select * ( select * (select rownum AS RN, t1.*,t2.GROUP_NAME AS GROUP_NAME from BAS_PRODUCT t1 left join HR_GROUP t2 on t1.GROUP_OID=t2.OID 					   where GROUP_OID=1 order by t1.PRODUCT_NO) where RN > 0) where RN <= 3
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00923: Î´ÕÒµ½Ô¤ÆÚ FROM ¹Ø¼ü×Ö
+
+[2017-02-28 09:20:24]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from BAS_PRODUCT  where GROUP_OID=1 and CREATE_TIME <= to_date('2017 23:59:59','YYYY_MM_DD HH24:MI:SS') 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-01843: ÎÞÐ§µÄÔÂ·Ý
+
+[2017-02-28 13:53:48]
+Ö´ÐÐSQLÓï¾ä£º
+select rownum AS RN,t1.*,t2.GROUP_NAME AS GROUP_NAME,t3.PRODUCT_NO AS PRODUCT_NO from BAS_MODE t1 left join HR_GROUP t2 on t1.GROUP_OID=t2.OID 					  left join BAS_PRODUCT t3 on t1.PRODUCT_OID=t3.OID where  where t1.GROUP_OID=1 order by t1.MODE_NAME
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00936: È±ÉÙ±í´ïÊ½
+
+[2017-02-28 15:59:42]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from BAS_MODE t1 left join HR_GROUP t2 on t1.GROUP_OID=t2.OID 					  left BAS_PRODUCT t3 on t1.PRODUCT_OID=t3.OID  where t1.GROUP_OID=1 and  t1.MODE_TYPE in(0)  and  t1.MODE_ROWVAR in(0, 1)  and  t1.INIT_TABSRT in(0, 1)  
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00905: È±ÉÙ¹Ø¼ü×Ö
+
+[2017-02-28 16:02:27]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from BAS_MODE t1 left join HR_GROUP t2 on t1.GROUP_OID=t2.OID 					  left BAS_PRODUCT t3 on t1.PRODUCT_OID=t3.OID  where t1.GROUP_OID=1 and  t1.MODE_TYPE in(0, 1, 2, 3)  and  t1.MODE_ROWVAR in(0, 1)  and  t1.INIT_TABSRT in(0, 1)  
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00905: È±ÉÙ¹Ø¼ü×Ö
+
+[2017-02-28 16:03:07]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from  BAS_MODE t1 left join HR_GROUP t2 on t1.GROUP_OID=t2.OID 					  left BAS_PRODUCT t3 on t1.PRODUCT_OID=t3.OID  where t1.GROUP_OID=1 and  t1.MODE_TYPE in(0, 1, 2, 3)  and  t1.MODE_ROWVAR in(0, 1)  and  t1.INIT_TABSRT in(0, 1)  
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00905: È±ÉÙ¹Ø¼ü×Ö
+
+[2017-03-01 15:50:29]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_DEPART(OID,DEPART_NAME,DEPART_NO,DEPART_TYPE,				   DESCRIPTION,CALL,FAXS,ADDRESS,INVALID,) values (seq_depart.nextval, 'ÎÀÐÇµ¼º½²¿', '', 				   '', 'ÊÖ¶¯', '', '', '',1)
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-01747: ÎÞÐ§µÄÓÃ»§.±í.ÁÐ£¬±í.ÁÐ£¬»òÁÐ¹æ¸ñ
+
+[2017-03-01 15:57:03]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_DEPART where GROUP_NAME='ÎÀÐÇµ¼º½²¿' 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "GROUP_NAME": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-03-01 18:19:29]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from BAS_MODE t1 left join HR_GROUP t2 on t1.GROUP_OID=t2.OID 					  left join BAS_PRODUCT t3 on t1.PRODUCT_OID=t3.OID 					  left join HR_DEPART t4 on t1.DEPART_OID = t4.OID  where t1.GROUP_OID=1 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "T1"."DEPART_OID": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-03-01 18:23:17]
+Ö´ÐÐSQLÓï¾ä£º
+select * from( select * from(select t1.*,t2.GROUP_NAME AS GROUP_NAME, t3.PRODUCT_NO AS PRODUCT_NO,t3.PRODUCT_NAME AS PRODUCT_NAME,					  t4.DEPART_NAME AS DEPART_NAME 					  from BAS_TASK t1 left join HR_GROUP t2 on t1.GROUP_OID=t2.OID 					  left join BAS_PRODUCT t3 on t1.PRODUCT_OID=t3.OID 					  left join HR_DEPART t4 on t1.DEPART_OID = t4.OID 					   where t1.GROUP_OID=1 order by t1.TASK_NAME) where RN > 0) where RN <= 5
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "RN": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-03-02 11:39:53]
+Ö´ÐÐSQLÓï¾ä£º
+select t1.*,t2.* from BAS_TASK_MODE t1 left join where TASK_OID=1 order by MODE_INDEX t2 on t2.OID=t1.MODE_OID Àò
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00903: ±íÃûÎÞÐ§
+
+[2017-03-03 13:29:04]
+Ö´ÐÐSQLÓï¾ä£º
+select t1.*, t2.GROUP_NAME AS GROUP_NAME from HR_DEPART t1 					left join HR_GROUP t2 on t2.OID=t1.GROUP_OID where t1.LOGIN_NAME='admin'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "T1"."GROUP_OID": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-03-06 09:01:53]
+Êý¾Ý¿â³õÊ¼»¯Ê§°Ü£¬Ô­ÒòÎª£º
+ORA-12500: TNS: ¼àÌý³ÌÐòÎÞ·¨Æô¶¯×¨ÓÃ·þÎñÆ÷½ø³Ì
+
+[2017-03-06 09:01:53]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-06 09:01:55]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÏµÍ³¹ÜÀíÔ±', '111')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-06 09:01:56]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, '¸ß¼¶ÓÃ»§', '333')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-06 09:01:56]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÆÕÍ¨ÓÃ»§', '444')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-06 09:01:57]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-07 11:06:06]
+Ö´ÐÐSQLÓï¾ä£º
+create table TST_RESULT_BASE_0001 (		OID           NUMBER(10) not null,		TASK_OID      NUMBER(10),		SEND_DATE     DATE,		TASK_NAME     VARCHAR2(100),		IMPORT_DATE   DATE,		CHECK_USER    VARCHAR2(20),		PRODUCT_OID   NUMBER(10),		PRODUCT_NO    VARCHAR2(100)		
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00907: È±ÉÙÓÒÀ¨ºÅ
+
+[2017-03-07 11:06:21]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.OID is '²âÊÔ½á¹û»ù´¡±íOID'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-07 11:06:24]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.TASK_OID is 'ÈÎÎñOid'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-07 11:06:24]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.SEND_DATE is 'ÏÂ·¢Ê±¼ä'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-07 11:06:24]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.TASK_NAME is 'ÈÎÎñÃû³Æ'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-07 11:06:24]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.IMPORT_DATE is 'µ¼ÈëÊ±¼ä'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-07 11:06:25]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.CHECK_USER is '¼ì²éÈË'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-07 11:06:25]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.PRODUCT_OID is '²úÆ·OID'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-07 11:06:25]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.PRODUCT_NO is '²úÆ·´úºÅ'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-07 11:06:25]
+Ö´ÐÐSQLÓï¾ä£º
+select MIN(OID) from TST_RESULT_BASE_0001
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-07 11:07:25]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from TST_RESULT_BASE_0001 where TASK_OID=4 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-07 11:07:29]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from TST_RESULT_BASE_0001 where TASK_OID=3 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-07 11:07:33]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from TST_RESULT_BASE_0001 where TASK_OID=4 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-07 11:07:39]
+Ö´ÐÐSQLÓï¾ä£º
+select MIN(OID) from TST_RESULT_BASE_0001
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-07 11:08:48]
+Ö´ÐÐSQLÓï¾ä£º
+insert into TST_RESULT_BASE_0001(OID,TASK_OID,TASK_NAME,SEND_DATE,IMPORT_DATE,CHECK_USER,PRODUCT_OID,PRODUCT_NO) 					  values (1,4,'Y27-34_100',					  to_date('2017-03-07 10:49:27','YYYY_MM_DD HH24:MI:SS'),to_date('2017-03-07 11:08:48','YYYY_MM_DD HH24:MI:SS'),'ÁõÌÚÑÇ', 8,'Y27-34',675326186,'D÷')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00913: Öµ¹ý¶à
+
+[2017-03-07 11:16:04]
+Ö´ÐÐSQLÓï¾ä£º
+select t1.*, t2.PRODUCT_NO AS PRODUCT_NO,					t2.SERIES_NAME AS SERIES_NAME, t2.PRODUCT_NAME AS PRODUCT_NAME from TST_RESULT_BASE_0001 t1,BAS_TASK t2 					where  t1.TASK_OID=4 and t2.OID=4
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "T2"."PRODUCT_NAME": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-03-07 11:16:07]
+Ö´ÐÐSQLÓï¾ä£º
+select t1.*, t2.PRODUCT_NO AS PRODUCT_NO,					t2.SERIES_NAME AS SERIES_NAME, t2.PRODUCT_NAME AS PRODUCT_NAME from TST_RESULT_BASE_0001 t1,BAS_TASK t2 					where  t1.TASK_OID=4 and t2.OID=4
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "T2"."PRODUCT_NAME": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-03-07 11:19:50]
+Ö´ÐÐSQLÓï¾ä£º
+select t1.*, t2.PRODUCT_NO AS PRODUCT_NO,					t2.SERIES_NAME AS SERIES_NAME, t2.PRODUCT_NAME AS PRODUCT_NAME from TST_RESULT_BASE_0001 t1,BAS_TASK t2 					where  t1.TASK_OID=4 and t2.OID=4
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "T2"."PRODUCT_NAME": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-03-07 11:20:06]
+Ö´ÐÐSQLÓï¾ä£º
+select t1.*, t2.PRODUCT_NO AS PRODUCT_NO,					t2.SERIES_NAME AS SERIES_NAME, t2.PRODUCT_NAME AS PRODUCT_NAME from TST_RESULT_BASE_0001 t1,BAS_TASK t2 					where  t1.TASK_OID=4 and t2.OID=4
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "T2"."PRODUCT_NAME": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-03-07 11:22:26]
+Ö´ÐÐSQLÓï¾ä£º
+select t1.*, t2.PRODUCT_NO AS PRODUCT_NO,					t2.SERIES_NAME AS SERIES_NAME, t2.PRODUCT_NAME AS PRODUCT_NAME from TST_RESULT_BASE_0001 t1,BAS_TASK t2 					where  t1.TASK_OID=4 and t2.OID=4
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "T2"."PRODUCT_NAME": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-03-07 11:34:36]
+Ö´ÐÐSQLÓï¾ä£º
+select t1.*, t2.PRODUCT_NO AS PRODUCT_NO,					t2.PRODUCT_NAME AS PRODUCT_NAME from TST_RESULT_BASE_0001 t1,BAS_TASK t2 					where  t1.TASK_OID=4 and t2.OID=4
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "T2"."PRODUCT_NAME": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-03-07 11:37:20]
+Ö´ÐÐSQLÓï¾ä£º
+select t1.*, t2.PRODUCT_NO AS PRODUCT_NO,					t2.PRODUCT_NAME AS PRODUCT_NAME from TST_RESULT_BASE_0001 t1,BAS_TASK t2 					where  t1.TASK_OID=4 and t2.OID=4
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "T2"."PRODUCT_NAME": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-03-09 11:44:05]
+Ö´ÐÐSQLÓï¾ä£º
+create table TST_RESULT_BASE_0001 (		OID           NUMBER(10) not null,		TASK_OID      NUMBER(10),		TASK_NAME     VARCHAR2(100),		PROJECT_NO    VARCHAR2(100),		TASK_STATUS   NUMBER,		TASK_TYPE     NUMBER,		MODEL         VARCHAR2(100),		PHASE	      VARCHAR2(100),		PRODUCT_OID   NUMBER(10),		PRODUCT_NO    VARCHAR2(100)		PRODUCT_NAME  VARCHAR2(100),		PRODUCT_CODE  VARCHAR2(100),		CODE_COUNT    NUMBER,		BATCH         VARCHAR2(20),		DEPART_OID    NUMBER(10),		DEPART_NAME   VARCHAR2(100),		UP_USER       VARCHAR(20),		UP_DATE	      DATE,		TECH_USER     VARCHAR(20),		CHECK_LEADER  VARCHAR2(20),		CHECK_USER	  VARCHAR2(20),		SEND_DATE     DATE,		DOWNLOAD_DATE DATE,		IMPORT_DATE   DATE,		ARMY_TEST	  NUMBER,		DIANSHI_NUM	  NUMBER,		ACCORDING1	  VARCHAR2(200),		ACCORDING2	  VARCHAR2(200),		ACCORDING3	  VARCHAR2(200),		ACCORDING4	  VARCHAR2(200),		ACCORDING5	  VARCHAR2(200),		TASK_REMARK	  VARCHAR2(300),		PLAN_BEGTIME	DATE,		PLAN_ENDTIME	DATE,		REAL_BEGTIME	DATE,		REAL_ENDTIME	DATE,		CREATE_TIME	DATE,		CREATE_USER	VARCHAR2(20),		GROUP_OID	NUMBER(10),		GROUP_NAME  VARCHAR(100)		)
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00922: È±ÉÙ»òÎÞÐ§Ñ¡Ïî
+
+[2017-03-09 11:44:53]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.OID is '²âÊÔ½á¹û»ù´¡±íOID'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-09 11:44:54]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.TASK_OID is 'ÈÎÎñOid'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-09 11:44:55]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.TASK_NAME is 'ÈÎÎñÃû³Æ'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-09 11:44:55]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.PROJECT_NO is '¼ìÑéµ¥ºÅ'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-09 11:44:55]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.TASK_STATUS is 'ÈÎÎñ×´Ì¬'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-09 11:44:55]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.TASK_TYPE is 'ÈÎÎñÀàÐÍ'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-09 11:44:55]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.MODEL is '²úÆ·ÀàÐÍ'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-09 11:44:56]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.PHASE is '½×¶Î'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-09 11:44:56]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.PRODUCT_OID is '²úÆ·OID'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-09 11:44:56]
+Ö´ÐÐSQLÓï¾ä£º
+comment on column TST_RESULT_BASE_0001.PRODUCT_NO is '²úÆ·´úºÅ'
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-09 14:00:04]
+Ö´ÐÐSQLÓï¾ä£º
+update TST_RESULT_BASE_0001 set TASK_NAME='Y27-30_100',PROJECT_NO='',TASK_STATUS=3,TASK_TYPE=0,MODEL='',					  PHASE='',PRODUCT_OID=1,PRODUCT_NO='12121212',PRODUCT_NAME='Y27-30',PRODUCT_CODE='C001-C010',					  CODE_COUNT=3,BATCH='100',DEPART_OID=3,DEPART_NAME='ÎÀÐÇµ¼º½²¿',UP_USER='',					  					  UP_DATE=to_date('','YYYY_MM_DD HH24:MI:SS'),					   TECH_USER='Liuty',CHECK_LEADER='ÌÆÀò',CHECK_USER='ÌÆÀò',					  DOWNLOAD_DATE=to_date('2017-03-08 17:29:58','YYYY_MM_DD HH24:MI:SS'),					  FINISH_DATE=to_date('2017-03-09 14:00:02','YYYY_MM_DD HH24:MI:SS'),					  IMPORT_DATE=to_date('2017-03-09 14:00:04','YYYY_MM_DD HH24:MI:SS'),ARMY_TEST=1,DIANSHI_NUM=1,					  ACCORDING1='1',ACCORDING2='2',					  					  ACCORDING3='3',ACCORDING4='4',ACCORDING5='5',					  TASK_REMARK='hhhhhhhh', 					  PLAN_BEGTIME=to_date('2017-02-21 14:11:06','YYYY_MM_DD HH24:MI:SS'),					  					  PLAN_ENDTIME=to_date('2017-02-23 14:11:06','YYYY_MM_DD HH24:MI:SS'),					  REAL_BEGTIME=to_date('','YYYY_MM_DD HH24:MI:SS'),					  REAL_ENDTIME=to_date('','YYYY_MM_DD HH24:MI:SS'),					  CREATE_TIME=to_date('2017-02-24 11:42:18','YYYY_MM_DD HH24:MI:SS'),					  CREATE_USER='ÌÆÀò',					  					  GROUP_OID=1,					  GROUP_NAME='¼ìÑé´¦' where TASK_OID=1 and 					  SEND_DATE=to_date('2017-03-08 17:29:34','YYYY_MM_DD HH24:MI:SS')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "FINISH_DATE": ÎÞÐ§µÄ±êÊ¶·û
+
+[2017-03-10 08:53:08]
+Êý¾Ý¿â³õÊ¼»¯Ê§°Ü£¬Ô­ÒòÎª£º
+ORA-12500: TNS: ¼àÌý³ÌÐòÎÞ·¨Æô¶¯×¨ÓÃ·þÎñÆ÷½ø³Ì
+
+[2017-03-10 08:53:08]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-10 08:53:33]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÏµÍ³¹ÜÀíÔ±', '111')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-10 08:53:35]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, '¸ß¼¶ÓÃ»§', '333')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-10 08:53:35]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÆÕÍ¨ÓÃ»§', '444')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-10 08:53:36]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-10 08:54:10]
+Êý¾Ý¿â³õÊ¼»¯Ê§°Ü£¬Ô­ÒòÎª£º
+ORA-01033: ORACLE initialization or shutdown in progress
+
+[2017-03-10 08:54:10]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-24324: Î´³õÊ¼»¯·þÎñ¾ä±ú
+
+[2017-03-10 08:54:15]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÏµÍ³¹ÜÀíÔ±', '111')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-24324: Î´³õÊ¼»¯·þÎñ¾ä±ú
+
+[2017-03-10 08:54:15]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, '¸ß¼¶ÓÃ»§', '333')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-24324: Î´³õÊ¼»¯·þÎñ¾ä±ú
+
+[2017-03-10 08:54:16]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE values (seq_role.nextval, 'ÆÕÍ¨ÓÃ»§', '444')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-24324: Î´³õÊ¼»¯·þÎñ¾ä±ú
+
+[2017-03-10 08:54:16]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-24324: Î´³õÊ¼»¯·þÎñ¾ä±ú
+
+[2017-03-10 08:54:19]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_USER where LOGIN_NAME='Liuty' 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-24324: Î´³õÊ¼»¯·þÎñ¾ä±ú
+
+[2017-03-14 20:59:13]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_GROUP (OID, PID, GROUP_NAME, GROUP_NO, GROUP_TYPE, DESCRIPTION, CALL, FAXS, ADDRESS, INVALID)		values (1, 0, '¼ìÑé´¦', 'NO000001', null, null, null, null, null, 1);
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00911: ÎÞÐ§×Ö·û
+
+[2017-03-15 13:01:51]
+Ö´ÐÐSQLÓï¾ä£º
+insert into TST_DATA_0001_0003(OID,BELONG_MODEL,BELONG_MOMENT,PRODUCT_OID,PRODUCT_NO,						  PRODUCT_NAME,PRODUCT_CODE,TASK_OID,TASK_NAME,SEND_DATE,FINISI_DATE,						  IMPORT_DATE,DEF_EDIT_3,DEF_EDIT_4,DEF_EDIT_5,DEF_EDIT_6,						  BASE_OID,ATTA_OID) values (1,'SW','F',3,'Y27-31',  'µç×è','C001-001',3,'Y27-31_001p',						  to_date('2017-03-15 12:44:32','YYYY_MM_DD hh24:MI:SS'),to_date('2017-03-15 12:58:58','YYYY_MM_DD hh24:MI:SS'),						  to_date('2017-03-15 13:01:51','YYYY_MM_DD hh24:MI:SS'),'ÀîËÄ',  						  '','','2017-03-15 12:57:46',1,1)
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "FINISI_DATE": ±êÊ¶·ûÎÞÐ§
+
+[2017-03-15 13:03:39]
+Ö´ÐÐSQLÓï¾ä£º
+update TST_DATA_0001_0003 set ,,,,,,,,,  where OID=1
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-01747: user.table.column, table.column »òÁÐËµÃ÷ÎÞÐ§
+
+[2017-03-15 13:03:58]
+Ö´ÐÐSQLÓï¾ä£º
+update TST_DATA_0001_0003 set ,,,,,,,,,  where OID=2
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-01747: user.table.column, table.column »òÁÐËµÃ÷ÎÞÐ§
+
+[2017-03-17 11:01:25]
+Êý¾Ý¿â³õÊ¼»¯Ê§°Ü£¬Ô­ÒòÎª£º
+ORA-12500: TNS: ¼àÌý³ÌÐòÎÞ·¨Æô¶¯×¨ÓÃ·þÎñÆ÷½ø³Ì
+
+[2017-03-17 11:01:25]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-17 11:01:27]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE (OID, ROLE_NAME, ROLE_CODE)		values (1, 'ÏµÍ³¹ÜÀíÔ±', '111')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-17 11:01:27]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE (OID, ROLE_NAME, ROLE_CODE)		values (2, '¸ß¼¶ÓÃ»§', '333')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-17 11:01:28]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_ROLE (OID, ROLE_NAME, ROLE_CODE)		values (3, 'ÆÕÍ¨ÓÃ»§', '444')
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-17 11:01:28]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_ROLE 
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-17 11:01:28]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_GROUP  
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-17 11:01:28]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_GROUP (OID, PID, GROUP_NAME, GROUP_NO, GROUP_TYPE, DESCRIPTION, CALL, FAXS, ADDRESS, INVALID)		values (1, 0, '¼ìÑé´¦', 'NO000001', null, null, null, null, null, 1)
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-17 11:01:29]
+Ö´ÐÐSQLÓï¾ä£º
+select count(*) from HR_USER  
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-17 11:01:29]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_USER (OID, LOGIN_NAME, USER_NAME, USER_PWD, ROLE_OID, GROUP_OID, USER_SIGNFILE, USER_LOGSTATE, USER_TYPE, CALL, EMAIL, PHONE, PADDEV_ID)		values (1, 'admin', '¹ÜÀíÔ±', '123456', 0, 0, null, 0, 2, null, null, null, 0)
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-17 11:01:29]
+Ö´ÐÐSQLÓï¾ä£º
+insert into HR_USER (OID, LOGIN_NAME, USER_NAME, USER_PWD, ROLE_OID, GROUP_OID, USER_SIGNFILE, USER_LOGSTATE, USER_TYPE, CALL, EMAIL, PHONE, PADDEV_ID)		values (2, 'user', 'ÓÃ»§', '123456', 0, 1, null, 0, 0, null, null, null, 1)
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+OCI_INVALID_HANDLE
+
+[2017-03-22 15:25:11]
+Ö´ÐÐSQLÓï¾ä£º
+delete from BAS_MODE_DESC where MODE_OID=1
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-22 15:25:18]
+Ö´ÐÐSQLÓï¾ä£º
+select MIN(OID) from BAS_MODE_DESC
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-03-27 10:13:25]
+Ö´ÐÐSQLÓï¾ä£º
+insert into BAS_TASK(OID,TASK_NAME,PROJECT_NO,TASK_STATUS,TASK_TYPE,				   MODEL,PHASE,PRODUCT_OID,PRODUCT_CODE,CODE_COUNT,				   BATCH,DEPART_OID,UP_USER,UP_DATE,SEND_DATE,				   CHECK_LEADER,CHECK_USER,TECH_USER,ARMY_TEST,DIANSHI_NUM,				   ACCORDING1,ACCORDING2,ACCORDING3,ACCORDING4,ACCORDING5,				   TASK_REMARK,PLAN_BEGTIME,PLAN_ENDTIME,REAL_BEGTIME,REAL_ENDTIME,				   DOWNLOAD_DATE,FINISH_DATE,IMPORT_DATE,CREATE_TIME,CREATE_USER, GROUP_OID)				   values (Seq_Task.nextval,'YH3-40D_HB-QT1521-W-G8-02','HB-QT1521-W-G8-02',0,0,				   'S','º£¾üÒ»Çø',129,'ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ',1,				   'ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ',0,'Ô¬²©',to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   'Íõº£Æ½','','',0,0,				   '²úÆ·ÑéÊÕÒÀ¾Ý¼¼ÊõÌõ¼þ06A-022598Ö´ÐÐ¡£','','','','',				   '',to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),'', 1)
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-01401: ²åÈëµÄÖµ¶ÔÓÚÁÐ¹ý´ó
+
+[2017-03-27 10:16:42]
+Ö´ÐÐSQLÓï¾ä£º
+insert into BAS_TASK(OID,TASK_NAME,PROJECT_NO,TASK_STATUS,TASK_TYPE,				   MODEL,PHASE,PRODUCT_OID,PRODUCT_CODE,CODE_COUNT,				   BATCH,DEPART_OID,UP_USER,UP_DATE,SEND_DATE,				   CHECK_LEADER,CHECK_USER,TECH_USER,ARMY_TEST,DIANSHI_NUM,				   ACCORDING1,ACCORDING2,ACCORDING3,ACCORDING4,ACCORDING5,				   TASK_REMARK,PLAN_BEGTIME,PLAN_ENDTIME,REAL_BEGTIME,REAL_ENDTIME,				   DOWNLOAD_DATE,FINISH_DATE,IMPORT_DATE,CREATE_TIME,CREATE_USER, GROUP_OID)				   values (Seq_Task.nextval,'YH3-40D_HB-QT1521-W-G8-02','HB-QT1521-W-G8-02',0,0,				   'S','º£¾üÒ»Çø',129,'ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ',1,				   'ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ',0,'Ô¬²©',to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   'Íõº£Æ½','','',0,0,				   '²úÆ·ÑéÊÕÒÀ¾Ý¼¼ÊõÌõ¼þ06A-022598Ö´ÐÐ¡£','','','','',				   '',to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),'', 1)
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-01401: ²åÈëµÄÖµ¶ÔÓÚÁÐ¹ý´ó
+
+[2017-03-27 10:19:07]
+Ö´ÐÐSQLÓï¾ä£º
+insert into BAS_TASK(OID,TASK_NAME,PROJECT_NO,TASK_STATUS,TASK_TYPE,				   MODEL,PHASE,PRODUCT_OID,PRODUCT_CODE,CODE_COUNT,				   BATCH,DEPART_OID,UP_USER,UP_DATE,SEND_DATE,				   CHECK_LEADER,CHECK_USER,TECH_USER,ARMY_TEST,DIANSHI_NUM,				   ACCORDING1,ACCORDING2,ACCORDING3,ACCORDING4,ACCORDING5,				   TASK_REMARK,PLAN_BEGTIME,PLAN_ENDTIME,REAL_BEGTIME,REAL_ENDTIME,				   DOWNLOAD_DATE,FINISH_DATE,IMPORT_DATE,CREATE_TIME,CREATE_USER, GROUP_OID)				   values (Seq_Task.nextval,'YH3-40D_HB-QT1521-W-G8-02','HB-QT1521-W-G8-02',0,0,				   'S','º£¾üÒ»Çø',129,'ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ',1,				   'ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ',0,'Ô¬²©',to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   'Íõº£Æ½','','',0,0,				   '²úÆ·ÑéÊÕÒÀ¾Ý¼¼ÊõÌõ¼þ06A-022598Ö´ÐÐ¡£','','','','',				   '',to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),'', 1)
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-01401: ²åÈëµÄÖµ¶ÔÓÚÁÐ¹ý´ó
+
+[2017-03-27 10:19:47]
+Ö´ÐÐSQLÓï¾ä£º
+insert into BAS_TASK(OID,TASK_NAME,PROJECT_NO,TASK_STATUS,TASK_TYPE,				   MODEL,PHASE,PRODUCT_OID,PRODUCT_CODE,CODE_COUNT,				   BATCH,DEPART_OID,UP_USER,UP_DATE,SEND_DATE,				   CHECK_LEADER,CHECK_USER,TECH_USER,ARMY_TEST,DIANSHI_NUM,				   ACCORDING1,ACCORDING2,ACCORDING3,ACCORDING4,ACCORDING5,				   TASK_REMARK,PLAN_BEGTIME,PLAN_ENDTIME,REAL_BEGTIME,REAL_ENDTIME,				   DOWNLOAD_DATE,FINISH_DATE,IMPORT_DATE,CREATE_TIME,CREATE_USER, GROUP_OID)				   values (Seq_Task.nextval,'YH3-40D_HB-QT1521-W-G8-02','HB-QT1521-W-G8-02',0,0,				   'S','º£¾üÒ»Çø',129,'ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ',1,				   'ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ',0,'Ô¬²©',to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   'Íõº£Æ½','','',0,0,				   '²úÆ·ÑéÊÕÒÀ¾Ý¼¼ÊõÌõ¼þ06A-022598Ö´ÐÐ¡£','','','','',				   '',to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),'', 1)
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-01401: ²åÈëµÄÖµ¶ÔÓÚÁÐ¹ý´ó
+
+[2017-03-27 10:19:56]
+Ö´ÐÐSQLÓï¾ä£º
+insert into BAS_TASK(OID,TASK_NAME,PROJECT_NO,TASK_STATUS,TASK_TYPE,				   MODEL,PHASE,PRODUCT_OID,PRODUCT_CODE,CODE_COUNT,				   BATCH,DEPART_OID,UP_USER,UP_DATE,SEND_DATE,				   CHECK_LEADER,CHECK_USER,TECH_USER,ARMY_TEST,DIANSHI_NUM,				   ACCORDING1,ACCORDING2,ACCORDING3,ACCORDING4,ACCORDING5,				   TASK_REMARK,PLAN_BEGTIME,PLAN_ENDTIME,REAL_BEGTIME,REAL_ENDTIME,				   DOWNLOAD_DATE,FINISH_DATE,IMPORT_DATE,CREATE_TIME,CREATE_USER, GROUP_OID)				   values (Seq_Task.nextval,'YH3-40D_HB-QT1521-W-G8-02','HB-QT1521-W-G8-02',0,0,				   'S','º£¾üÒ»Çø',129,'ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ',1,				   'ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ',0,'Ô¬²©',to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   'Íõº£Æ½','','',0,0,				   '²úÆ·ÑéÊÕÒÀ¾Ý¼¼ÊõÌõ¼þ06A-022598Ö´ÐÐ¡£','','','','',				   '',to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),'', 1)
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-01401: ²åÈëµÄÖµ¶ÔÓÚÁÐ¹ý´ó
+
+[2017-03-27 10:23:40]
+Ö´ÐÐSQLÓï¾ä£º
+insert into BAS_TASK(OID,TASK_NAME,PROJECT_NO,TASK_STATUS,TASK_TYPE,				   MODEL,PHASE,PRODUCT_OID,PRODUCT_CODE,CODE_COUNT,				   BATCH,DEPART_OID,UP_USER,UP_DATE,SEND_DATE,				   CHECK_LEADER,CHECK_USER,TECH_USER,ARMY_TEST,DIANSHI_NUM,				   ACCORDING1,ACCORDING2,ACCORDING3,ACCORDING4,ACCORDING5,				   TASK_REMARK,PLAN_BEGTIME,PLAN_ENDTIME,REAL_BEGTIME,REAL_ENDTIME,				   DOWNLOAD_DATE,FINISH_DATE,IMPORT_DATE,CREATE_TIME,CREATE_USER, GROUP_OID)				   values (Seq_Task.nextval,'YH3-40D_HB-QT1521-W-G8-02','HB-QT1521-W-G8-02',0,0,				   'S','º£¾üÒ»Çø',129,'ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ',1,				   'ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ',0,'Ô¬²©',to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   'Íõº£Æ½','','',0,0,				   '²úÆ·ÑéÊÕÒÀ¾Ý¼¼ÊõÌõ¼þ06A-022598Ö´ÐÐ¡£','','','','',				   '',to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),				   to_date('','YYYY_MM_DD HH24:MI:SS'),to_date('','YYYY_MM_DD HH24:MI:SS'),'', 1)
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-01401: ²åÈëµÄÖµ¶ÔÓÚÁÐ¹ý´ó
+
+[2017-04-05 11:20:01]
+Ö´ÐÐSQLÓï¾ä£º
+delete from BAS_MODE_DESC where MODE_OID=1
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-04-05 11:20:54]
+Ö´ÐÐSQLÓï¾ä£º
+select MIN(OID) from BAS_MODE_DESC
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+
+[2017-04-06 15:14:21]
+Ö´ÐÐSQLÓï¾ä£º
+select * from( select * from(select t1.* from TST_RESULT_BASE_0001 t1 ) where RN > 0) where RN <= 20
+³öÏÖ´íÎó£¬Ô­ÒòÎª£º
+ORA-00904: "RN": ÎÞÐ§µÄ±êÊ¶·û
+

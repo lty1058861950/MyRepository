@@ -1,0 +1,60 @@
+[2017-02-16 13:50:58]申请 CMainFrame.OnCreate,NewItemInfo 用时 109 毫秒
+[2017-02-16 13:51:12][第1个]开始生成文件：c:\PAD_JH\DataManage\ReportTempPath\2017-02-16 13_51_12.doc
+[2017-02-16 13:51:13]CWordOffice::~CWordOffice()：1
+[2017-02-16 13:51:13]CWordOffice::~CWordOffice()：2
+[2017-02-16 13:51:13]CWordOffice::~CWordOffice()：3
+[2017-02-16 13:51:13]CWordOffice::~CWordOffice()：4
+[2017-02-16 13:51:13]CWordOffice::~CWordOffice()：5
+[2017-02-16 13:51:13]CWordOffice::~CWordOffice()：6
+[2017-02-16 13:51:13]CWordOffice::~CWordOffice()：7
+[2017-02-16 13:51:13]CWordOffice::~CWordOffice()：8
+[2017-02-16 13:51:13]CWordOffice::~CWordOffice()：9
+[2017-02-16 13:51:13]CWordOffice::~CWordOffice()：10
+[2017-02-16 13:51:13]CWordOffice::~CWordOffice()：11
+[2017-02-16 13:51:13]用时904毫秒! ret=1, [第1个]生成文件成功：c:\PAD_JH\DataManage\ReportTempPath\2017-02-16 13_51_12.doc
+[2017-02-16 13:51:13][第2个]开始生成文件：c:\PAD_JH\DataManage\ReportTempPath\温度实验2_2017-02-16 13_51_13.doc
+[2017-02-16 13:51:13]开始生成文件：c:\PAD_JH\DataManage\ReportTempPath\t2_Mode.doc
+[2017-02-16 13:51:13]WordOpt_MakeTabModeToTabData：1
+[2017-02-16 13:51:13]WordOpt_MakeTabModeToTabData：2
+[2017-02-16 13:51:14]WordOpt_MakeTabModeToTabData：3
+[2017-02-16 13:51:14]WordOpt_MakeTabModeToTabData：4
+[2017-02-16 13:51:14]WordOpt_MakeTabModeToTabData：5
+[2017-02-16 13:51:14]CWordOffice::~CWordOffice()：1
+[2017-02-16 13:51:14]CWordOffice::~CWordOffice()：2
+[2017-02-16 13:51:14]CWordOffice::~CWordOffice()：3
+[2017-02-16 13:51:14]CWordOffice::~CWordOffice()：4
+[2017-02-16 13:51:14]CWordOffice::~CWordOffice()：5
+[2017-02-16 13:51:14]CWordOffice::~CWordOffice()：6
+[2017-02-16 13:51:14]CWordOffice::~CWordOffice()：7
+[2017-02-16 13:51:14]CWordOffice::~CWordOffice()：8
+[2017-02-16 13:51:14]CWordOffice::~CWordOffice()：9
+[2017-02-16 13:51:14]CWordOffice::~CWordOffice()：10
+[2017-02-16 13:51:14]CWordOffice::~CWordOffice()：11
+[2017-02-16 13:51:14]CreateReportBase：1, ret=1
+[2017-02-16 13:51:14]用时1139毫秒! ret=1, 生成文件成功：c:\PAD_JH\DataManage\ReportTempPath\t2_Mode.doc
+[2017-02-16 13:51:14]用时0毫秒! ret=1, [第2个]生成文件成功：c:\PAD_JH\DataManage\ReportTempPath\温度实验2_2017-02-16 13_51_13.doc
+[2017-02-16 13:51:14][第3个]开始生成文件：c:\PAD_JH\DataManage\ReportTempPath\温度试验_2017-02-16 13_51_14.doc
+[2017-02-16 13:51:14]开始生成文件：c:\PAD_JH\DataManage\ReportTempPath\t3_Mode.doc
+[2017-02-16 13:51:14]WordOpt_MakeTabModeToTabData：1
+[2017-02-16 13:51:14]WordOpt_MakeTabModeToTabData：2
+[2017-02-16 13:51:15]WordOpt_MakeTabModeToTabData：3
+[2017-02-16 13:51:15]WordOpt_MakeTabModeToTabData：4
+[2017-02-16 13:51:15]WordOpt_MakeTabModeToTabData：5
+[2017-02-16 13:51:15]CWordOffice::~CWordOffice()：1
+[2017-02-16 13:51:15]CWordOffice::~CWordOffice()：2
+[2017-02-16 13:51:15]CWordOffice::~CWordOffice()：3
+[2017-02-16 13:51:15]CWordOffice::~CWordOffice()：4
+[2017-02-16 13:51:15]CWordOffice::~CWordOffice()：5
+[2017-02-16 13:51:15]CWordOffice::~CWordOffice()：6
+[2017-02-16 13:51:15]CWordOffice::~CWordOffice()：7
+[2017-02-16 13:51:15]CWordOffice::~CWordOffice()：8
+[2017-02-16 13:51:15]CWordOffice::~CWordOffice()：9
+[2017-02-16 13:51:15]CWordOffice::~CWordOffice()：10
+[2017-02-16 13:51:15]CWordOffice::~CWordOffice()：11
+[2017-02-16 13:51:15]CreateReportBase：1, ret=1
+[2017-02-16 13:51:15]用时1107毫秒! ret=1, 生成文件成功：c:\PAD_JH\DataManage\ReportTempPath\t3_Mode.doc
+[2017-02-16 13:51:15]用时0毫秒! ret=1, [第3个]生成文件成功：c:\PAD_JH\DataManage\ReportTempPath\温度试验_2017-02-16 13_51_14.doc
+[2017-02-16 13:51:15]用时0毫秒! ret=1, 合并中间文件,文件个数3
+[2017-02-16 13:51:15]用时3260毫秒! ret=1, 输出文件：C:\Users\ASUS_LTY\Desktop\1BJ2-2_201607-2292_2017-02-16_13_51.doc
+[2017-02-16 13:51:28]释放 CMainFrame::OnClose:Release 用时 0 毫秒
+[2017-02-16 13:51:28]释放 CMainFrame::OnClose:DeleteItemInfo 用时 343 毫秒

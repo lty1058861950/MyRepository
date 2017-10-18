@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<RootInfo Version="1.0" Date="2017-04-07" Time="09:58:01">
+    <TaskLoadOutUsrInfo>
+        <UsrTabItemData TabRowCnt="1" TabColCnt="14">
+            <ItemRoot1 OID="2" LOGIN_NAME="user" USER_NAME="用户" USER_PWD="123456" ROLE_OID="0" GROUP_OID="1" GROUP_NAME="检验处" USER_SIGNFILE="" USER_LOGSTATE="0" USER_TYPE="0" CALL="" EMAIL="" PHONE="" PADDEV_ID="1" />
+        </UsrTabItemData>
+    </TaskLoadOutUsrInfo>
+</RootInfo>

@@ -1,0 +1,15 @@
+[2017-04-06 14:06:05]申请 CMainFrame.OnCreate,NewItemInfo 用时 125 毫秒
+[2017-04-06 14:06:16]CResultSearch::ShowCurData 用时 31 毫秒
+[2017-04-06 14:06:16]CResultShow::OnInitDialog() GetCurTaskInfoLoad,AnalysisData 用时 31 毫秒
+[2017-04-06 14:06:16]CResultShow::OnInitDialog() 用时 109 毫秒
+[2017-04-06 14:06:18]释放 CResultShow 用时 0 毫秒
+[2017-04-06 14:06:20]CResultSearch::ShowCurData 用时 15 毫秒
+[2017-04-06 14:06:20]CResultShow::OnInitDialog() GetCurTaskInfoLoad,AnalysisData 用时 31 毫秒
+[2017-04-06 14:06:20]CResultShow::OnInitDialog() 用时 94 毫秒
+[2017-04-06 14:06:21]释放 CResultShow 用时 0 毫秒
+[2017-04-06 14:06:27]CResultSearch::ShowCurData 用时 47 毫秒
+[2017-04-06 14:06:28]CResultShow::OnInitDialog() GetCurTaskInfoLoad,AnalysisData 用时 31 毫秒
+[2017-04-06 14:06:28]CResultShow::OnInitDialog() 用时 94 毫秒
+[2017-04-06 14:06:29]释放 CResultShow 用时 0 毫秒
+[2017-04-06 14:06:31]释放 CMainFrame::OnClose:Release 用时 0 毫秒
+[2017-04-06 14:06:31]释放 CMainFrame::OnClose:DeleteItemInfo 用时 218 毫秒

@@ -1,0 +1,3 @@
+[2017-03-20 17:25:09]申请 CMainFrame.OnCreate,NewItemInfo 用时 141 毫秒
+[2017-03-20 17:26:35]释放 CMainFrame::OnClose:Release 用时 0 毫秒
+[2017-03-20 17:26:36]释放 CMainFrame::OnClose:DeleteItemInfo 用时 579 毫秒

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<RootInfo Version="1.0" Date="2017-03-22" Time="11:12:03">
+    <MdCfgTabSrtInfo>
+        <TabItemData TabRowCnt="10" TabColCnt="7">
+            <ItemRoot1 Index1="1">
+                <ItemRoot2 Index2="1" Value2="交接日期" />
+                <ItemRoot2 Index2="2" Value2="交接依据" />
+                <ItemRoot2 Index2="3" Value2="交接说明" />
+                <ItemRoot2 Index2="4" Value2="交出" />
+                <ItemRoot2 Index2="5" Value2="" />
+                <ItemRoot2 Index2="6" Value2="接收" />
+                <ItemRoot2 Index2="7" Value2="" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="2">
+                <ItemRoot2 Index2="1" Value2="" />
+                <ItemRoot2 Index2="2" Value2="" />
+                <ItemRoot2 Index2="3" Value2="" />
+                <ItemRoot2 Index2="4" Value2="单位" />
+                <ItemRoot2 Index2="5" Value2="承办人" />
+                <ItemRoot2 Index2="6" Value2="单位" />
+                <ItemRoot2 Index2="7" Value2="承办人" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="3">
+                <ItemRoot2 Index2="1" Value2="D_STR" />
+                <ItemRoot2 Index2="2" Value2="D_STR" />
+                <ItemRoot2 Index2="3" Value2="D_STR" />
+                <ItemRoot2 Index2="4" Value2="D_STR" />
+                <ItemRoot2 Index2="5" Value2="D_STR" />
+                <ItemRoot2 Index2="6" Value2="D_STR" />
+                <ItemRoot2 Index2="7" Value2="D_STR" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="4">
+                <ItemRoot2 Index2="1" Value2="D_STR" />
+                <ItemRoot2 Index2="2" Value2="D_STR" />
+                <ItemRoot2 Index2="3" Value2="D_STR" />
+                <ItemRoot2 Index2="4" Value2="D_STR" />
+                <ItemRoot2 Index2="5" Value2="D_STR" />
+                <ItemRoot2 Index2="6" Value2="D_STR" />
+                <ItemRoot2 Index2="7" Value2="D_STR" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="5">
+                <ItemRoot2 Index2="1" Value2="D_STR" />
+                <ItemRoot2 Index2="2" Value2="D_STR" />
+                <ItemRoot2 Index2="3" Value2="D_STR" />
+                <ItemRoot2 Index2="4" Value2="D_STR" />
+                <ItemRoot2 Index2="5" Value2="D_STR" />
+                <ItemRoot2 Index2="6" Value2="D_STR" />
+                <ItemRoot2 Index2="7" Value2="D_STR" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="6">
+                <ItemRoot2 Index2="1" Value2="D_STR" />
+                <ItemRoot2 Index2="2" Value2="D_STR" />
+                <ItemRoot2 Index2="3" Value2="D_STR" />
+                <ItemRoot2 Index2="4" Value2="D_STR" />
+                <ItemRoot2 Index2="5" Value2="D_STR" />
+                <ItemRoot2 Index2="6" Value2="D_STR" />
+                <ItemRoot2 Index2="7" Value2="D_STR" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="7">
+                <ItemRoot2 Index2="1" Value2="D_STR" />
+                <ItemRoot2 Index2="2" Value2="D_STR" />
+                <ItemRoot2 Index2="3" Value2="D_STR" />
+                <ItemRoot2 Index2="4" Value2="D_STR" />
+                <ItemRoot2 Index2="5" Value2="D_STR" />
+                <ItemRoot2 Index2="6" Value2="D_STR" />
+                <ItemRoot2 Index2="7" Value2="D_STR" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="8">
+                <ItemRoot2 Index2="1" Value2="D_STR" />
+                <ItemRoot2 Index2="2" Value2="D_STR" />
+                <ItemRoot2 Index2="3" Value2="D_STR" />
+                <ItemRoot2 Index2="4" Value2="D_STR" />
+                <ItemRoot2 Index2="5" Value2="D_STR" />
+                <ItemRoot2 Index2="6" Value2="D_STR" />
+                <ItemRoot2 Index2="7" Value2="D_STR" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="9">
+                <ItemRoot2 Index2="1" Value2="D_STR" />
+                <ItemRoot2 Index2="2" Value2="D_STR" />
+                <ItemRoot2 Index2="3" Value2="D_STR" />
+                <ItemRoot2 Index2="4" Value2="D_STR" />
+                <ItemRoot2 Index2="5" Value2="D_STR" />
+                <ItemRoot2 Index2="6" Value2="D_STR" />
+                <ItemRoot2 Index2="7" Value2="D_STR" />
+            </ItemRoot1>
+            <ItemRoot1 Index1="10">
+                <ItemRoot2 Index2="1" Value2="D_STR" />
+                <ItemRoot2 Index2="2" Value2="D_STR" />
+                <ItemRoot2 Index2="3" Value2="D_STR" />
+                <ItemRoot2 Index2="4" Value2="D_STR" />
+                <ItemRoot2 Index2="5" Value2="D_STR" />
+                <ItemRoot2 Index2="6" Value2="D_STR" />
+                <ItemRoot2 Index2="7" Value2="D_STR" />
+            </ItemRoot1>
+        </TabItemData>
+        <TabHeadLen Count="7">
+            <ItemRoot1 Index1="1" Value1="140" />
+            <ItemRoot1 Index1="2" Value1="126" />
+            <ItemRoot1 Index1="3" Value1="128" />
+            <ItemRoot1 Index1="4" Value1="84" />
+            <ItemRoot1 Index1="5" Value1="80" />
+            <ItemRoot1 Index1="6" Value1="82" />
+            <ItemRoot1 Index1="7" Value1="78" />
+        </TabHeadLen>
+        <TabCellSrt Count="5">
+            <ItemRoot1 Index1="1" BegRow="1" BegCol="1" EndRow="2" EndCol="1" />
+            <ItemRoot1 Index1="2" BegRow="1" BegCol="2" EndRow="2" EndCol="2" />
+            <ItemRoot1 Index1="3" BegRow="1" BegCol="3" EndRow="2" EndCol="3" />
+            <ItemRoot1 Index1="4" BegRow="1" BegCol="4" EndRow="1" EndCol="5" />
+            <ItemRoot1 Index1="5" BegRow="1" BegCol="6" EndRow="1" EndCol="7" />
+        </TabCellSrt>
+        <TabRowSrt Count="8">
+            <ItemRoot1 Index1="1" Pos="1" Flag="0" Name="" />
+            <ItemRoot1 Index1="2" Pos="2" Flag="0" Name="" />
+            <ItemRoot1 Index1="3" Pos="3" Flag="1" Name="1" />
+            <ItemRoot1 Index1="4" Pos="4" Flag="1" Name="2" />
+            <ItemRoot1 Index1="5" Pos="5" Flag="1" Name="3" />
+            <ItemRoot1 Index1="6" Pos="6" Flag="1" Name="4" />
+            <ItemRoot1 Index1="7" Pos="7" Flag="1" Name="5" />
+            <ItemRoot1 Index1="8" Pos="8" Flag="1" Name="6" />
+            <ItemRoot1 Index1="9" Pos="9" Flag="1" Name="7" />
+            <ItemRoot1 Index1="10" Pos="10" Flag="1" Name="8" />
+        </TabRowSrt>
+        <TabColSrt Count="7">
+            <ItemRoot1 Index1="1" Pos="1" Flag="1" Name="交接日期" />
+            <ItemRoot1 Index1="2" Pos="2" Flag="1" Name="交接依据" />
+            <ItemRoot1 Index1="3" Pos="3" Flag="1" Name="交接说明" />
+            <ItemRoot1 Index1="4" Pos="4" Flag="1" Name="4交出" />
+            <ItemRoot1 Index1="5" Pos="5" Flag="1" Name="4承办人" />
+            <ItemRoot1 Index1="6" Pos="6" Flag="1" Name="6接收" />
+            <ItemRoot1 Index1="7" Pos="7" Flag="1" Name="6承办人" />
+        </TabColSrt>
+        <TabDataSrt Count="56">
+            <ItemRoot1 Index1="1" NAME="D01_3_1" DESC="1_交接日期" BegRow="3" BegCol="1" DataType="2" />
+            <ItemRoot1 Index1="2" NAME="D02_3_2" DESC="1_交接依据" BegRow="3" BegCol="2" DataType="2" />
+            <ItemRoot1 Index1="3" NAME="D03_3_3" DESC="1_交接说明" BegRow="3" BegCol="3" DataType="2" />
+            <ItemRoot1 Index1="4" NAME="D04_3_4" DESC="1_4交出" BegRow="3" BegCol="4" DataType="2" />
+            <ItemRoot1 Index1="5" NAME="D05_3_5" DESC="1_4承办人" BegRow="3" BegCol="5" DataType="2" />
+            <ItemRoot1 Index1="6" NAME="D06_3_6" DESC="1_6接收" BegRow="3" BegCol="6" DataType="2" />
+            <ItemRoot1 Index1="7" NAME="D07_3_7" DESC="1_6承办人" BegRow="3" BegCol="7" DataType="2" />
+            <ItemRoot1 Index1="8" NAME="D08_4_1" DESC="2_交接日期" BegRow="4" BegCol="1" DataType="2" />
+            <ItemRoot1 Index1="9" NAME="D09_4_2" DESC="2_交接依据" BegRow="4" BegCol="2" DataType="2" />
+            <ItemRoot1 Index1="10" NAME="D10_4_3" DESC="2_交接说明" BegRow="4" BegCol="3" DataType="2" />
+            <ItemRoot1 Index1="11" NAME="D11_4_4" DESC="2_4交出" BegRow="4" BegCol="4" DataType="2" />
+            <ItemRoot1 Index1="12" NAME="D12_4_5" DESC="2_4承办人" BegRow="4" BegCol="5" DataType="2" />
+            <ItemRoot1 Index1="13" NAME="D13_4_6" DESC="2_6接收" BegRow="4" BegCol="6" DataType="2" />
+            <ItemRoot1 Index1="14" NAME="D14_4_7" DESC="2_6承办人" BegRow="4" BegCol="7" DataType="2" />
+            <ItemRoot1 Index1="15" NAME="D15_5_1" DESC="3_交接日期" BegRow="5" BegCol="1" DataType="2" />
+            <ItemRoot1 Index1="16" NAME="D16_5_2" DESC="3_交接依据" BegRow="5" BegCol="2" DataType="2" />
+            <ItemRoot1 Index1="17" NAME="D17_5_3" DESC="3_交接说明" BegRow="5" BegCol="3" DataType="2" />
+            <ItemRoot1 Index1="18" NAME="D18_5_4" DESC="3_4交出" BegRow="5" BegCol="4" DataType="2" />
+            <ItemRoot1 Index1="19" NAME="D19_5_5" DESC="3_4承办人" BegRow="5" BegCol="5" DataType="2" />
+            <ItemRoot1 Index1="20" NAME="D20_5_6" DESC="3_6接收" BegRow="5" BegCol="6" DataType="2" />
+            <ItemRoot1 Index1="21" NAME="D21_5_7" DESC="3_6承办人" BegRow="5" BegCol="7" DataType="2" />
+            <ItemRoot1 Index1="22" NAME="D22_6_1" DESC="4_交接日期" BegRow="6" BegCol="1" DataType="2" />
+            <ItemRoot1 Index1="23" NAME="D23_6_2" DESC="4_交接依据" BegRow="6" BegCol="2" DataType="2" />
+            <ItemRoot1 Index1="24" NAME="D24_6_3" DESC="4_交接说明" BegRow="6" BegCol="3" DataType="2" />
+            <ItemRoot1 Index1="25" NAME="D25_6_4" DESC="4_4交出" BegRow="6" BegCol="4" DataType="2" />
+            <ItemRoot1 Index1="26" NAME="D26_6_5" DESC="4_4承办人" BegRow="6" BegCol="5" DataType="2" />
+            <ItemRoot1 Index1="27" NAME="D27_6_6" DESC="4_6接收" BegRow="6" BegCol="6" DataType="2" />
+            <ItemRoot1 Index1="28" NAME="D28_6_7" DESC="4_6承办人" BegRow="6" BegCol="7" DataType="2" />
+            <ItemRoot1 Index1="29" NAME="D29_7_1" DESC="5_交接日期" BegRow="7" BegCol="1" DataType="2" />
+            <ItemRoot1 Index1="30" NAME="D30_7_2" DESC="5_交接依据" BegRow="7" BegCol="2" DataType="2" />
+            <ItemRoot1 Index1="31" NAME="D31_7_3" DESC="5_交接说明" BegRow="7" BegCol="3" DataType="2" />
+            <ItemRoot1 Index1="32" NAME="D32_7_4" DESC="5_4交出" BegRow="7" BegCol="4" DataType="2" />
+            <ItemRoot1 Index1="33" NAME="D33_7_5" DESC="5_4承办人" BegRow="7" BegCol="5" DataType="2" />
+            <ItemRoot1 Index1="34" NAME="D34_7_6" DESC="5_6接收" BegRow="7" BegCol="6" DataType="2" />
+            <ItemRoot1 Index1="35" NAME="D35_7_7" DESC="5_6承办人" BegRow="7" BegCol="7" DataType="2" />
+            <ItemRoot1 Index1="36" NAME="D36_8_1" DESC="6_交接日期" BegRow="8" BegCol="1" DataType="2" />
+            <ItemRoot1 Index1="37" NAME="D37_8_2" DESC="6_交接依据" BegRow="8" BegCol="2" DataType="2" />
+            <ItemRoot1 Index1="38" NAME="D38_8_3" DESC="6_交接说明" BegRow="8" BegCol="3" DataType="2" />
+            <ItemRoot1 Index1="39" NAME="D39_8_4" DESC="6_4交出" BegRow="8" BegCol="4" DataType="2" />
+            <ItemRoot1 Index1="40" NAME="D40_8_5" DESC="6_4承办人" BegRow="8" BegCol="5" DataType="2" />
+            <ItemRoot1 Index1="41" NAME="D41_8_6" DESC="6_6接收" BegRow="8" BegCol="6" DataType="2" />
+            <ItemRoot1 Index1="42" NAME="D42_8_7" DESC="6_6承办人" BegRow="8" BegCol="7" DataType="2" />
+            <ItemRoot1 Index1="43" NAME="D43_9_1" DESC="7_交接日期" BegRow="9" BegCol="1" DataType="2" />
+            <ItemRoot1 Index1="44" NAME="D44_9_2" DESC="7_交接依据" BegRow="9" BegCol="2" DataType="2" />
+            <ItemRoot1 Index1="45" NAME="D45_9_3" DESC="7_交接说明" BegRow="9" BegCol="3" DataType="2" />
+            <ItemRoot1 Index1="46" NAME="D46_9_4" DESC="7_4交出" BegRow="9" BegCol="4" DataType="2" />
+            <ItemRoot1 Index1="47" NAME="D47_9_5" DESC="7_4承办人" BegRow="9" BegCol="5" DataType="2" />
+            <ItemRoot1 Index1="48" NAME="D48_9_6" DESC="7_6接收" BegRow="9" BegCol="6" DataType="2" />
+            <ItemRoot1 Index1="49" NAME="D49_9_7" DESC="7_6承办人" BegRow="9" BegCol="7" DataType="2" />
+            <ItemRoot1 Index1="50" NAME="D50_10_1" DESC="8_交接日期" BegRow="10" BegCol="1" DataType="2" />
+            <ItemRoot1 Index1="51" NAME="D51_10_2" DESC="8_交接依据" BegRow="10" BegCol="2" DataType="2" />
+            <ItemRoot1 Index1="52" NAME="D52_10_3" DESC="8_交接说明" BegRow="10" BegCol="3" DataType="2" />
+            <ItemRoot1 Index1="53" NAME="D53_10_4" DESC="8_4交出" BegRow="10" BegCol="4" DataType="2" />
+            <ItemRoot1 Index1="54" NAME="D54_10_5" DESC="8_4承办人" BegRow="10" BegCol="5" DataType="2" />
+            <ItemRoot1 Index1="55" NAME="D55_10_6" DESC="8_6接收" BegRow="10" BegCol="6" DataType="2" />
+            <ItemRoot1 Index1="56" NAME="D56_10_7" DESC="8_6承办人" BegRow="10" BegCol="7" DataType="2" />
+        </TabDataSrt>
+        <TabAlarmSrt Count="56">
+            <ItemRoot1 Index1="1" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="2" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="3" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="4" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="5" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="6" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="7" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="8" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="9" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="10" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="11" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="12" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="13" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="14" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="15" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="16" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="17" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="18" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="19" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="20" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="21" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="22" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="23" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="24" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="25" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="26" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="27" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="28" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="29" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="30" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="31" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="32" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="33" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="34" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="35" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="36" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="37" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="38" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="39" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="40" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="41" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="42" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="43" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="44" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="45" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="46" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="47" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="48" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="49" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="50" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="51" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="52" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="53" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="54" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="55" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+            <ItemRoot1 Index1="56" CheckFlag="0" JudgeType="0" Target1="" Target2="" />
+        </TabAlarmSrt>
+    </MdCfgTabSrtInfo>
+</RootInfo>

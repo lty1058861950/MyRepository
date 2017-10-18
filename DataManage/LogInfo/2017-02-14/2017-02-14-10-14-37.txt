@@ -1,0 +1,5 @@
+[2017-02-14 10:14:37]申请 CMainFrame.OnCreate,NewItemInfo 用时 93 毫秒
+[2017-02-14 10:16:42]手动添加任务: DB_OPT_插入_产品代号_代号已存在：nOid=124, Product_no=liuty2017
+[2017-02-14 10:16:42]nPos=0001, DB_OPT_读取_产品系列号_成功：nOid=127, Product_no=1
+[2017-02-14 10:18:42]手动添加任务: DB_OPT_插入_产品代号_代号已存在：nOid=124, Product_no=liuty2017
+[2017-02-14 10:18:42]nPos=0002, DB_OPT_读取_产品系列号_成功：nOid=127, Product_no=1

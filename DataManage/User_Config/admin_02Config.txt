@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<RootInfo Version="1.0" Date="2017-02-14" Time="11:03:58">
+    <UserSetConfig>
+        <SelProductInfo RowCnt="57">
+            <ItemRoot1 nOid="126" szProductNo="AA2017" szProductName="AA2017" />
+            <ItemRoot2 nOid="127" szProductNo="AA2018" szProductName="AA2017" />
+            <ItemRoot3 nOid="17" szProductNo="1BJ2-2" szProductName="加温电缆JC1" />
+            <ItemRoot4 nOid="19" szProductNo="1Y221-31B" szProductName="测量系统弹上电缆网" />
+            <ItemRoot5 nOid="20" szProductNo="1Y223-5B" szProductName="弹上电缆网" />
+            <ItemRoot6 nOid="71" szProductNo="1Y223-6B" szProductName="" />
+            <ItemRoot7 nOid="21" szProductNo="1Y230-15" szProductName="炮训弹上电缆网" />
+            <ItemRoot8 nOid="22" szProductNo="3SJ04-8" szProductName="鱼雷助飞火箭脱插机构电缆" />
+            <ItemRoot9 nOid="23" szProductNo="8D0119-7" szProductName="发射场地面脱拔电缆" />
+            <ItemRoot10 nOid="24" szProductNo="8Y2211-5" szProductName="助推器箭上低频电缆网" />
+            <ItemRoot11 nOid="25" szProductNo="8Y223-5" szProductName="二级箭上低频电缆网" />
+            <ItemRoot12 nOid="26" szProductNo="BC1-3" szProductName="弹上电缆网" />
+            <ItemRoot13 nOid="27" szProductNo="BK1-188" szProductName="弹上电缆网" />
+            <ItemRoot14 nOid="28" szProductNo="BK1-227" szProductName="电缆网" />
+            <ItemRoot15 nOid="29" szProductNo="BK1-28" szProductName="电缆网" />
+            <ItemRoot16 nOid="30" szProductNo="BK100-8" szProductName="分离开关电缆" />
+            <ItemRoot17 nOid="31" szProductNo="BKD1-39A" szProductName="地面电缆" />
+            <ItemRoot18 nOid="32" szProductNo="BKD1-42" szProductName="慢旋火工品测试电缆" />
+            <ItemRoot19 nOid="33" szProductNo="BT1-14" szProductName="弹上电缆网" />
+            <ItemRoot20 nOid="34" szProductNo="BTD100-1" szProductName="测试电缆" />
+            <ItemRoot21 nOid="35" szProductNo="BTD100-2" szProductName="测试电缆" />
+            <ItemRoot22 nOid="36" szProductNo="BTD100-5" szProductName="测试电缆、短路插头、短路插座" />
+            <ItemRoot23 nOid="37" szProductNo="BY1-170" szProductName="弹头遥外测系统弹上电缆网" />
+            <ItemRoot24 nOid="38" szProductNo="BY1-180" szProductName="AY状态弹头遥外测系统头体连接电缆网" />
+            <ItemRoot25 nOid="56" szProductNo="YA4-359" szProductName="L频段10W功放及电源箱&#x0A;L频段100W功放及电源箱" />
+            <ItemRoot26 nOid="55" szProductNo="YA4-381" szProductName="L波段功放单元" />
+            <ItemRoot27 nOid="57" szProductNo="YF2-28E" szProductName="S波段调频发射机" />
+            <ItemRoot28 nOid="64" szProductNo="YF2-29A" szProductName="S波段调频发射机" />
+            <ItemRoot29 nOid="54" szProductNo="YF2-48A" szProductName="S波段数字发射机" />
+            <ItemRoot30 nOid="66" szProductNo="YF2-53" szProductName="遥测加密发射机" />
+            <ItemRoot31 nOid="52" szProductNo="YG8-20A" szProductName="Ka频段安控终端" />
+            <ItemRoot32 nOid="49" szProductNo="YH2-28A" szProductName="中心程序器" />
+            <ItemRoot33 nOid="59" szProductNo="YH3-194" szProductName="S频段射频耦合网络" />
+            <ItemRoot34 nOid="39" szProductNo="YH3-40D" szProductName="射频耦合网络" />
+            <ItemRoot35 nOid="62" szProductNo="YJ1-41" szProductName="数据存储与处理单元" />
+            <ItemRoot36 nOid="50" szProductNo="YJ1-49" szProductName="固态存储器" />
+            <ItemRoot37 nOid="68" szProductNo="YK3-94" szProductName="投放器控制盒" />
+            <ItemRoot38 nOid="67" szProductNo="YM2-88" szProductName="10MHz频率基准源" />
+            <ItemRoot39 nOid="58" szProductNo="YM4-70" szProductName="RS-422长线驱动器" />
+            <ItemRoot40 nOid="44" szProductNo="YP6-44B" szProductName="抗干扰导航接收装置" />
+            <ItemRoot41 nOid="65" szProductNo="YS1-60" szProductName="安控接收机" />
+            <ItemRoot42 nOid="63" szProductNo="YS1-60B" szProductName="安控接收机" />
+            <ItemRoot43 nOid="43" szProductNo="YS7-62" szProductName="功分器" />
+            <ItemRoot44 nOid="42" szProductNo="YS7-65" szProductName="合路器" />
+            <ItemRoot45 nOid="47" szProductNo="YT1-19" szProductName="倒北斗静态模拟器" />
+            <ItemRoot46 nOid="48" szProductNo="YT2-57" szProductName="远置采编器" />
+            <ItemRoot47 nOid="53" szProductNo="YT2-72" szProductName="远置采编器" />
+            <ItemRoot48 nOid="61" szProductNo="YT5-24" szProductName="空用小型加密模块" />
+            <ItemRoot49 nOid="69" szProductNo="YW10-83" szProductName="Ka波导天线阵面" />
+            <ItemRoot50 nOid="70" szProductNo="YW13-20" szProductName="Ka相控阵天线子系统" />
+            <ItemRoot51 nOid="45" szProductNo="YZ11-30" szProductName="S频段中继测控终端" />
+            <ItemRoot52 nOid="125" szProductNo="YZ2017" szProductName="YZ2017" />
+            <ItemRoot53 nOid="60" szProductNo="YZ6-9B" szProductName="自主安控装置" />
+            <ItemRoot54 nOid="46" szProductNo="YZ7-30" szProductName="设备监控单元" />
+            <ItemRoot55 nOid="41" szProductNo="YZ8-59" szProductName="应急应答机星载码产生模块" />
+            <ItemRoot56 nOid="40" szProductNo="YZ8-88" szProductName="星间链路扩频码模块" />
+            <ItemRoot57 nOid="124" szProductNo="liuty2017" szProductName="liuty2017" />
+        </SelProductInfo>
+    </UserSetConfig>
+</RootInfo>

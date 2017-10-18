@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<RootInfo Version="1.0" Date="2017-03-16" Time="09:27:45">
+    <UserSetConfig>
+        <SelProductInfo RowCnt="3">
+            <ItemRoot1 nOid="1" szProductNo="RBOA" szProductName="固态存储器" />
+            <ItemRoot2 nOid="3" szProductNo="YH2-28A-2" szProductName="中心程序器" />
+            <ItemRoot3 nOid="2" szProductNo="YJ3-26B(5M)" szProductName="延时存储器" />
+        </SelProductInfo>
+    </UserSetConfig>
+</RootInfo>

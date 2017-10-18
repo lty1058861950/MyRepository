@@ -1,0 +1,16 @@
+[2017-03-13 19:20:49]申请 CMainFrame.OnCreate,NewItemInfo 用时 93 毫秒
+[2017-03-13 19:22:03]CWordOffice::~CWordOffice()：1
+[2017-03-13 19:22:03]CWordOffice::~CWordOffice()：2
+[2017-03-13 19:22:04]CWordOffice::~CWordOffice()：3
+[2017-03-13 19:22:04]CWordOffice::~CWordOffice()：4
+[2017-03-13 19:22:04]CWordOffice::~CWordOffice()：5
+[2017-03-13 19:22:04]CWordOffice::~CWordOffice()：6
+[2017-03-13 19:22:04]CWordOffice::~CWordOffice()：7
+[2017-03-13 19:22:04]CWordOffice::~CWordOffice()：8
+[2017-03-13 19:22:04]CWordOffice::~CWordOffice()：9
+[2017-03-13 19:22:04]CWordOffice::~CWordOffice()：10
+[2017-03-13 19:22:04]CWordOffice::~CWordOffice()：11
+[2017-03-13 19:22:04]用时4726毫秒! ret=1, 合并中间文件,文件个数9
+[2017-03-13 19:22:04]用时8626毫秒! ret=1, 输出文件：C:\Users\ASUS_LTY\Desktop\Y27-30_2017-03-13_19_21.doc
+[2017-03-13 19:22:19]释放 CMainFrame::OnClose:Release 用时 0 毫秒
+[2017-03-13 19:22:19]释放 CMainFrame::OnClose:DeleteItemInfo 用时 312 毫秒

@@ -1,0 +1,11 @@
+[2017-02-16 09:50:41]申请 CMainFrame.OnCreate,NewItemInfo 用时 94 毫秒
+[2017-02-16 09:51:08]开始生成文件：c:\PAD_JH\DataManage\ReportTempPath\2017-02-16 09_51_08.doc
+[2017-02-16 09:51:15]用时7878毫秒! ret=1, 生成文件成功：c:\PAD_JH\DataManage\ReportTempPath\2017-02-16 09_51_08.doc
+[2017-02-16 09:51:22]开始生成文件：c:\PAD_JH\DataManage\ReportTempPath\t_Mode2_2017-02-16 09_51_19.doc
+[2017-02-16 09:51:22]开始生成文件：c:\PAD_JH\DataManage\ReportMode\传感器车间\通用模板\t_Mode2.doc
+[2017-02-16 09:51:24]用时780毫秒! ret=1, 生成文件成功：c:\PAD_JH\DataManage\ReportTempPath\t_Mode2_2017-02-16 09_51_19.doc
+[2017-02-16 09:51:24]开始生成文件：c:\PAD_JH\DataManage\ReportTempPath\t_Mode2_2017-02-16 09_51_24.doc
+[2017-02-16 09:51:24]开始生成文件：c:\PAD_JH\DataManage\ReportMode\传感器车间\通用模板\t_Mode2.doc
+[2017-02-16 09:51:26]用时905毫秒! ret=1, 生成文件成功：c:\PAD_JH\DataManage\ReportTempPath\t_Mode2_2017-02-16 09_51_24.doc
+[2017-02-16 09:51:27]用时1014毫秒! ret=1, 合并中间文件,文件个数3
+[2017-02-16 09:51:27]用时22963毫秒! ret=1, 输出文件：C:\Users\ASUS_LTY\Desktop\1BJ2-2_201607-2292_2017-02-16_09_51.doc

@@ -1,0 +1,15 @@
+[2017-02-16 10:09:43]申请 CMainFrame.OnCreate,NewItemInfo 用时 94 毫秒
+[2017-02-16 10:09:55][第1个]开始生成文件：c:\PAD_JH\DataManage\ReportTempPath\2017-02-16 10_09_55.doc
+[2017-02-16 10:09:56]用时904毫秒! ret=1, [第1个]生成文件成功：c:\PAD_JH\DataManage\ReportTempPath\2017-02-16 10_09_55.doc
+[2017-02-16 10:09:59][第2个]开始生成文件：c:\PAD_JH\DataManage\ReportTempPath\温度实验2_2017-02-16 10_09_59.doc
+[2017-02-16 10:09:59]开始生成文件：c:\PAD_JH\DataManage\ReportTempPath\t2_Mode.doc
+[2017-02-16 10:10:00]用时1107毫秒! ret=1, 生成文件成功：c:\PAD_JH\DataManage\ReportTempPath\t2_Mode.doc
+[2017-02-16 10:10:01]用时843毫秒! ret=1, [第2个]生成文件成功：c:\PAD_JH\DataManage\ReportTempPath\温度实验2_2017-02-16 10_09_59.doc
+[2017-02-16 10:10:01][第3个]开始生成文件：c:\PAD_JH\DataManage\ReportTempPath\温度试验_2017-02-16 10_10_01.doc
+[2017-02-16 10:10:01]开始生成文件：c:\PAD_JH\DataManage\ReportTempPath\t2_Mode.doc
+[2017-02-16 10:10:02]用时1107毫秒! ret=1, 生成文件成功：c:\PAD_JH\DataManage\ReportTempPath\t2_Mode.doc
+[2017-02-16 10:10:03]用时749毫秒! ret=1, [第3个]生成文件成功：c:\PAD_JH\DataManage\ReportTempPath\温度试验_2017-02-16 10_10_01.doc
+[2017-02-16 10:10:04]用时827毫秒! ret=1, 合并中间文件,文件个数3
+[2017-02-16 10:10:04]用时10000毫秒! ret=1, 输出文件：C:\Users\ASUS_LTY\Desktop\1BJ2-2_201607-2292_2017-02-16_10_09.doc
+[2017-02-16 10:11:08]释放 CMainFrame::OnClose:Release 用时 0 毫秒
+[2017-02-16 10:11:08]释放 CMainFrame::OnClose:DeleteItemInfo 用时 328 毫秒

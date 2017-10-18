@@ -1,0 +1,5 @@
+[2017-02-15 16:06:02]申请 CMainFrame.OnCreate,NewItemInfo 用时 109 毫秒
+[2017-02-15 16:07:16]用时827毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 16_07_15_601.doc
+[2017-02-15 16:07:18]用时796毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 16_07_17_744.doc
+[2017-02-15 16:07:20]用时812毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 16_07_19_751.doc
+[2017-02-15 16:07:21]用时5897毫秒! ret=1, 输出文件：C:\Users\ASUS_LTY\Desktop\Report_2017-02-15_16_07.doc

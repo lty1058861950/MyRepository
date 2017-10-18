@@ -1,0 +1,2 @@
+[2017-02-09 12:43:23]CResultShow::OnInitDialog() 用时 156 毫秒
+[2017-02-09 12:43:47]释放 CResultShow 用时 328 毫秒

@@ -1,0 +1,7 @@
+[2017-02-15 16:31:56]申请 CMainFrame.OnCreate,NewItemInfo 用时 93 毫秒
+[2017-02-15 16:32:22]用时842毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 16_32_21_896.doc
+[2017-02-15 16:32:24]用时795毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 16_32_24_17.doc
+[2017-02-15 16:32:26]用时827毫秒! ret=1, 输出文件：c:\PAD_JH\DataManage\ReportMode\2017-02-15 16_32_26_20.doc
+[2017-02-15 16:32:27]用时5819毫秒! ret=1, 输出文件：C:\Users\ASUS_LTY\Desktop\1BJ2-2_201607-2292_2017-02-15_16_32.doc
+[2017-02-15 16:33:35]释放 CMainFrame::OnClose:Release 用时 0 毫秒
+[2017-02-15 16:33:36]释放 CMainFrame::OnClose:DeleteItemInfo 用时 343 毫秒
